@@ -13,10 +13,10 @@ window.QUIZ_BANK.push(
   {
     id: "u4-02", unit: 4, word: "articulate", pos: "adj.", level: "六级",
     sentence: "She is remarkably ____ for a first-year student, able to explain complicated ideas in plain words.",
-    options: ["articulate", "arrogant", "accurate", "artificial"],
+    options: ["articulate", "arrogant", "athletic", "artificial"],
     answer: "articulate",
     meaning: "善于表达的",
-    note: "able to explain complicated ideas in plain words 正是“善于表达”的注解。arrogant 是“傲慢的”，accurate 是“准确的”，artificial 是“人造的”。"
+    note: "able to explain complicated ideas in plain words 正是“善于表达”的注解。arrogant 是“傲慢的”，athletic 是“运动的”，artificial 是“人造的”。"
   },
   {
     id: "u4-03", unit: 4, word: "audacious", pos: "adj.", level: "四级",

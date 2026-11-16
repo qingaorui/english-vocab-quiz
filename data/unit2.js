@@ -108,11 +108,11 @@ window.QUIZ_BANK.push(
   },
   {
     id: "u2-14", unit: 2, word: "hygienic", pos: "adj.", level: "六级",
-    sentence: "The kitchen was spotlessly clean and passed every ____ inspection with ease.",
+    sentence: "The restaurant passed every inspection: its kitchen was spotlessly clean and met the strictest ____ requirements.",
     options: ["hygienic", "hydraulic", "heroic", "harmonic"],
     answer: "hygienic",
     meaning: "卫生的",
-    note: "hygienic inspection 指“卫生检查”，与前句 spotlessly clean 呼应。hydraulic 是“液压的”，heroic 是“英勇的”，harmonic 是“和谐的”。"
+    note: "hygienic requirements 指“卫生方面的要求”，与前句 spotlessly clean 呼应。hydraulic 是“液压的”，heroic 是“英勇的”，harmonic 是“和谐的”。"
   },
   {
     id: "u2-15", unit: 2, word: "immerse", pos: "v.", level: "六级",
