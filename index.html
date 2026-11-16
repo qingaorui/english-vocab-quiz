@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>大学英语核心词汇 · 语境单选练习</title>
+<meta name="description" content="基于《大学英语》教材词汇表（Module 1–2）与四六级核心词汇制作的语境填空单选题，共 120+ 题，含即时解析、错题本与成绩统计。" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%236d5efc'/%3E%3Ctext x='32' y='44' font-size='34' font-family='Georgia,serif' font-weight='700' text-anchor='middle' fill='white'%3EA%3C/text%3E%3C/svg%3E" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="aurora" aria-hidden="true">
+  <span class="orb orb-1"></span>
+  <span class="orb orb-2"></span>
+  <span class="orb orb-3"></span>
+</div>
+<div class="grain" aria-hidden="true"></div>
+
+<header class="site-header">
+  <a class="brand" href="./" aria-label="返回首页">
+    <span class="brand-mark">A</span>
+    <span class="brand-text">
+      <strong>Vocabulary in Context</strong>
+      <small>大学英语核心词汇 · 语境单选</small>
+    </span>
+  </a>
+  <nav class="header-nav">
+    <button class="ghost-btn" id="nav-home" type="button">首页</button>
+    <button class="ghost-btn" id="nav-wrong" type="button">错题本 <b id="nav-wrong-count">0</b></button>
+  </nav>
+</header>
+
+<main id="app">
+
+  <!-- ============ 首页 ============ -->
+  <section id="screen-home" class="screen is-active" aria-labelledby="home-title">
+    <div class="hero">
+      <p class="eyebrow"><span class="pulse-dot"></span> 教材词汇表 × 四六级 · 语境填空</p>
+      <h1 id="home-title">把单词放回句子里，<br class="only-wide" />才真正记得住。</h1>
+      <p class="lede">
+        每道题给出一个完整语境句，挖去其中一个词，请从四个选项中选出最恰当的一项。
+        题目覆盖教材 Module 1–2 词汇表（Unit 1–4）与四六级高频词，干扰项均为同词性、易混词。
+      </p>
+      <div class="hero-chips">
+        <span class="chip"><b id="stat-total">0</b> 道题</span>
+        <span class="chip">4 个单元 + 四六级拓展</span>
+        <span class="chip">即时解析</span>
+        <span class="chip">错题自动归档</span>
+      </div>
+    </div>
+
+    <div class="setup-card">
+      <div class="setup-block">
+        <div class="setup-label">选择题库 <span class="setup-hint">按教材单元划分</span></div>
+        <div class="seg-group" id="bank-picker" role="group" aria-label="选择题库">
+          <button class="seg is-active" data-bank="all" type="button"><b>全部</b><small id="bank-count-all">0</small></button>
+          <button class="seg" data-bank="1" type="button"><b>Unit 1</b><small>新生挑战</small></button>
+          <button class="seg" data-bank="2" type="button"><b>Unit 2</b><small>健康饮食</small></button>
+          <button class="seg" data-bank="3" type="button"><b>Unit 3</b><small>课外活动</small></button>
+          <button class="seg" data-bank="4" type="button"><b>Unit 4</b><small>人际关系</small></button>
+          <button class="seg" data-bank="5" type="button"><b>四六级</b><small>拓展词汇</small></button>
+        </div>
+      </div>
+
+      <div class="setup-grid">
+        <div class="setup-block">
+          <div class="setup-label">本组题量</div>
+          <div class="seg-group compact" id="count-picker" role="group" aria-label="题量">
+            <button class="seg is-active" data-count="10" type="button"><b>10</b><small>热身</small></button>
+            <button class="seg" data-count="20" type="button"><b>20</b><small>标准</small></button>
+            <button class="seg" data-count="30" type="button"><b>30</b><small>强化</small></button>
+            <button class="seg" data-count="0" type="button"><b>全部</b><small>不限</small></button>
+          </div>
+        </div>
+        <div class="setup-block">
+          <div class="setup-label">顺序</div>
+          <div class="seg-group compact" id="order-picker" role="group" aria-label="出题顺序">
+            <button class="seg is-active" data-order="shuffle" type="button"><b>随机</b><small>每次不同</small></button>
+            <button class="seg" data-order="fixed" type="button"><b>顺序</b><small>按单元</small></button>
+          </div>
+        </div>
+      </div>
+
+      <div class="setup-actions">
+        <button class="primary-btn" id="start-btn" type="button">
+          <span>开始练习</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="secondary-btn" id="start-wrong-btn" type="button" hidden>练习错题本（<b id="wrong-btn-count">0</b>）</button>
+      </div>
+
+      <div class="stats-row">
+        <div class="stat"><span class="stat-num" id="stat-done">0</span><span class="stat-label">累计作答</span></div>
+        <div class="stat"><span class="stat-num" id="stat-acc">—</span><span class="stat-label">累计正确率</span></div>
+        <div class="stat"><span class="stat-num" id="stat-best">—</span><span class="stat-label">单组最佳</span></div>
+        <div class="stat"><span class="stat-num" id="stat-wrong">0</span><span class="stat-label">错题本</span></div>
+      </div>
+    </div>
+
+    <div class="tips">
+      <article class="tip-card">
+        <h3>怎么做更有效</h3>
+        <p>先凭语感选，再读解析确认搭配与词性。错题会自动进入错题本，隔天再做一遍，比一次刷完更牢。</p>
+      </article>
+      <article class="tip-card">
+        <h3>题目从哪来</h3>
+        <p>词条取自教材词汇表（四级无标记、六级 ★、更高要求 *），另补四六级高频词；句子按语境重写，不在原文中直接摘句。</p>
+      </article>
+      <article class="tip-card">
+        <h3>快捷键</h3>
+        <p><kbd>1</kbd>–<kbd>4</kbd> 或 <kbd>A</kbd>–<kbd>D</kbd> 选择答案，<kbd>Enter</kbd> 进入下一题，<kbd>H</kbd> 查看提示。</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ 答题页 ============ -->
+  <section id="screen-quiz" class="screen" aria-labelledby="q-index-label">
+    <div class="quiz-top">
+      <button class="icon-btn" id="quit-btn" type="button" aria-label="退出练习">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="quiz-progress-wrap">
+        <div class="quiz-progress-text">
+          <span id="q-index-label">第 1 / 10 题</span>
+          <span id="q-acc" class="quiz-acc">正确率 —</span>
+        </div>
+        <div class="progress-bar"><i id="progress-fill"></i></div>
+      </div>
+      <div class="quiz-score" title="本组得分"><span id="q-score">0</span><small>分</small></div>
+    </div>
+
+    <div class="question-card" id="question-card">
+      <div class="q-meta">
+        <span class="tag tag-unit" id="q-unit">Unit 1</span>
+        <span class="tag" id="q-pos">v.</span>
+        <span class="tag tag-level" id="q-level">四级</span>
+        <button class="hint-btn" id="hint-btn" type="button">提示 <kbd>H</kbd></button>
+      </div>
+
+      <p class="sentence" id="q-sentence"></p>
+      <p class="hint-line" id="hint-line" hidden></p>
+
+      <div class="options" id="options" role="group" aria-label="选项"></div>
+
+      <div class="feedback" id="feedback" hidden aria-live="polite">
+        <div class="feedback-head">
+          <span class="verdict" id="verdict">回答正确</span>
+          <span class="feedback-word" id="feedback-word">word</span>
+        </div>
+        <p class="feedback-meaning" id="feedback-meaning"></p>
+        <p class="feedback-note" id="feedback-note"></p>
+      </div>
+
+      <div class="quiz-actions">
+        <button class="primary-btn" id="next-btn" type="button" disabled>
+          <span id="next-text">下一题</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 成绩页 ============ -->
+  <section id="screen-result" class="screen" aria-labelledby="result-title">
+    <div class="result-card">
+      <div class="score-ring" id="score-ring">
+        <div class="score-ring-inner">
+          <span class="score-num" id="score-num">0%</span>
+          <span class="score-sub" id="score-sub">正确率</span>
+        </div>
+      </div>
+      <h2 id="result-title">练习完成</h2>
+      <p class="result-comment" id="result-comment"></p>
+
+      <div class="result-stats">
+        <div class="stat"><span class="stat-num" id="res-right">0</span><span class="stat-label">答对</span></div>
+        <div class="stat"><span class="stat-num" id="res-wrong">0</span><span class="stat-label">答错</span></div>
+        <div class="stat"><span class="stat-num" id="res-score">0</span><span class="stat-label">得分</span></div>
+        <div class="stat"><span class="stat-num" id="res-time">0:00</span><span class="stat-label">用时</span></div>
+      </div>
+
+      <div class="result-actions">
+        <button class="primary-btn" id="again-wrong-btn" type="button" hidden>重做本组错题（<b id="again-wrong-count">0</b>）</button>
+        <button class="secondary-btn" id="again-btn" type="button">再练一组</button>
+        <button class="text-btn" id="back-home-btn" type="button">返回首页</button>
+      </div>
+    </div>
+
+    <div class="review">
+      <h3 class="review-title">答题回顾</h3>
+      <div id="review-list" class="review-list"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>词汇依据：《大学英语》教材 Module 1–2 词汇表（Words and Phrases，p.184–189）整理，另补充四六级高频词。</p>
+  <p class="footer-mini">共 <span id="footer-total">0</span> 道语境单选题 · 纯静态页面 · <a href="https://github.com" target="_blank" rel="noopener">GitHub Pages</a> 托管</p>
+</footer>
+
+<script src="data/unit1.js"></script>
+<script src="data/unit2.js"></script>
+<script src="data/unit3.js"></script>
+<script src="data/unit4.js"></script>
+<script src="data/extra.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
