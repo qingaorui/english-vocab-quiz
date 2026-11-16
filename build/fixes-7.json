@@ -1,0 +1,45 @@
+[
+  {
+    "word": "entrepreneur",
+    "match": "The city's annual award for young business talent went to a ____",
+    "sentence": "The city's annual award for young business talent went to an ____ who had started with a single food truck and now runs nine restaurants across three provinces.",
+    "reason": "答案 entrepreneur 以元音开头，原句冠词 a 是语法错误，应为 an；四个选项均以元音开头，改冠词不影响唯一性。"
+  },
+  {
+    "word": "merger",
+    "match": "The ____ between the two rival supermarket ch",
+    "meaning": "（两家公司的）合并",
+    "reason": "释义中的「并构」不是规范中文词（应为「并购」），而 merger 的核心义是「合并」，改为「合并」以免教错术语。"
+  },
+  {
+    "word": "acquisition",
+    "match": "Analysts questioned the price the group paid for its latest ____",
+    "options": [
+      "acquisition",
+      "accusation",
+      "admission",
+      "advertisement"
+    ],
+    "note": "acquisition 指买下的公司或资产，与 paid for、the software firm 呼应；accusation 指责难；admission 指承认或许可进入；advertisement 指广告，都不能指被买下的公司。",
+    "reason": "addition 也可指「新纳入集团的公司」，「the price paid for its latest addition」同样成立，构成两个正确答案，换成语境明显不通的 advertisement。"
+  },
+  {
+    "word": "shift",
+    "match": "Nurses who work the night ____ finish at seve",
+    "sentence": "Nurses who pick up an extra night ____ finish at seven in the morning, just as the day staff arrive to take over their patients.",
+    "note": "shift 指轮班的时段，night shift 是固定搭配，pick up an extra shift 也常说；schedule 是时间表，session 指一场会议或一节课，term 指学期或任期，都不能表示早夜两班轮换的工作时段。",
+    "reason": "「Nurses who work the night schedule finish at seven in the morning」在英语中同样成立（night schedule 即夜班排班），与 shift 构成两个正确答案；改成 pick up an extra night shift 的固定搭配以排除 schedule。"
+  },
+  {
+    "word": "prejudice",
+    "match": "A national survey revealed that deep-rooted ____",
+    "options": [
+      "prejudice",
+      "principle",
+      "privilege",
+      "prestige"
+    ],
+    "note": "prejudice against 指对某群体的负面成见，与后文 interviewers assume such candidates lack theoretical depth 呼应；principle 是原则，常说 principle of；privilege 是特权；prestige 是声望，都不能与 against 搭配表示对某群体的成见。",
+    "reason": "presumption 本义就是「假定」，deep-rooted presumption against graduates 与后文 interviewers assume 直接呼应，构成第二个正确答案，须换掉该干扰项。"
+  }
+]

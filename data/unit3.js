@@ -1,5 +1,4 @@
-/* Unit 3 — Extracurricular Activities
-   词条来源：教材 Words and Phrases, UNIT 3（Part One / Two） */
+/* 教材词汇基础题库（30 题）— 审校修复后由 build/patch-base.js 重写 */
 window.QUIZ_BANK = window.QUIZ_BANK || [];
 window.QUIZ_BANK.push(
   {
@@ -108,11 +107,11 @@ window.QUIZ_BANK.push(
   },
   {
     id: "u3-14", unit: 3, word: "occasionally", pos: "ad.", level: "四级",
-    sentence: "He still ____ visits his old high school, even though it is three hours away by train.",
+    sentence: "He still ____ visits his old high school — only two or three times a year, even though the trip by train takes three hours.",
     options: ["occasionally", "ordinarily", "obediently", "optimistically"],
     answer: "occasionally",
     meaning: "偶尔；有时候",
-    note: "still occasionally visits 是“仍偶尔回去看看”，与路途遥远形成对照。ordinarily 是“通常”，obediently 是“顺从地”，optimistically 是“乐观地”。"
+    note: "still occasionally visits 是“至今仍偶尔回去看看”，破折号后的“一年不过两三次”正是“偶尔”的注脚；ordinarily 是“通常、一般”，与这个次数矛盾；obediently 是“顺从地”，optimistically 是“乐观地”，都不能说明探望次数。"
   },
   {
     id: "u3-15", unit: 3, word: "page-turner", pos: "n.", level: "更高要求",

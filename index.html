@@ -39,11 +39,11 @@
       <h1 id="home-title">把单词放回句子里，<br class="only-wide" />才真正记得住。</h1>
       <p class="lede">
         每道题给出一个完整语境句，挖去其中一个词，请从四个选项中选出最恰当的一项。
-        题目覆盖教材 Module 1–2 词汇表（Unit 1–4）与四六级高频词，干扰项均为同词性、易混词。
+        题目覆盖教材 Module 1–2 词汇表（Unit 1–4）、四六级高频词与教材固定搭配，干扰项均为同词性、易混词。
       </p>
       <div class="hero-chips">
         <span class="chip"><b id="stat-total">0</b> 道题</span>
-        <span class="chip">4 个单元 + 四六级拓展</span>
+        <span class="chip">4 个单元 + 四六级 + 短语</span>
         <span class="chip">即时解析</span>
         <span class="chip">错题自动归档</span>
       </div>
@@ -59,6 +59,7 @@
           <button class="seg" data-bank="3" type="button"><b>Unit 3</b><small>课外活动</small></button>
           <button class="seg" data-bank="4" type="button"><b>Unit 4</b><small>人际关系</small></button>
           <button class="seg" data-bank="5" type="button"><b>四六级</b><small>拓展词汇</small></button>
+          <button class="seg" data-bank="6" type="button"><b>短语</b><small>固定搭配</small></button>
         </div>
       </div>
 
@@ -78,6 +79,16 @@
             <button class="seg is-active" data-order="shuffle" type="button"><b>随机</b><small>每次不同</small></button>
             <button class="seg" data-order="fixed" type="button"><b>顺序</b><small>按单元</small></button>
           </div>
+        </div>
+      </div>
+
+      <div class="setup-block">
+        <div class="setup-label">难度筛选 <span class="setup-hint">按教材词汇标记，可与其他条件叠加</span></div>
+        <div class="seg-group compact" id="level-picker" role="group" aria-label="难度筛选">
+          <button class="seg is-active" data-level="all" type="button"><b>不限</b><small>全部难度</small></button>
+          <button class="seg" data-level="四级" type="button"><b>四级</b><small>基础</small></button>
+          <button class="seg" data-level="六级" type="button"><b>六级</b><small>★</small></button>
+          <button class="seg" data-level="更高要求" type="button"><b>更高要求</b><small>*</small></button>
         </div>
       </div>
 
@@ -104,7 +115,7 @@
       </article>
       <article class="tip-card">
         <h3>题目从哪来</h3>
-        <p>词条取自教材词汇表（四级无标记、六级 ★、更高要求 *），另补四六级高频词；句子按语境重写，不在原文中直接摘句。</p>
+        <p>词条取自教材词汇表（四级无标记、六级 ★、更高要求 *），并补充四六级高频词与教材固定搭配；句子按语境重写，不在原文中直接摘句。</p>
       </article>
       <article class="tip-card">
         <h3>快捷键</h3>
@@ -203,6 +214,13 @@
 <script src="data/unit3.js"></script>
 <script src="data/unit4.js"></script>
 <script src="data/extra.js"></script>
+<script src="data/unit1-extension.js"></script>
+<script src="data/unit2-extension.js"></script>
+<script src="data/unit3-extension.js"></script>
+<script src="data/unit4-extension.js"></script>
+<script src="data/cet-1.js"></script>
+<script src="data/cet-2.js"></script>
+<script src="data/phrases.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

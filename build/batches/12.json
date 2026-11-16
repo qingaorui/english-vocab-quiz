@@ -1,0 +1,29 @@
+{
+  "id": "12",
+  "unit": 5,
+  "kind": "word",
+  "perWord": 1,
+  "label": "四六级·心理与健康",
+  "words": [
+    "insomnia",
+    "fatigue",
+    "therapy",
+    "depression",
+    "mindfulness",
+    "meditation",
+    "symptom",
+    "diagnosis",
+    "prescription",
+    "chronic",
+    "acute",
+    "immunity",
+    "infection",
+    "vaccine",
+    "epidemic",
+    "quarantine",
+    "rehabilitation",
+    "addiction",
+    "sedentary",
+    "posture"
+  ]
+}

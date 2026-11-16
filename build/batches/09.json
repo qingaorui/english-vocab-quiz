@@ -1,0 +1,33 @@
+{
+  "id": "09",
+  "unit": 5,
+  "kind": "word",
+  "perWord": 1,
+  "label": "四六级·经济",
+  "words": [
+    "inflation",
+    "recession",
+    "unemployment",
+    "revenue",
+    "profit",
+    "investment",
+    "entrepreneur",
+    "startup",
+    "merger",
+    "acquisition",
+    "stakeholder",
+    "shareholder",
+    "dividend",
+    "subsidy",
+    "tariff",
+    "currency",
+    "debt",
+    "mortgage",
+    "bonus",
+    "promotion",
+    "resignation",
+    "outsourcing",
+    "productivity",
+    "efficiency"
+  ]
+}

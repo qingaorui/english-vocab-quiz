@@ -1,5 +1,4 @@
-/* 四六级拓展 — 在教材词汇表之外补充的高频词
-   这部分句子难度略高，适合冲刺阶段练习 */
+/* 教材词汇基础题库（20 题）— 审校修复后由 build/patch-base.js 重写 */
 window.QUIZ_BANK = window.QUIZ_BANK || [];
 window.QUIZ_BANK.push(
   {
@@ -157,9 +156,9 @@ window.QUIZ_BANK.push(
   {
     id: "ex-20", unit: 5, word: "immense", pos: "adj.", level: "四级",
     sentence: "The ____ popularity of the app surprised even its creators.",
-    options: ["immense", "immediate", "immune", "immature"],
+    options: ["immense", "imminent", "immune", "immature"],
     answer: "immense",
     meaning: "巨大的；极大的",
-    note: "immense popularity 指“极高的人气”，程度高于 great，与 surprised even its creators 呼应。immediate 是“立即的”，immune 是“免疫的”，immature 是“不成熟的”。"
+    note: "immense popularity 指“极高的人气”，程度高于 great，与 surprised even its creators 呼应。imminent 是“迫在眉睫的”，immune 是“免疫的”，immature 是“不成熟的”，都不能修饰 popularity 表示受欢迎的程度。"
   }
 );

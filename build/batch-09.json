@@ -1,0 +1,362 @@
+[
+  {
+    "word": "inflation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "With prices for vegetables and cooking oil climbing month after month, ordinary families found that their salaries bought far less than before, and economists warned that ____ could reach eight percent by winter.",
+    "options": [
+      "inflation",
+      "deflation",
+      "inflection",
+      "injection"
+    ],
+    "answer": "inflation",
+    "meaning": "通货膨胀；物价上涨、货币贬值",
+    "note": "inflation 指物价持续上涨，与菜价连涨、工资买得少呼应；deflation 是通缩；inflection 指语调变化；injection 指注射。"
+  },
+  {
+    "word": "recession",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Factories in the region cut shifts and froze hiring for nearly two years, and it took a full decade before employment returned to the level it had reached before the ____.",
+    "options": [
+      "recession",
+      "succession",
+      "concession",
+      "procession"
+    ],
+    "answer": "recession",
+    "meaning": "经济衰退；经济活动萎缩的低迷期",
+    "note": "recession 指经济衰退，与减产停招呼应；succession 指继任；concession 指让步；procession 指行列，均与经济低谷无关。"
+  },
+  {
+    "word": "unemployment",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "When the shipyard closed, ____ in the surrounding towns doubled within a year, and the local government had to open emergency job centres.",
+    "options": [
+      "unemployment",
+      "employment",
+      "underemployment",
+      "retirement"
+    ],
+    "answer": "unemployment",
+    "meaning": "失业；失业人数或失业率",
+    "note": "unemployment 指失业，与船厂倒闭、开就业中心呼应；employment 指就业；underemployment 指未充分就业；retirement 指退休。"
+  },
+  {
+    "word": "revenue",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Although the airline carried more passengers than ever last year, its ____ fell sharply because a fare war with two rivals forced it to cut ticket prices by a third.",
+    "options": [
+      "revenue",
+      "avenue",
+      "revenge",
+      "renewal"
+    ],
+    "answer": "revenue",
+    "meaning": "（企业或政府的）收入、营业额",
+    "note": "revenue 指营业额，客流增而票价降正是营收下滑；avenue 指途径；revenge 指报复；renewal 指续订。"
+  },
+  {
+    "word": "profit",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The bakery sold twice as many loaves as the year before, yet its ____ shrank because the price of flour and butter had risen even faster.",
+    "options": [
+      "profit",
+      "profile",
+      "prospect",
+      "provision"
+    ],
+    "answer": "profit",
+    "meaning": "利润；经营所得的盈余",
+    "note": "profit 指扣除成本后的盈利，销量翻倍而原料涨价更快正是利润缩水；profile 指形象；prospect 指前景；provision 指条款。"
+  },
+  {
+    "word": "investment",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Her advisor urged her to treat the summer internship as a long-term ____ rather than a way to earn quick cash, since the skills would pay off for decades.",
+    "options": [
+      "investment",
+      "involvement",
+      "installment",
+      "instrument"
+    ],
+    "answer": "investment",
+    "meaning": "投资；为将来收益投入的时间或金钱",
+    "note": "investment 指为将来回报投入的时间或金钱；involvement 指参与；installment 指分期付款的一期；instrument 指工具或乐器。"
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The city's annual award for young business talent went to an ____ who had started with a single food truck and now runs nine restaurants across three provinces.",
+    "options": [
+      "entrepreneur",
+      "enterprise",
+      "entrepreneurship",
+      "entrance"
+    ],
+    "answer": "entrepreneur",
+    "meaning": "创业者；白手起家经营企业的人",
+    "note": "entrepreneur 指自己创办企业的人，与从一辆餐车做到九家店呼应；enterprise 指企业本身；entrepreneurship 指创业精神；entrance 指入口。"
+  },
+  {
+    "word": "startup",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Two graduates launched their ____ from a shared desk in the university library, and within eighteen months it had attracted enough funding to hire thirty engineers.",
+    "options": [
+      "startup",
+      "outset",
+      "setup",
+      "shutdown"
+    ],
+    "answer": "startup",
+    "meaning": "初创企业；刚成立并寻求扩张的新公司",
+    "note": "startup 指靠融资扩张的新公司，与十八个月雇三十人呼应；outset 指开端；setup 指设备或安排；shutdown 指停业。"
+  },
+  {
+    "word": "merger",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The ____ between the two rival supermarket chains was announced on Monday, and by Friday regulators were already asking whether the combined group would control too much of the market.",
+    "options": [
+      "merger",
+      "acquisition",
+      "merchandise",
+      "merit"
+    ],
+    "answer": "merger",
+    "meaning": "（两家公司的）合并",
+    "note": "merger 指两家公司合为一体，与 between、combined group 呼应；acquisition 是收购，不与 between 连用；merchandise 指商品；merit 指优点。"
+  },
+  {
+    "word": "acquisition",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Analysts questioned the price the group paid for its latest ____, arguing that the small software firm was worth barely a third of the sum.",
+    "options": [
+      "acquisition",
+      "accusation",
+      "admission",
+      "advertisement"
+    ],
+    "answer": "acquisition",
+    "meaning": "收购；买下的公司或资产",
+    "note": "acquisition 指买下的公司或资产，与 paid for、the software firm 呼应；accusation 指责难；admission 指承认或许可进入；advertisement 指广告，都不能指被买下的公司。"
+  },
+  {
+    "word": "stakeholder",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Before finalising the plan to build a new factory, the board invited every ____, from nearby residents to the trade union and the main supplier, to comment on the proposal.",
+    "options": [
+      "stakeholder",
+      "shareholder",
+      "stockholder",
+      "caretaker"
+    ],
+    "answer": "stakeholder",
+    "meaning": "利益相关者；受决策影响的各方",
+    "note": "stakeholder 指受决策影响的各方，与居民、工会、供应商并列呼应；shareholder 与 stockholder 只指持股股东；caretaker 指看管人。"
+  },
+  {
+    "word": "shareholder",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Because each vote at the annual meeting is weighted by the number of shares held, even a small ____ can sometimes influence the outcome of a close poll.",
+    "options": [
+      "shareholder",
+      "stakeholder",
+      "stockbroker",
+      "spectator"
+    ],
+    "answer": "shareholder",
+    "meaning": "股东；持有公司股份的人",
+    "note": "shareholder 指持股的人，与 shares held 对应；stakeholder 指利益相关方，未必持股；stockbroker 是经纪人，不投票；spectator 指旁观者。"
+  },
+  {
+    "word": "dividend",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "After three loss-making years the company finally paid a ____ of 40 cents a share, and pension funds that had held the stock since 2015 cheered the news.",
+    "options": [
+      "dividend",
+      "bonus",
+      "premium",
+      "commission"
+    ],
+    "answer": "dividend",
+    "meaning": "股息；按股份分给股东的红利",
+    "note": "dividend 指按股分给股东的股息，与 40 cents a share 呼应；bonus 是奖金，不按股算；premium 指保费或溢价；commission 指佣金。"
+  },
+  {
+    "word": "subsidy",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Without the government ____ that covered nearly half the cost, few rural families could have afforded to install solar panels on their roofs.",
+    "options": [
+      "subsidy",
+      "subsidiary",
+      "substitute",
+      "subscription"
+    ],
+    "answer": "subsidy",
+    "meaning": "补贴；政府发放的补助金",
+    "note": "subsidy 指政府压低成本的补贴，与 covered half the cost 呼应；subsidiary 指子公司；substitute 指替代品；subscription 指订阅费。"
+  },
+  {
+    "word": "tariff",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The government imposed a 25 percent ____ on imported steel last spring, and domestic mills immediately raised their prices to match the new floor.",
+    "options": [
+      "tariff",
+      "toll",
+      "tribute",
+      "traffic"
+    ],
+    "answer": "tariff",
+    "meaning": "关税；对进口商品征收的税",
+    "note": "tariff 指对进口货征的关税，与 imported steel 呼应；toll 指通行费；tribute 指敬意或贡品；traffic 指交通流量，均不能表税率。"
+  },
+  {
+    "word": "currency",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Travellers were warned that the local ____ had lost a third of its value in six weeks, so changing money at the airport would be far more expensive than in town.",
+    "options": [
+      "currency",
+      "current",
+      "curriculum",
+      "occurrence"
+    ],
+    "answer": "currency",
+    "meaning": "货币；一国流通的通货",
+    "note": "currency 指流通货币，与 lost a third of its value 呼应；current 指水流或趋势；curriculum 指课程体系；occurrence 指事件。"
+  },
+  {
+    "word": "debt",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "He took a second job at weekends mainly to pay off the ____ he had run up during his final year at university.",
+    "options": [
+      "debt",
+      "doubt",
+      "debit",
+      "deposit"
+    ],
+    "answer": "debt",
+    "meaning": "债务；欠下未还的款项",
+    "note": "debt 指欠下的钱，与 pay off、run up 搭配呼应；doubt 指怀疑，不能被 pay off；debit 指借方记录；deposit 指押金或存款。"
+  },
+  {
+    "word": "mortgage",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "They put down a third of the price in cash and took out a thirty-year ____ to cover the rest, which they will be repaying until 2055.",
+    "options": [
+      "mortgage",
+      "merger",
+      "message",
+      "merchandise"
+    ],
+    "answer": "mortgage",
+    "meaning": "抵押贷款；以房产作担保的按揭",
+    "note": "mortgage 指以房产抵押的购房贷款，与三十年期、repaying 呼应；merger 指合并；message 指信息；merchandise 指货物。"
+  },
+  {
+    "word": "bonus",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Staff who smashed their sales targets last quarter each received a cash ____ worth three months' salary, which the manager said was cheaper than losing trained people.",
+    "options": [
+      "bonus",
+      "bargain",
+      "bond",
+      "burden"
+    ],
+    "answer": "bonus",
+    "meaning": "奖金；额外发放的报酬",
+    "note": "bonus 指达标后额外发的奖金，与 smashed targets、cash 呼应；bargain 指便宜货；bond 指债券；burden 指负担。"
+  },
+  {
+    "word": "promotion",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After she trained the three new assistants and covered two managers' duties for months, her ____ to regional director surprised nobody in the office.",
+    "options": [
+      "promotion",
+      "proposal",
+      "provision",
+      "proportion"
+    ],
+    "answer": "promotion",
+    "meaning": "晋升；职位上的提拔",
+    "note": "promotion 指职位提升，与 to regional director 呼应；proposal 指提议；provision 指供给或条款；proportion 指比例。"
+  },
+  {
+    "word": "resignation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The finance director handed in his ____ on Friday, just two days after auditors found that millions had been moved into an offshore account.",
+    "options": [
+      "resignation",
+      "reputation",
+      "rejection",
+      "revision"
+    ],
+    "answer": "resignation",
+    "meaning": "辞呈；主动辞去职务",
+    "note": "resignation 指主动辞职，hand in one's resignation 是固定说法；reputation 指名声；rejection 指拒绝；revision 指修改。"
+  },
+  {
+    "word": "outsourcing",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "The company's ____ of its customer service to a call centre abroad saved money in the short term, though customers soon complained about accents and long waits.",
+    "options": [
+      "outsourcing",
+      "outbreak",
+      "outlay",
+      "outcome"
+    ],
+    "answer": "outsourcing",
+    "meaning": "外包；把业务交给外部机构承办",
+    "note": "outsourcing 指把业务交给外部承办，与 of its customer service to a call centre 呼应；outbreak 指爆发；outlay 指开支；outcome 指结果。"
+  },
+  {
+    "word": "productivity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Senior managers were less impressed by the rise in output than by the gain in ____, since production had doubled while the number of hours worked stayed exactly the same.",
+    "options": [
+      "productivity",
+      "production",
+      "produce",
+      "product"
+    ],
+    "answer": "productivity",
+    "meaning": "生产率；单位投入所产出的成果",
+    "note": "productivity 指单位工时的产出，与产量翻倍而工时不变呼应；production 指产量本身，与前文 output 重复；produce 指农产品；product 指产品。"
+  },
+  {
+    "word": "efficiency",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "By replacing the old boilers with condensing models, the hotel cut its gas bill by half without reducing the temperature of a single guest room, a striking gain in ____.",
+    "options": [
+      "efficiency",
+      "sufficiency",
+      "deficiency",
+      "proficiency"
+    ],
+    "answer": "efficiency",
+    "meaning": "效率；以较少投入取得同样效果",
+    "note": "efficiency 指少投入得同样效果，与燃气费减半而室温不变呼应；sufficiency 指充足；deficiency 指缺乏；proficiency 指技能熟练。"
+  }
+]

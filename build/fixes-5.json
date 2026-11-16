@@ -1,0 +1,77 @@
+[
+  {
+    "word": "check in on",
+    "match": "Since the intern began working from home, her supervisor has ____",
+    "options": ["checked in on", "tuned in to", "logged on to", "weighed in on"],
+    "note": "check in on sb 指主动联系、过问某人的情况；tune in to 是收听节目，log on to 是登录系统，weigh in on 是就某议题插话发表意见（宾语应是议题），三者都不能以人作宾语。",
+    "reason": "干扰项 settled in to 不是英语固定短语（正确形式是 settle into），换成同样带 on、但只能接议题的 weighed in on。"
+  },
+  {
+    "word": "hammer out",
+    "match": "Negotiators will need at least a week to ____ the final wording",
+    "sentence": "The band spent most of the winter in a damp rehearsal room, trying to ____ the arrangement of each song before the tour began.",
+    "note": "hammer out an arrangement 指反复商量、反复磨合后把编曲定下来；make out 是辨认字迹或声音，hold out 是坚持不让步，stand out 是显眼，都不能表示把编曲谈定。",
+    "reason": "原句与同短语的 ph-07（委员会谈妥折中方案）语境几乎相同，改为乐队反复敲定每首歌的编曲，两题语境分开。"
+  },
+  {
+    "word": "on the spot",
+    "match": "Asked to say a few words at the alumni dinner, Professor Lin recalled a story about the old dormitory ____",
+    "sentence": "Asked to say a few words at the alumni dinner, Professor Lin ____ recalled a story about the dormitory, which surprised students who had assumed he had prepared a careful script.",
+    "reason": "原句 on the spot 紧跟 about the old dormitory 之后，读起来像修饰宿舍（在老宿舍现场），状语位置歧义，应移到动词前。"
+  },
+  {
+    "word": "factor in",
+    "match": "Rising delivery fees had not been ____ when the society priced its T-shirts",
+    "sentence": "The extra traffic that the new bypass would bring had not been ____ when the junction was designed, so queues now stretch half a mile at peak times.",
+    "note": "so 从句说高峰时段车流排出半英里，可见设计路口时没把绕城路带来的额外车流算进去；factored out 意为不计入，与拥堵的结果矛盾；traded in 是以旧换新，phased in 是分阶段实施。",
+    "reason": "原句与同短语的 ph-29（学生把路费算进预算）同属“钱没算进去就亏了”，语境重复，改为道路规划时未计入新增车流。"
+  },
+  {
+    "word": "be inclined to",
+    "match": "Shy students ____ keep quiet in seminars unless the tutor",
+    "options": ["are inclined to", "are reluctant to", "are about to", "are entitled to"],
+    "note": "so 从句说各系要安排轮流发言，正因为害羞的学生习惯性沉默；are reluctant to keep quiet 意为不愿沉默，与 shy 矛盾；are about to 表示即将发生，与长期的性格倾向不符；are entitled to 表有权，不解释各系为何要安排轮流发言。",
+    "reason": "are eager to keep quiet 在逻辑上也讲得通（害羞的人巴不得沉默），与 are inclined to 同样成立，换成表即将发生的 are about to。"
+  },
+  {
+    "word": "branch out",
+    "match": "After a decade of selling only coffee, the family bookshop ____ last spring",
+    "sentence": "After a decade of selling only second-hand paperbacks, the family bookshop ____ last spring, adding stationery, board games and a tiny gallery to its crowded shelves.",
+    "note": "adding stationery and board games 说明书店在旧书之外增加了新品类；branched off 指道路或管道分岔；broke out 指战争、火灾爆发；brought out 须接产品作宾语，意为推出。",
+    "reason": "原句说书店“十年只卖咖啡”，却又说 crowded shelves，前后矛盾、读不通，改为只卖旧平装书。"
+  },
+  {
+    "word": "branch out",
+    "match": "The software firm plans to ____ into language training",
+    "sentence": "Now that the children have left home, she plans to ____ into pottery, something she has wanted to try since her own school days.",
+    "note": "branch out into 指在原有领域之外开拓新方向，此处指开始一项新爱好；branch off 指道路、线路分岔；carry out 后直接接计划、任务作宾语；phase out 指逐步淘汰。",
+    "reason": "原句与同短语的 ph-39（书店扩充品类）同属公司拓展业务，语境重复，改为个人开辟新爱好。"
+  },
+  {
+    "word": "have sth in common",
+    "match": "The housing office asks every applicant to complete a short lifestyle questionnaire, because sharing a flat works best when the tenants ____",
+    "sentence": "Before matching each mentor with a first-year student, the programme compares their hobbies and reading habits, on the theory that pairs who ____ will talk more freely.",
+    "note": "把两人的爱好和阅读习惯拿来比对，说明要挑的是有共同点的一对；have much to offer 指能贡献很多，have much in store 指将来会有很多，have much at stake 指利害重大，都不表示彼此相近。",
+    "reason": "原句与同短语的 ph-41（室友发现彼此有许多共同点）同属合住相容，语境重复，改为按兴趣给学生配导师。"
+  },
+  {
+    "word": "sleep in",
+    "match": "Since my first lecture on Monday is not until eleven, I usually ____",
+    "sentence": "Since my first lecture is not until eleven, I usually ____ on weekday mornings, while my roommate, who has a nine o'clock lab, is already out the door.",
+    "note": "前句说第一节课十一点才开始，与九点就得出门的室友形成对比，说明自己上午赖床晚起；sleep off 后接头痛、疲劳，意为睡一觉消除；sleep on 后接待议之事，意为暂缓决定；sleep over 指在别人家过夜。",
+    "reason": "原句用“周一第一节课十一点”解释“周末睡懒觉”站不住脚，且室友周末九点做实验不合常理，改为平日上午的对比。"
+  },
+  {
+    "word": "check out",
+    "match": "Students may ____ as many as ten books at once",
+    "note": "nothing overdue on their account 是借书时系统设的条件，说明这里讲借出；check in 在图书馆语境指还书，方向正好相反；check up 多与 on 连用表核查，check off 是逐项打勾。",
+    "reason": "解析把 check in 只解作“登记入住或报到”，而图书馆里的 check in 正是“还书”，释义不准，需补正。"
+  },
+  {
+    "word": "narrow down",
+    "match": "More than two hundred films were submitted for the festival's short-film prize, and the shortlist ____",
+    "sentence": "Thanks to a neighbour's security camera, the time of the break-in ____ to a twenty-minute window before the detectives had even arrived.",
+    "note": "narrow down 指把范围收窄；这里把作案时间压缩到二十分钟的区间；was toned down 指被缓和，was watered down 指被削弱，was slowed down 指被放慢，都不能表示范围缩到某个区间。",
+    "reason": "原句与同短语的 ph-49（教练把名单缩到六人）同属“数目从多减到几个”，语境重复，改为把案发时间缩小到二十分钟区间。"
+  }
+]

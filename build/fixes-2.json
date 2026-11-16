@@ -1,0 +1,47 @@
+[
+  {
+    "word": "crawl",
+    "match": "At night, insects would ____ across the",
+    "note": "crawl 指身体贴着地面缓慢移动，主语常是昆虫、婴儿；insects across the kitchen floor 正是这种贴地爬动。climb 强调向上攀爬，crowd 是“拥挤、挤满”，crash 是“碰撞、撞上”。",
+    "reason": "解析把教材释义写成“（昆虫）在腿上爬行”，与本句“贴地爬过地板”不符，会误导学生对词义的把握。"
+  },
+  {
+    "word": "prevalent",
+    "match": "Obesity has become increasingly ____",
+    "options": ["prevalent", "precious", "preventive", "permanent"],
+    "note": "prevalent 表示某种现象在某一范围内“普遍存在”，常与 increasingly、among 连用。precious 是“珍贵的”，preventive 是“预防的”，permanent 是“永久的”，都不能说某现象在儿童中“越来越……”。",
+    "reason": "present 同样可与 increasingly、among 连用（increasingly present among children），两个选项都能填，换成 preventive。"
+  },
+  {
+    "word": "tender",
+    "match": "Cook the meat slowly for two hours until it becomes ____",
+    "note": "煮两小时直到能用勺子切开，说明肉“很嫩”。tough 是“（肉）老的、嚼不动的”，方向相反；tense 是“紧张的”，tidy 是“整洁的”。",
+    "reason": "解析中“能 used 勺子切开”是中英混杂的病句，需改为通顺中文。"
+  },
+  {
+    "word": "obesity",
+    "match": "Public-health experts describe ____",
+    "sentence": "Public-health experts describe ____ as a disease rather than a failure of willpower, noting that body weight is governed far more by genes and cheap fast food than by discipline.",
+    "note": "obesity 常被当作缺乏自制力的结果，专家因此强调它本身就是一种疾病：体重更多由基因与廉价快餐决定。diabetes 是糖尿病，malnutrition 是营养不良，anaemia 是贫血，都与句中的“体重”这一线索对不上。",
+    "reason": "diabetes 也能填入：糖尿病同样常被说成“疾病而非意志力问题”，且与基因、廉价快餐相关，须加 body weight 线索区分。"
+  },
+  {
+    "word": "appetite",
+    "match": "A brisk walk in the cold air always sharpens my ____",
+    "sentence": "A brisk walk always sharpens my ____, so I try to take one before dinner rather than afterwards, because without it I tend to just pick at whatever is on my plate.",
+    "reason": "原句“rather than afterwards, when I tend to pick at...”逻辑混乱：afterwards 指饭后，却接“吃不动、随便夹几口”，读不通。"
+  },
+  {
+    "word": "contamination",
+    "match": "The inspector shut the kitchen down after finding that raw chicken was stored above salad, a practice that risks cross-____",
+    "note": "cross-contamination 是食品安全的固定术语，指生食上的细菌转移到熟食。pollution 多指环境污染；infection 是“感染”，cross-infection 虽见于医院语境，但指病人之间相互传染，不用于食物之间；seasoning 是“调味（料）”，不能与 cross- 搭配。",
+    "reason": "解析说 infection“不能与 cross- 搭配”，但 cross-infection 是真实术语，解析本身有错。"
+  },
+  {
+    "word": "sanitation",
+    "match": "Volunteers rebuilding the village school insisted that proper ____ should come first",
+    "sentence": "Volunteers rebuilding the village school insisted that proper ____ should come first, arguing that piped water, drains and decent toilets matter more than new desks or books.",
+    "note": "sanitation 指供水、排污、厕所这类公共卫生设施，与 piped water, drains and decent toilets 对应；hygiene 指洗手、清洁等个人卫生习惯，nutrition 是营养，medication 是药物，都不指这些设施。",
+    "reason": "原句 clean water and decent toilets 同时可支撑 hygiene（个人卫生也靠净水与厕所），须改为 piped water, drains 等纯设施线索。"
+  }
+]

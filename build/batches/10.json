@@ -1,0 +1,29 @@
+{
+  "id": "10",
+  "unit": 5,
+  "kind": "word",
+  "perWord": 1,
+  "label": "四六级·职场",
+  "words": [
+    "recruitment",
+    "applicant",
+    "candidate",
+    "qualification",
+    "expertise",
+    "telecommute",
+    "appraisal",
+    "supervisor",
+    "subordinate",
+    "delegation",
+    "overtime",
+    "shift",
+    "contract",
+    "probation",
+    "dismissal",
+    "redundancy",
+    "pension",
+    "allowance",
+    "incentive",
+    "workplace"
+  ]
+}

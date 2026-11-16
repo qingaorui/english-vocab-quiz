@@ -1,0 +1,33 @@
+{
+  "id": "11",
+  "unit": 5,
+  "kind": "word",
+  "perWord": 1,
+  "label": "四六级·社会",
+  "words": [
+    "inclusion",
+    "discrimination",
+    "prejudice",
+    "stereotype",
+    "inequality",
+    "poverty",
+    "welfare",
+    "immigration",
+    "refugee",
+    "urbanisation",
+    "gentrification",
+    "heritage",
+    "ritual",
+    "custom",
+    "norm",
+    "taboo",
+    "generation",
+    "demographics",
+    "propaganda",
+    "censorship",
+    "privacy",
+    "surveillance",
+    "ethics",
+    "diversity"
+  ]
+}

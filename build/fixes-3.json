@@ -1,0 +1,35 @@
+[
+  {
+    "word": "occasionally",
+    "match": "He still ____ visits his old high school",
+    "sentence": "He still ____ visits his old high school — only two or three times a year, even though the trip by train takes three hours.",
+    "note": "still occasionally visits 是“至今仍偶尔回去看看”，破折号后的“一年不过两三次”正是“偶尔”的注脚；ordinarily 是“通常、一般”，与这个次数矛盾；obediently 是“顺从地”，optimistically 是“乐观地”，都不能说明探望次数。",
+    "reason": "still 后填 ordinarily（通常）或任何频率副词句子都成立，须在句中给出次数线索，才能唯一确定 occasionally。"
+  },
+  {
+    "word": "palette",
+    "match": "Mixing yellow straight into the blue was",
+    "sentence": "Mixing yellow straight into the blue was a mistake, so she now keeps her warm colours on a separate ____.",
+    "note": "palette 是调色时摆放颜料的板子；把黄色直接混进蓝色搞砸后，她改为把暖色单独放在一块调色板上。canvas 是画布，brush 是画笔，easel 是画架，都不能盛放调好的颜色。",
+    "reason": "原句 keeps a separate brush for warm colours 也完全成立（画家常为暖色单备画笔），与 palette 两解。"
+  },
+  {
+    "word": "participation",
+    "match": "Class ____ counts for twenty per cent of",
+    "options": [
+      "participation",
+      "attendance",
+      "preparation",
+      "punctuality"
+    ],
+    "note": "participation 指课上发言、参与讨论，所以才会有“从不发言就丢分”的结果；attendance 只看出勤，preparation 只看课前预习，punctuality 只看是否准时，三者都与发言无关，不发言照样能拿分。",
+    "reason": "Class performance（课堂表现）同样是常见评分项，与 participation 两解；presentation 也成立，干扰项须换成与“发言”无关的评分项。"
+  },
+  {
+    "word": "hobby",
+    "match": "What started as a weekend ____ has slowl",
+    "sentence": "What started as a weekend ____ that he took up purely for fun has slowly turned into a second career, and he now sells his bird photographs to magazines.",
+    "note": "hobby 指出于兴趣的业余爱好，与 took up purely for fun 对应；habit 是无意识的习惯，不能说 take up，chore 是家务杂活，assignment 是布置的任务，都不会出于兴趣去做。",
+    "reason": "What started as a weekend habit 同样成立（习惯也能变成职业），habit 与 hobby 两解，需用 took up ... for fun 排除。"
+  }
+]

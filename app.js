@@ -7,11 +7,12 @@
   var BANK = Array.isArray(window.QUIZ_BANK) ? window.QUIZ_BANK : [];
 
   var UNIT_META = {
-    1: { name: "Unit 1", topic: "新生挑战" },
-    2: { name: "Unit 2", topic: "健康饮食" },
-    3: { name: "Unit 3", topic: "课外活动" },
-    4: { name: "Unit 4", topic: "人际关系" },
-    5: { name: "四六级", topic: "拓展词汇" }
+    1: { name: "Unit 1", topic: "新生挑战", short: "校园" },
+    2: { name: "Unit 2", topic: "健康饮食", short: "饮食" },
+    3: { name: "Unit 3", topic: "课外活动", short: "社团" },
+    4: { name: "Unit 4", topic: "人际关系", short: "人际" },
+    5: { name: "四六级", topic: "拓展词汇", short: "拓展" },
+    6: { name: "短语", topic: "固定搭配", short: "短语" }
   };
 
   var LETTERS = ["A", "B", "C", "D"];
@@ -51,7 +52,7 @@
   }
 
   /* ---------- 状态 ---------- */
-  var config = { bank: "all", count: 10, order: "shuffle" };
+  var config = { bank: "all", count: 10, order: "shuffle", level: "all" };
   var session = null;
 
   /* ---------- 工具 ---------- */
@@ -64,10 +65,10 @@
     return a;
   }
 
-  function poolFor(bank) {
-    if (bank === "all") return BANK.slice();
-    var u = Number(bank);
-    return BANK.filter(function (q) { return q.unit === u; });
+  function poolFor(bank, level) {
+    var pool = bank === "all" ? BANK.slice() : BANK.filter(function (q) { return q.unit === Number(bank); });
+    if (level && level !== "all") pool = pool.filter(function (q) { return q.level === level; });
+    return pool;
   }
 
   function unitLabel(q) {
@@ -91,6 +92,17 @@
     $("stat-total").textContent = BANK.length;
     $("footer-total").textContent = BANK.length;
     $("bank-count-all").textContent = BANK.length;
+
+    var counts = {};
+    BANK.forEach(function (q) { counts[q.unit] = (counts[q.unit] || 0) + 1; });
+    Array.prototype.forEach.call(document.querySelectorAll("#bank-picker .seg"), function (btn) {
+      var small = btn.querySelector("small");
+      if (!small) return;
+      var key = btn.dataset.bank;
+      if (key === "all") { small.textContent = BANK.length + " 题"; return; }
+      var meta = UNIT_META[Number(key)] || { short: "" };
+      small.textContent = meta.short + " · " + (counts[Number(key)] || 0) + " 题";
+    });
 
     $("stat-done").textContent = stats.done;
     $("stat-acc").textContent = stats.done ? Math.round((stats.right / stats.done) * 100) + "%" : "—";
@@ -119,8 +131,11 @@
   }
 
   function startFromConfig() {
-    var pool = poolFor(config.bank);
-    if (!pool.length) return;
+    var pool = poolFor(config.bank, config.level);
+    if (!pool.length) {
+      alert("当前条件下没有题目，换一个题库或难度试试。");
+      return;
+    }
     var items;
     if (config.order === "shuffle") {
       items = shuffle(pool);
@@ -132,6 +147,7 @@
     }
     if (config.count > 0) items = items.slice(0, config.count);
     var label = config.bank === "all" ? "全部题库" : (UNIT_META[Number(config.bank)] || {}).name;
+    if (config.level !== "all") label += " · " + config.level;
     startSession(items, label);
   }
 
@@ -337,6 +353,7 @@
   bindSegment($("bank-picker"), "bank", function (v) { config.bank = v; });
   bindSegment($("count-picker"), "count", function (v) { config.count = Number(v); });
   bindSegment($("order-picker"), "order", function (v) { config.order = v; });
+  bindSegment($("level-picker"), "level", function (v) { config.level = v; });
 
   $("start-btn").addEventListener("click", startFromConfig);
   $("start-wrong-btn").addEventListener("click", startWrongBook);

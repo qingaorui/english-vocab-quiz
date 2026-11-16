@@ -1,0 +1,602 @@
+[
+  {
+    "word": "algorithm",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "When the music app kept recommending songs she had already bought, she guessed that the ____ behind its suggestions had been trained on far too narrow a sample.",
+    "options": [
+      "algorithm",
+      "logarithm",
+      "arithmetic",
+      "algebra"
+    ],
+    "answer": "algorithm",
+    "meaning": "（计算机）算法，运算规则",
+    "note": "algorithm 指按步骤自动运算的算法，与“被训练过的推荐机制”呼应；logarithm 是对数，arithmetic 是算术，algebra 是代数，三者都是数学分支，都不能被数据“训练”。"
+  },
+  {
+    "word": "automate",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Rather than hire three more clerks to key in invoices, the finance team chose to ____ the whole billing process, which now takes minutes instead of days.",
+    "options": [
+      "automate",
+      "evaluate",
+      "simulate",
+      "stimulate"
+    ],
+    "answer": "automate",
+    "meaning": "使自动化，用机器代替人工操作",
+    "note": "automate 指用机器自动完成流程，与“少雇三个人、几分钟办完”呼应；evaluate 是评估，simulate 是模拟，stimulate 是刺激，都不会让流程变快或省下人力。"
+  },
+  {
+    "word": "breakthrough",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After two decades of failed trials, the research team finally achieved a major ____ in battery chemistry: their cells now charge in under five minutes.",
+    "options": [
+      "breakthrough",
+      "breakdown",
+      "breakup",
+      "breakout"
+    ],
+    "answer": "breakthrough",
+    "meaning": "重大突破，突破性进展",
+    "note": "breakthrough 指科研上的重大突破，与“二十年失败后终于成功”呼应；breakdown 是故障或崩溃，breakup 是分手、解体，breakout 是越狱或爆发，都不能表示研究取得进展。"
+  },
+  {
+    "word": "cybersecurity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The university doubled its budget for ____ after several student accounts were hijacked and grades were quietly changed over the winter break.",
+    "options": [
+      "cybersecurity",
+      "cybercrime",
+      "cyberspace",
+      "cyberattack"
+    ],
+    "answer": "cybersecurity",
+    "meaning": "网络安全（防护网络与数据）",
+    "note": "cybersecurity 指保护系统与数据免遭攻击，与“账号被劫持、成绩被改”呼应；cybercrime 是网络犯罪本身，cyberspace 是网络空间，cyberattack 是一次攻击事件，都不是学校加预算去建设的东西。"
+  },
+  {
+    "word": "gadget",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "He keeps ordering clever little ____ from late-night shopping channels—a pen that scans text, a mug that stirs itself—and most end up in a drawer once the novelty wears off.",
+    "options": [
+      "gadget",
+      "appliance",
+      "instrument",
+      "apparatus"
+    ],
+    "answer": "gadget",
+    "meaning": "小装置，小巧新奇的器具",
+    "note": "gadget 指小巧新奇的小玩意儿，与“会扫描文字的笔、能自己搅拌的杯子”这类东西以及“新奇感一过就丢进抽屉”呼应；appliance 指洗衣机、烤炉一类家用电器，instrument 指精密仪器或乐器，apparatus 指成套的实验器械，都不能指这类随手买来又闲置的小东西。"
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Judges praised the design for its bold ____, noting that no other entry had rethought how an elderly patient might open a medicine bottle.",
+    "options": [
+      "innovation",
+      "imitation",
+      "invitation",
+      "invasion"
+    ],
+    "answer": "innovation",
+    "meaning": "创新，别出心裁的新做法",
+    "note": "innovation 指创新，与“别的参赛作品都没重新设想老人如何开药瓶”呼应；imitation 是模仿，invitation 是邀请，invasion 是入侵，后两个只外形相近，语义上都不含“别出心裁”之意。"
+  },
+  {
+    "word": "interface",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The app's new ____ is so cluttered with menus and pop-up ads that even experienced users need a tutorial before booking a ticket.",
+    "options": [
+      "interface",
+      "surface",
+      "interior",
+      "interval"
+    ],
+    "answer": "interface",
+    "meaning": "用户界面，人机交互界面",
+    "note": "interface 指软件界面上人与系统打交道的部分，与“菜单和弹窗杂乱”呼应；surface 是表面，interior 是内部，interval 是间隔，都不指操作界面。"
+  },
+  {
+    "word": "obsolete",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Within three years the software had become completely ____, because none of the current browsers could open the file format it saved in.",
+    "options": [
+      "obsolete",
+      "absolute",
+      "obstinate",
+      "abstract"
+    ],
+    "answer": "obsolete",
+    "meaning": "已过时的，被淘汰不用的",
+    "note": "obsolete 指被淘汰、不再通用，与“现在的浏览器都打不开它存的文件”呼应；absolute 是绝对的，obstinate 是固执的，abstract 是抽象的，都不能说明软件已无人使用。"
+  },
+  {
+    "word": "patent",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The startup filed a ____ on its foldable screen hinge last spring, hoping to license the design to three major phone makers.",
+    "options": [
+      "patent",
+      "parent",
+      "patient",
+      "pattern"
+    ],
+    "answer": "patent",
+    "meaning": "专利，发明创造的专有权",
+    "note": "patent 指专利，申请后可以授权他人使用，与“license the design”呼应；parent 是父母，patient 是病人，pattern 是模式，都不能与 file a ... on 搭配表示申请专利。"
+  },
+  {
+    "word": "prototype",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Engineers rode the first ____ of the electric scooter around campus for six weeks before deciding which parts needed redesigning.",
+    "options": [
+      "prototype",
+      "stereotype",
+      "protocol",
+      "prospect"
+    ],
+    "answer": "prototype",
+    "meaning": "（产品）原型，初版样机",
+    "note": "prototype 指试制样机，与“先骑六周，再决定哪些零件要改”呼应；stereotype 是刻板印象，protocol 是协议，prospect 是前景，都不是可供试骑的初版产品。"
+  },
+  {
+    "word": "robotics",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Because the programme combines mechanical design, programming and control theory, it is taught by the ____ department rather than by computer science.",
+    "options": [
+      "robotics",
+      "statistics",
+      "linguistics",
+      "journalism"
+    ],
+    "answer": "robotics",
+    "meaning": "机器人学，机器人技术",
+    "note": "robotics 指机器人学，兼含机械设计、编程与控制理论；statistics 是统计学，linguistics 是语言学，journalism 是新闻学，都不涉及机械与控制。"
+  },
+  {
+    "word": "virtual",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Since the chemistry lab was closed for renovation, the class moved to a ____ environment where students could mix reagents without any risk of burns.",
+    "options": [
+      "virtual",
+      "virtuous",
+      "viral",
+      "vital"
+    ],
+    "answer": "virtual",
+    "meaning": "虚拟的，计算机模拟的",
+    "note": "virtual 指由计算机生成的虚拟环境，与“实验室关门、学生零风险混试剂”呼应；virtuous 是品德高尚的，viral 是病毒式传播的，vital 是至关重要的，都不形容电脑做出来的空间。"
+  },
+  {
+    "word": "wireless",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "The café installed ____ charging pads on every table so that customers no longer fight over the two wall sockets near the door.",
+    "options": [
+      "wireless",
+      "weightless",
+      "endless",
+      "careless"
+    ],
+    "answer": "wireless",
+    "meaning": "无线的，不用电线连接的",
+    "note": "wireless 指无需接线，与“不用再抢墙上那两个插座”呼应；weightless 是无重量的，endless 是无休止的，careless 是粗心的，都不能说明充电方式。"
+  },
+  {
+    "word": "encryption",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Every message is sealed with end-to-end ____, so not even the company's own engineers can read what users send to one another.",
+    "options": [
+      "encryption",
+      "decryption",
+      "description",
+      "inscription"
+    ],
+    "answer": "encryption",
+    "meaning": "加密（保护数据不被人读取）",
+    "note": "encryption 指加密，所以连本公司工程师也读不到内容；decryption 是解密，方向正好相反；description 是描述，inscription 是铭刻，都不属于数据的保护手段。"
+  },
+  {
+    "word": "glitch",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "A minor software ____ held up the online exam for twenty minutes, forcing invigilators to restart every candidate's timer.",
+    "options": [
+      "glitch",
+      "glimpse",
+      "glossary",
+      "glamour"
+    ],
+    "answer": "glitch",
+    "meaning": "小故障，程序运行中的毛病",
+    "note": "glitch 指设备或程序的小故障，与“考试延误二十分钟、要重启计时器”呼应；glimpse 是一瞥，glossary 是术语表，glamour 是魅力，都不会让系统出错。"
+  },
+  {
+    "word": "upgrade",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The IT desk warned staff that the overnight ____ might leave the shared drive unavailable until noon on Friday.",
+    "options": [
+      "upgrade",
+      "upsurge",
+      "uplift",
+      "uproar"
+    ],
+    "answer": "upgrade",
+    "meaning": "升级，系统的更新换代",
+    "note": "upgrade 指系统升级，与“共享盘到周五中午前可能用不了”呼应；upsurge 是激增，uplift 是提升（情绪或价格），uproar 是喧闹抗议，都不会让服务器暂停服务。"
+  },
+  {
+    "word": "disrupt",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Heavy snow is expected to ____ rail services across the north tomorrow, and operators are already advising passengers to postpone their journeys.",
+    "options": [
+      "disrupt",
+      "corrupt",
+      "erupt",
+      "dispute"
+    ],
+    "answer": "disrupt",
+    "meaning": "扰乱，使服务中断受阻",
+    "note": "disrupt 指打断、扰乱既有的服务秩序，与“建议乘客推迟出行”呼应；corrupt 是使腐化，erupt 是（火山）喷发，dispute 是争论，都不能接 rail services 表示交通受阻。"
+  },
+  {
+    "word": "simulate",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "The flight school uses a full-motion cabin to ____ emergencies such as engine failure, so that trainees can practise without any real risk.",
+    "options": [
+      "simulate",
+      "stimulate",
+      "stipulate",
+      "speculate"
+    ],
+    "answer": "simulate",
+    "meaning": "模拟，用设备再现某种情境",
+    "note": "simulate 指模拟、再现真实情境，与“全动座舱、无风险演练”呼应；stimulate 是刺激、激发，stipulate 是明文规定，speculate 是推测，都不能表示用设备重现险情。"
+  },
+  {
+    "word": "immersive",
+    "pos": "adj.",
+    "level": "更高要求",
+    "sentence": "The museum's new ____ exhibition wraps visitors in projected ocean footage and surround sound, so that they feel they are walking on the sea floor.",
+    "options": [
+      "immersive",
+      "impulsive",
+      "inclusive",
+      "invasive"
+    ],
+    "answer": "immersive",
+    "meaning": "沉浸式的，令人身临其境的",
+    "note": "immersive 指让人完全进入其中，与“投影海景加环绕声、仿佛走在海底”呼应；impulsive 是冲动的，inclusive 是包容的，invasive 是侵入性的，都不能形容这种展览效果。"
+  },
+  {
+    "word": "wearable",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Devices that clip onto a shirt collar and record every heartbeat for a week are now the most popular ____ products in the campus store.",
+    "options": [
+      "wearable",
+      "bearable",
+      "breakable",
+      "washable"
+    ],
+    "answer": "wearable",
+    "meaning": "可穿戴的（随身佩戴）",
+    "note": "wearable 指可以穿戴在身上，与“夹在衬衫领口、跟着人走一整周”呼应；bearable 是可忍受的，breakable 是易碎的，washable 是可水洗的，都不表示佩戴式设备。"
+  },
+  {
+    "word": "autonomous",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "The campus shuttle became fully ____ last term: it runs its fixed loop without a driver while a technician watches from a control room.",
+    "options": [
+      "autonomous",
+      "anonymous",
+      "autumnal",
+      "autonomic"
+    ],
+    "answer": "autonomous",
+    "meaning": "自主运行的，无人驾驶的",
+    "note": "autonomous 指无人驾驶、自主运行，与“没有司机、技术员只在控制室看”呼应；anonymous 是匿名的，autumnal 是秋天的，autonomic 是自主神经系统的，都不形容车辆行驶方式。"
+  },
+  {
+    "word": "drone",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Farmers now send a ____ over their fields at dawn, and the pictures it takes show exactly where the watering is uneven.",
+    "options": [
+      "drone",
+      "drain",
+      "drake",
+      "draft"
+    ],
+    "answer": "drone",
+    "meaning": "无人机，无人驾驶飞行器",
+    "note": "drone 指无人机，与“飞到田地上空拍照、看出哪片没浇匀”呼应；drain 是排水沟，drake 是公鸭，draft 是草稿或穿堂风，都不会飞到田地上空拍照。"
+  },
+  {
+    "word": "biometric",
+    "pos": "adj.",
+    "level": "更高要求",
+    "sentence": "The lab's ____ lock reads the pattern of veins inside your fingertip, so a stolen key card is of no use to anyone.",
+    "options": [
+      "biometric",
+      "geometric",
+      "symmetric",
+      "rhythmic"
+    ],
+    "answer": "biometric",
+    "meaning": "生物识别的（凭身体特征）",
+    "note": "biometric 指靠身体特征识别身份，与“读取指尖静脉纹路”呼应；geometric 是几何的，symmetric 是对称的，rhythmic 是有节律的，都不涉及用人体特征验证身份。"
+  },
+  {
+    "word": "bandwidth",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Students working from home complained that lectures kept freezing, because the ____ in their building could not carry so many video streams at once.",
+    "options": [
+      "bandwidth",
+      "wavelength",
+      "breadth",
+      "branding"
+    ],
+    "answer": "bandwidth",
+    "meaning": "带宽，网络数据的传输容量",
+    "note": "bandwidth 指网络传输容量，与“同时承载不了这么多视频流”呼应；wavelength 是波长，breadth 是宽度或广度，branding 是品牌塑造，都不能说明网络容量不足。"
+  },
+  {
+    "word": "server",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "When the ____ hosting the course site went down during registration, thousands of students spent an hour staring at an error page.",
+    "options": [
+      "server",
+      "servant",
+      "saver",
+      "serving"
+    ],
+    "answer": "server",
+    "meaning": "服务器，网络服务主机",
+    "note": "server 指提供网络服务的服务器，与“托管课程网站、注册时宕机”呼应；servant 是仆人，saver 是储蓄者，serving 是一份（食物），都不能承载网站。"
+  },
+  {
+    "word": "database",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The library's ____ of past exam papers can be searched by course code, but full texts are open only to students who are enrolled.",
+    "options": [
+      "database",
+      "deadline",
+      "debate",
+      "deposit"
+    ],
+    "answer": "database",
+    "meaning": "数据库，可检索的数据集合",
+    "note": "database 指可按字段检索的数据库，与“按课程代码搜索”呼应；deadline 是截止日期，debate 是辩论，deposit 是押金，都不可被检索，也收藏不了论文。"
+  },
+  {
+    "word": "malware",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "One attachment carrying ____ slipped past the mail filter and scrambled every file on the department's shared drive overnight.",
+    "options": [
+      "malware",
+      "hardware",
+      "firmware",
+      "freeware"
+    ],
+    "answer": "malware",
+    "meaning": "恶意软件，用来破坏系统的程序",
+    "note": "malware 指恶意软件，与“绕过邮件过滤、把文件全部打乱”呼应；hardware 是硬件，firmware 是固件，freeware 是免费软件，本身都不会破坏别人的文件。"
+  },
+  {
+    "word": "hacker",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Investigators believe a single ____ got into the payroll system by guessing an employee's password, then quietly redirecting salary payments.",
+    "options": [
+      "hacker",
+      "hijacker",
+      "heckler",
+      "hiker"
+    ],
+    "answer": "hacker",
+    "meaning": "黑客，非法入侵系统的人",
+    "note": "hacker 指非法入侵计算机系统的人，与“猜出密码进入工资系统、改走工资”呼应；hijacker 是劫持交通工具者，heckler 是起哄者，hiker 是徒步者，都与入侵系统无关。"
+  },
+  {
+    "word": "nanotechnology",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Researchers are using ____ to build a coating so thin that it keeps a phone screen from cracking while adding almost no weight.",
+    "options": [
+      "nanotechnology",
+      "biotechnology",
+      "methodology",
+      "ideology"
+    ],
+    "answer": "nanotechnology",
+    "meaning": "纳米技术，在极微小尺度上加工",
+    "note": "nanotechnology 指在纳米尺度上加工材料，与“极薄却防裂、几乎不增加重量”呼应；biotechnology 是生物技术，methodology 是方法论，ideology 是意识形态，都不能用来造涂层。"
+  },
+  {
+    "word": "genome",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "By sequencing the ____ of a desert plant, biologists found a cluster of genes that lets it survive on almost no water at all.",
+    "options": [
+      "genome",
+      "gnome",
+      "genius",
+      "genesis"
+    ],
+    "answer": "genome",
+    "meaning": "基因组，一个生物的全部遗传信息",
+    "note": "genome 指一个物种的全部遗传信息，可以整体测序，与“从中找到一簇耐旱基因”呼应；gnome 是小妖精，genius 是天才，genesis 是起源，都与测序无关。"
+  },
+  {
+    "word": "satellite",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Forecasters depend on a ____ that orbits the planet every ninety minutes, sending back images of storm clouds forming over the ocean.",
+    "options": [
+      "satellite",
+      "submarine",
+      "scaffold",
+      "spaceship"
+    ],
+    "answer": "satellite",
+    "meaning": "人造卫星，绕地运行的航天器",
+    "note": "satellite 指人造卫星，绕地球运行并回传云图，与“每九十分钟绕地球一圈”呼应；submarine 是潜艇，scaffold 是脚手架，都到不了太空；spaceship 是载人飞船，不承担气象观测。"
+  },
+  {
+    "word": "semiconductor",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "The worldwide shortage of ____ chips has forced carmakers to pause production lines, since a single modern vehicle now needs several hundred of them.",
+    "options": [
+      "semiconductor",
+      "conductor",
+      "superconductor",
+      "insulator"
+    ],
+    "answer": "semiconductor",
+    "meaning": "半导体，制造芯片的材料",
+    "note": "semiconductor 指半导体，是制造芯片的材料，semiconductor chips 即车载芯片；conductor 是导体（如铜线），superconductor 是超导体，insulator 是绝缘体，三者都不能用来指这类芯片。"
+  },
+  {
+    "word": "battery",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "My phone's ____ drains twice as fast whenever location services are on, so I switch them off unless I am actually navigating.",
+    "options": [
+      "battery",
+      "charger",
+      "adapter",
+      "speaker"
+    ],
+    "answer": "battery",
+    "meaning": "电池，给手机供电的装置",
+    "note": "battery 指电池，可以被 drain（耗尽），与“定位一开就掉电快”呼应；charger 是充电器，adapter 是适配器，speaker 是扬声器，它们本身不“耗电”。"
+  },
+  {
+    "word": "launch",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "Rivals were caught off guard when the company chose the first week of March to ____ its folding phone, a month earlier than expected.",
+    "options": [
+      "launch",
+      "lunch",
+      "lance",
+      "lunge"
+    ],
+    "answer": "launch",
+    "meaning": "发布，推出（新产品）",
+    "note": "launch 指把新产品推向市场，与“比预期早一个月推出折叠手机”呼应；lunch 是吃午饭，lance 是用矛刺开，lunge 是猛冲，都不能接 its folding phone 作宾语。"
+  },
+  {
+    "word": "malfunction",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "A sensor ____ kept the whole fleet of delivery robots grounded for two days while engineers traced the fault to a loose cable.",
+    "options": [
+      "malfunction",
+      "function",
+      "junction",
+      "fusion"
+    ],
+    "answer": "malfunction",
+    "meaning": "故障，机器运转出现的失灵",
+    "note": "malfunction 指设备运转失灵，与“整批机器人停摆两天、查出一根松掉的线”呼应；function 是功能，junction 是交叉路口，fusion 是融合，都不指机器出毛病。"
+  },
+  {
+    "word": "calibrate",
+    "pos": "v.",
+    "level": "更高要求",
+    "sentence": "Technicians must ____ the scales every morning, because even a slight tilt can make the readings drift by several grams.",
+    "options": [
+      "calibrate",
+      "calculate",
+      "celebrate",
+      "circulate"
+    ],
+    "answer": "calibrate",
+    "meaning": "校准，校正仪器的读数",
+    "note": "calibrate 指校准仪器，与“地面稍一倾斜读数就差几克”呼应；calculate 是计算，celebrate 是庆祝，circulate 是循环或传播，都不能让秤重新准确。"
+  },
+  {
+    "word": "sensor",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The thermostat's ____ notices when a room is empty and turns the heating down, which cut our winter bill by about a fifth.",
+    "options": [
+      "sensor",
+      "censor",
+      "censer",
+      "cursor"
+    ],
+    "answer": "sensor",
+    "meaning": "传感器，感知环境的元件",
+    "note": "sensor 指能感知环境变化的传感器，与“察觉房间没人就自动调低暖气”呼应；censor 是审查员，censer 是香炉，cursor 是屏幕光标，都不探测房间状况。"
+  },
+  {
+    "word": "telecommunication",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Only a few decades ago, laying a cable across the ocean was a task that demanded the resources of a national ____ company.",
+    "options": [
+      "telecommunication",
+      "transportation",
+      "teleportation",
+      "translation"
+    ],
+    "answer": "telecommunication",
+    "meaning": "电信（行业），远距离通信",
+    "note": "telecommunication 指电信，与“跨国铺设海底电缆的公司”呼应；transportation 是运输，teleportation 是科幻中的瞬间传送，translation 是翻译，都与铺电缆的业务无关。"
+  },
+  {
+    "word": "digitize",
+    "pos": "v.",
+    "level": "更高要求",
+    "sentence": "Volunteers spent the whole summer helping the local archive ____ thousands of handwritten letters so that historians could search them online.",
+    "options": [
+      "digitize",
+      "criticize",
+      "memorize",
+      "dramatize"
+    ],
+    "answer": "digitize",
+    "meaning": "数字化，转成电子数据",
+    "note": "digitize 指把纸质材料转成电子数据，与“让历史学家能在网上检索手写信”呼应；criticize 是批评，memorize 是记忆，dramatize 是改编成戏剧，都不会产生可检索的电子版。"
+  },
+  {
+    "word": "authenticate",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Anyone wishing to reset a forgotten password must first ____ themselves with a one-time code sent to their registered phone number.",
+    "options": [
+      "authenticate",
+      "autograph",
+      "authorize",
+      "automate"
+    ],
+    "answer": "authenticate",
+    "meaning": "验证身份，证明是本人",
+    "note": "authenticate 指验证身份，与“用一次性验证码证明是本人”呼应；authorize 是授权某人做某事，不接反身代词；autograph 是签名，automate 是使自动化，均不合。"
+  }
+]

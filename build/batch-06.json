@@ -1,0 +1,452 @@
+[
+  {
+    "word": "empathy",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "What makes her such a good listener is not pity but the ability to feel a friend's panic as if it were her own, and that kind of ____ cannot be faked.",
+    "options": [
+      "empathy",
+      "apathy",
+      "antipathy",
+      "indifference"
+    ],
+    "answer": "empathy",
+    "meaning": "设身处地体会他人感受的能力",
+    "note": "empathy 指能设身处地体会他人情绪；apathy 是冷漠无动于衷，antipathy 是反感厌恶，indifference 也是漠然置之，三者都与体会朋友恐慌的能力相反。"
+  },
+  {
+    "word": "sympathy",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "When the nurses went on strike over night shifts, half the town wore blue ribbons in ____, though few of the wearers could explain the details of the dispute.",
+    "options": [
+      "sympathy",
+      "empathy",
+      "apathy",
+      "antipathy"
+    ],
+    "answer": "sympathy",
+    "meaning": "同情；对他人遭遇的声援",
+    "note": "in sympathy with 是固定搭配，指同情并声援；empathy 是感同身受的能力，不说 in empathy；apathy 是冷漠，antipathy 是反感。"
+  },
+  {
+    "word": "rapport",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Within a week the new teacher had learned every student's nickname, and the easy ____ she built with the class made even the shy ones willing to speak up.",
+    "options": [
+      "rapport",
+      "report",
+      "relation",
+      "contact"
+    ],
+    "answer": "rapport",
+    "meaning": "融洽关系；彼此投合的默契",
+    "note": "build rapport with sb 指建立融洽关系；report 是报告；relation 表人际多用复数 relations；contact 是联系渠道，不与 build 搭配表亲近。"
+  },
+  {
+    "word": "trust",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "It took two years of keeping every small promise before the villagers' ____ in the young doctor was complete.",
+    "options": [
+      "trust",
+      "thrust",
+      "truce",
+      "truth"
+    ],
+    "answer": "trust",
+    "meaning": "信任；对某人可靠性的信赖",
+    "note": "trust in sb 指对某人的信赖；thrust 是猛推或要旨，truce 是停战协定，truth 是真相，三者都不能与 in 搭配并表示日积月累建立起来的信赖。"
+  },
+  {
+    "word": "loyalty",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The chain has never run a discount campaign, yet the ____ of its customers is such that some of them drive forty miles to the nearest branch.",
+    "options": [
+      "loyalty",
+      "royalty",
+      "penalty",
+      "legacy"
+    ],
+    "answer": "loyalty",
+    "meaning": "忠诚；始终如一的支持",
+    "note": "loyalty 指顾客的忠诚与持续支持；royalty 是版税或王室，penalty 是罚款，legacy 是遗产，都无法解释顾客宁愿开车四十英里也要来光顾。"
+  },
+  {
+    "word": "conflict",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The small disagreements over money and chores went on for years, but they only became open ____ when the two brothers decided to sell the family shop.",
+    "options": [
+      "conflict",
+      "contact",
+      "contrast",
+      "contract"
+    ],
+    "answer": "conflict",
+    "meaning": "冲突；公开的对立与争执",
+    "note": "conflict 指双方公开的对立；contact 是接触联系，contrast 是反差，contract 是合同，都不能表示多年小摩擦升级为公开对抗。"
+  },
+  {
+    "word": "resolution",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "After six months of quarrelling over the shared driveway, the two families finally reached a ____ that both sides could live with.",
+    "options": [
+      "resolution",
+      "revision",
+      "revolution",
+      "resumption"
+    ],
+    "answer": "resolution",
+    "meaning": "争端的解决；问题的化解",
+    "note": "reach a resolution 指争端得到解决；revision 是修改，revolution 是剧变，resumption 是中断后的恢复，都不能由争执双方 reach 表问题了结。"
+  },
+  {
+    "word": "negotiation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The salary ____ dragged on for three weeks because neither side was willing to name a figure first, and in the end the union proposed binding arbitration.",
+    "options": [
+      "negotiation",
+      "notification",
+      "nomination",
+      "regulation"
+    ],
+    "answer": "negotiation",
+    "meaning": "谈判；为达成协议的磋商",
+    "note": "salary negotiation 指薪资谈判；notification 是通知，nomination 是提名，regulation 是规章，都不会因双方不肯先报价而拖了三周。"
+  },
+  {
+    "word": "compromise",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Neither side got everything it wanted, but after two hours of bargaining they struck a ____ that gave the workers a small raise and the managers a longer trial period.",
+    "options": [
+      "compromise",
+      "promise",
+      "premise",
+      "premium"
+    ],
+    "answer": "compromise",
+    "meaning": "折中方案；双方各让一步",
+    "note": "strike a compromise 指达成折中方案；promise 是承诺，premise 是前提，premium 是保费或溢价，都不能与 strike a 连用表各让一步。"
+  },
+  {
+    "word": "mediation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Rather than take the landlord to court over the deposit, the tenants agreed to try ____, and a retired judge settled the dispute in a single afternoon.",
+    "options": [
+      "mediation",
+      "meditation",
+      "medication",
+      "moderation"
+    ],
+    "answer": "mediation",
+    "meaning": "第三方调解；居中斡旋",
+    "note": "mediation 指由第三方居中调解；meditation 是冥想，medication 是药物，moderation 是适度，都与退休法官出面帮双方了结押金纠纷这一情节不符。"
+  },
+  {
+    "word": "assertive",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "The workshop teaches students to state a need clearly and calmly, without either backing down or raising their voice, and that ____ style is much harder to learn than it sounds.",
+    "options": [
+      "assertive",
+      "passive",
+      "aggressive",
+      "excessive"
+    ],
+    "answer": "assertive",
+    "meaning": "自信而坚定地表达立场的",
+    "note": "assertive 指坚定表达且不攻击；passive 与 without backing down 矛盾，aggressive 与 without raising their voice 矛盾，excessive 是过分。"
+  },
+  {
+    "word": "passive",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "He never complained when the group handed him the dullest task, but his ____ acceptance of every unreasonable request eventually made the whole team look weak.",
+    "options": [
+      "passive",
+      "active",
+      "aggressive",
+      "assertive"
+    ],
+    "answer": "passive",
+    "meaning": "消极被动的；不抗争的",
+    "note": "passive 指消极接受、不作争取；active 是积极主动，aggressive 是咄咄逼人，assertive 是坚定表态，都与从不抱怨、什么要求都接受的表现不符。"
+  },
+  {
+    "word": "aggressive",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Colleagues stopped disagreeing with him because his ____ tone, his raised voice and his habit of cutting people off mid-sentence turned every routine discussion into a fight.",
+    "options": [
+      "aggressive",
+      "assertive",
+      "ambitious",
+      "attentive"
+    ],
+    "answer": "aggressive",
+    "meaning": "咄咄逼人的；带攻击性的",
+    "note": "aggressive 指带攻击性的强势；assertive 坚定却不冒犯，与打断别人说话矛盾；ambitious 是有抱负，attentive 是专注体贴，都不修饰这种语气。"
+  },
+  {
+    "word": "gossip",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "She refused to join the group chat where colleagues rated the new manager's clothes, saying she wanted nothing to do with that kind of ____.",
+    "options": [
+      "gossip",
+      "gospel",
+      "gesture",
+      "glimpse"
+    ],
+    "answer": "gossip",
+    "meaning": "闲话；议论他人私事的流言",
+    "note": "gossip 指议论不在场者私事的闲话；gospel 是福音，gesture 是手势，glimpse 是一瞥，都不能指代群里给经理衣服打分这种背后议论。"
+  },
+  {
+    "word": "rumour",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Within an hour of the notice being posted, ____ had spread through the department that the whole office was closing, though nobody had actually read the memo.",
+    "options": [
+      "rumour",
+      "humour",
+      "tumour",
+      "glamour"
+    ],
+    "answer": "rumour",
+    "meaning": "传闻；未经证实的消息",
+    "note": "rumour 可带 that 同位语从句说明传言内容；humour 是幽默，tumour 是肿瘤，glamour 是魅力，都不能接 that 从句表示办公室关门的消息传开。"
+  },
+  {
+    "word": "misunderstanding",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "What began as a mistyped date turned into a serious ____ between the two departments, and it was weeks before anyone thought to check the original email.",
+    "options": [
+      "misunderstanding",
+      "misconception",
+      "misgiving",
+      "understanding"
+    ],
+    "answer": "misunderstanding",
+    "meaning": "误会；因沟通不畅产生的隔阂",
+    "note": "misunderstanding 指双方间的误会，可与 between 连用；misconception 是错误认识，多接 about；misgiving 是疑虑；understanding 是默契，与笔误起争执不符。"
+  },
+  {
+    "word": "apology",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "He never raised his voice during the quarrel, but the fact that he waited three weeks to offer a formal ____ told her more about the friendship than the argument itself.",
+    "options": [
+      "apology",
+      "analogy",
+      "anthology",
+      "ecology"
+    ],
+    "answer": "apology",
+    "meaning": "道歉；为过失作出的致歉",
+    "note": "offer a formal apology 指正式道歉；analogy 是类比，anthology 是选集，ecology 是生态学，都与吵嘴之后隔了三周才表态这一情境无关。"
+  },
+  {
+    "word": "forgiveness",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Instead of demanding that his neighbour be punished, the old man said he had long since chosen ____, because carrying the anger any further would only have hurt himself.",
+    "options": [
+      "forgiveness",
+      "forgetfulness",
+      "permission",
+      "resentment"
+    ],
+    "answer": "forgiveness",
+    "meaning": "宽恕；不再追究他人过错",
+    "note": "forgiveness 指宽恕不再追究；forgetfulness 是健忘，permission 是许可，都与不要求惩罚邻居无关；resentment 是怨恨，与不再抱着怒气相反。"
+  },
+  {
+    "word": "gratitude",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Years later he still spoke of the nurse who stayed past midnight, and the ____ in his voice made it clear that no gift could ever repay her.",
+    "options": [
+      "gratitude",
+      "attitude",
+      "altitude",
+      "aptitude"
+    ],
+    "answer": "gratitude",
+    "meaning": "感激之情；由衷的谢意",
+    "note": "gratitude 指感激之情；attitude 是态度看法，altitude 是海拔，aptitude 是天资，都不能与 in his voice 搭配表任何礼物都报答不了她。"
+  },
+  {
+    "word": "compliment",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "He rarely praised anyone, so the ____ he paid her on her presentation, two sentences delivered without a smile, was repeated to her friends for weeks.",
+    "options": [
+      "compliment",
+      "complement",
+      "commitment",
+      "complaint"
+    ],
+    "answer": "compliment",
+    "meaning": "赞美之辞；对某人的称赞",
+    "note": "pay sb a compliment on sth 指就某事称赞某人；complement 是补充物，commitment 是承诺，complaint 是抱怨，都不接 he paid her on her presentation。"
+  },
+  {
+    "word": "criticism",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Six months of unrelenting ____ from a supervisor who never once said 'well done' left her doubting whether she belonged in the lab at all.",
+    "options": [
+      "criticism",
+      "praise",
+      "comment",
+      "complaint"
+    ],
+    "answer": "criticism",
+    "meaning": "批评；指出缺点的负面评价",
+    "note": "criticism 指持续指出缺点的批评；praise 是表扬，与从没说过一句好话矛盾；comment 是中性评论，complaint 指具体抱怨，都非长期挑剔。"
+  },
+  {
+    "word": "sarcasm",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "When she said 'what a brilliant idea' and then clapped very slowly, everyone at the table recognised the ____ and laughed rather nervously.",
+    "options": [
+      "sarcasm",
+      "scepticism",
+      "enthusiasm",
+      "sincerity"
+    ],
+    "answer": "sarcasm",
+    "meaning": "讽刺；以反话表达的嘲讽",
+    "note": "sarcasm 指说反话的嘲讽；scepticism 是怀疑，enthusiasm 是热情，sincerity 是真诚，都不能解释慢慢鼓掌为何引来紧张的笑声。"
+  },
+  {
+    "word": "humour",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "What broke the ice at the first team meeting was not the agenda but his dry ____, which turned a dull round of introductions into twenty minutes of laughter.",
+    "options": [
+      "humour",
+      "honour",
+      "rumour",
+      "odour"
+    ],
+    "answer": "humour",
+    "meaning": "幽默；逗人发笑的特质",
+    "note": "dry humour 指不露声色的幽默；honour 是荣誉，rumour 是传闻，odour 是气味，都不能把沉闷的自我介绍变成二十分钟的笑声。"
+  },
+  {
+    "word": "awkward",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Nobody mentioned the broken vase, and the ____ silence that followed lasted until someone finally asked about the weather.",
+    "options": [
+      "awkward",
+      "backward",
+      "outward",
+      "upward"
+    ],
+    "answer": "awkward",
+    "meaning": "令人尴尬的；使人不自在的",
+    "note": "awkward silence 指因无人开口而令人尴尬的沉默；backward 是向后的，outward 是向外的，upward 是向上的，这三个方向形容词都不能说明这种不自在的沉默。"
+  },
+  {
+    "word": "intimate",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "She has hundreds of contacts on her phone but only two ____ friends, the ones who know about her father's illness and her fear of being made redundant.",
+    "options": [
+      "intimate",
+      "immediate",
+      "ultimate",
+      "delicate"
+    ],
+    "answer": "intimate",
+    "meaning": "亲密的；关系亲近而深厚的",
+    "note": "intimate 指关系亲密的；immediate 是立即的或直系的，ultimate 是最终的，delicate 是微妙易损的，都不能形容知道她父亲病情的那种挚友。"
+  },
+  {
+    "word": "acquaintance",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "We met twice at conferences and exchanged a few papers, so calling him a friend would be overstating it; he remains little more than a professional ____.",
+    "options": [
+      "acquaintance",
+      "familiarity",
+      "companionship",
+      "acknowledgement"
+    ],
+    "answer": "acquaintance",
+    "meaning": "泛泛之交；认识但不算朋友的人",
+    "note": "acquaintance 指认识但不熟的人，指人可数；familiarity 是熟悉程度，不可数；companionship 是陪伴关系；acknowledgement 是承认或致谢。"
+  },
+  {
+    "word": "colleague",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The new ____ in the office next door has a laugh you can hear through two walls, which makes the long afternoons much easier to get through.",
+    "options": [
+      "colleague",
+      "college",
+      "league",
+      "cottage"
+    ],
+    "answer": "colleague",
+    "meaning": "同事；同一单位共事的人",
+    "note": "colleague 指一起工作的同事；college 是学院，league 是联盟，cottage 是小屋，都不能指办公室里坐在隔壁、笑声能穿透两堵墙的那个人。"
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "What held the five of them together for thirty years was not shared taste but the ____ formed during a single night stranded at a railway station.",
+    "options": [
+      "bond",
+      "bound",
+      "blend",
+      "bend"
+    ],
+    "answer": "bond",
+    "meaning": "情感纽带；紧密的联系",
+    "note": "bond 指人与人之间的情感纽带；bound 是界限或跳跃，blend 是混合（物），bend 是弯道，三者都不能表示共同经历所形成的紧密情感联系。"
+  },
+  {
+    "word": "boundary",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "After years of answering work emails at midnight, she finally set a ____ — no calls after nine — and her manager, to everyone's surprise, agreed.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "outline"
+    ],
+    "answer": "boundary",
+    "meaning": "界限；个人可接受的底线",
+    "note": "boundary 在这里指个人界限与底线；border 多指国界边境，frontier 是边疆或前沿，outline 是轮廓或提纲，都不能与 set a 搭配表示划出可接受的界线。"
+  },
+  {
+    "word": "manipulation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "What worried the committee was not the advertisement's obvious exaggeration but its quiet ____ of teenagers' fear of being left out.",
+    "options": [
+      "manipulation",
+      "motivation",
+      "manifestation",
+      "meditation"
+    ],
+    "answer": "manipulation",
+    "meaning": "操纵；暗中左右他人的情绪",
+    "note": "manipulation 指暗中操纵他人情绪；motivation 是动机，manifestation 是表现，meditation 是冥想，都不表广告利用了青少年怕被孤立的恐惧。"
+  }
+]

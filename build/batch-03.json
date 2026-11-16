@@ -1,0 +1,602 @@
+[
+  {
+    "word": "acclimatize",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Although the first weeks in a foreign country were unsettling, most exchange students slowly ____ to the local climate, the spicy food and the slower rhythm of daily life.",
+    "options": [
+      "acclimatize",
+      "assimilate",
+      "accumulate",
+      "accelerate"
+    ],
+    "answer": "acclimatize",
+    "meaning": "适应（新的气候或环境）",
+    "note": "acclimatize 指逐渐适应新气候，常与 to 连用；assimilate 指融入某文化群体，须与 into 搭配；accumulate 是积累，accelerate 是加速，都与适应环境无关。"
+  },
+  {
+    "word": "homesick",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Although she had dreamed of studying abroad, by the third week she felt so ____ that she called her mother every evening and slept with a photo of home beside her bed.",
+    "options": [
+      "homesick",
+      "seasick",
+      "lovesick",
+      "carsick"
+    ],
+    "answer": "homesick",
+    "meaning": "想家的；思念家乡的",
+    "note": "homesick 指离家在外思念家人；seasick 是晕船，carsick 是晕车，都指身体不适；lovesick 指因相思而憔悴，与想念家乡无关。"
+  },
+  {
+    "word": "curriculum",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Rather than tinkering with individual courses, the department redrew the entire four-year ____, adding a compulsory internship in the third year and a research project in the fourth.",
+    "options": [
+      "curriculum",
+      "syllabus",
+      "prospectus",
+      "transcript"
+    ],
+    "answer": "curriculum",
+    "meaning": "全部课程；课程体系",
+    "note": "curriculum 指一个专业或学位的整体课程体系，可被“重新设计”；syllabus 是单门课的教学大纲，prospectus 是招生简章，transcript 是成绩单，都不能用 four-year 修饰。"
+  },
+  {
+    "word": "syllabus",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "On the first day the professor handed out a detailed ____ for the course, listing the weekly readings, the weight of each assignment, the dates of both midterms and the rules on late work.",
+    "options": [
+      "syllabus",
+      "curriculum",
+      "seminar",
+      "transcript"
+    ],
+    "answer": "syllabus",
+    "meaning": "课程大纲；教学纲要",
+    "note": "syllabus 指某门课的教学大纲，列明阅读、评分权重与考试日期；curriculum 是整体课程体系，seminar 指研讨课本身，transcript 是已修课程的成绩单。"
+  },
+  {
+    "word": "transcript",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Graduate schools usually ask for an official ____ showing every course you have taken and the grade you received in each one.",
+    "options": [
+      "transcript",
+      "certificate",
+      "diploma",
+      "portfolio"
+    ],
+    "answer": "transcript",
+    "meaning": "成绩单",
+    "note": "transcript 指逐门记录已修课程与分数的官方成绩单；certificate 是证书，diploma 是毕业文凭，portfolio 是作品集，都不列课程与具体分数。"
+  },
+  {
+    "word": "enrol",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "More than four hundred students ____ on the new data science course within the first hour of registration.",
+    "options": [
+      "enrolled",
+      "enlisted",
+      "entailed",
+      "enclosed"
+    ],
+    "answer": "enrolled",
+    "meaning": "注册（课程）；报名",
+    "note": "enroll on a course 表示注册选修某门课；enlist 指出兵役或争取支持，entail 是牵涉、势必导致，enclose 是随信附上，都不能接 on the course。"
+  },
+  {
+    "word": "dropout",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The number of ____ at the college has fallen by half since the new tutoring program began offering free help with math and writing.",
+    "options": [
+      "dropouts",
+      "drop-offs",
+      "breakdowns",
+      "turnovers"
+    ],
+    "answer": "dropouts",
+    "meaning": "辍学者；退学学生",
+    "note": "dropout 指没读完就退学的学生，可被辅导计划减少；drop-off 指数量下滑或让人下车的地点，breakdown 指故障或崩溃，turnover 指人员流动率。"
+  },
+  {
+    "word": "workload",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Because three of her courses required weekly essays, the first-year student found the ____ far heavier than anything she had faced at high school.",
+    "options": [
+      "workload",
+      "workforce",
+      "workshop",
+      "workmanship"
+    ],
+    "answer": "workload",
+    "meaning": "工作量；课业负担",
+    "note": "workload 指要完成的工作或课业量，可用 heavier 形容；workforce 是劳动力，workshop 是工作坊，workmanship 是手艺、做工，均不能指课业负担。"
+  },
+  {
+    "word": "procrastinate",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Instead of starting the term paper in week three, he ____ until the night before it was due and then drank six cups of coffee in a row.",
+    "options": [
+      "procrastinated",
+      "postponed",
+      "predominated",
+      "participated"
+    ],
+    "answer": "procrastinated",
+    "meaning": "拖延；一再往后拖",
+    "note": "procrastinate 是不及物动词，指一再拖延；postpone 是及物动词，后面必须接被推迟的事；predominate 是占优势，participate 须与 in 连用。"
+  },
+  {
+    "word": "deadline",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Realizing that half the class was still collecting data, the professor moved the ____ back by two days so that nobody would hand in rubbish.",
+    "options": [
+      "deadline",
+      "headline",
+      "baseline",
+      "guideline"
+    ],
+    "answer": "deadline",
+    "meaning": "截止日期；最后期限",
+    "note": "deadline 指必须交差的最后期限，move it back 即延后；headline 是新闻标题，baseline 是基准线，guideline 是指导方针，都不能被延后两天。"
+  },
+  {
+    "word": "cram",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "Students who ____ an entire textbook into a single night usually remember very little of it a week later, which is why spaced review works better.",
+    "options": [
+      "cram",
+      "skim",
+      "recite",
+      "scan"
+    ],
+    "answer": "cram",
+    "meaning": "临时硬塞；突击死记",
+    "note": "cram 指考前把大量内容硬塞进脑子，常与 into 连用；skim 是略读，scan 是扫读找信息，recite 是背诵，都不能表示把整本书塞进一晚。"
+  },
+  {
+    "word": "dormitory",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Most first-year students share a room in a ____ on the north side of the campus, a ten-minute walk from the main library and the dining hall.",
+    "options": [
+      "dormitory",
+      "laboratory",
+      "refectory",
+      "auditorium"
+    ],
+    "answer": "dormitory",
+    "meaning": "宿舍（楼）",
+    "note": "dormitory 指学生住宿的宿舍楼，可与 share a room 搭配；laboratory 是实验室，refectory 是食堂，auditorium 是礼堂，都不能住人。"
+  },
+  {
+    "word": "roommate",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "When her ____ began practicing the violin at midnight, she bought a pair of earplugs and a small white-noise machine so she could sleep.",
+    "options": [
+      "roommate",
+      "classmate",
+      "teammate",
+      "workmate"
+    ],
+    "answer": "roommate",
+    "meaning": "室友",
+    "note": "roommate 指同住一间屋的室友，才会半夜在屋里练琴；classmate 是同班同学，teammate 是队友，workmate 是同事，都不与人合住。"
+  },
+  {
+    "word": "counselor",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After failing two midterms in a single week, he booked an appointment with the campus ____, who helped him draw up a realistic study plan.",
+    "options": [
+      "counselor",
+      "councilor",
+      "chancellor",
+      "cashier"
+    ],
+    "answer": "counselor",
+    "meaning": "辅导员；心理咨询师",
+    "note": "counselor 指学校里负责疏导和学业规划的辅导员；councilor 是议员或委员，chancellor 是校长，cashier 是收银员，都不帮学生制定学习计划。"
+  },
+  {
+    "word": "anxiety",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Talking to her tutor helped her turn the constant ____ about grades into a manageable weekly routine of short, focused study sessions.",
+    "options": [
+      "anxiety",
+      "animosity",
+      "ambiguity",
+      "autonomy"
+    ],
+    "answer": "anxiety",
+    "meaning": "焦虑；忧虑不安",
+    "note": "anxiety 指对未来不确定之事的持续担忧，与 sleepless、racing heartbeat 相合。tension 多指气氛或肌肉的紧张；eagerness 是急切期待；curiosity 是好奇，都不伴随失眠与心跳加速这类焦虑症状。"
+  },
+  {
+    "word": "overwhelm",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "The sheer number of reading lists, club fairs and social invitations can ____ a new student in the first week, so most universities now run a short orientation course.",
+    "options": [
+      "overwhelm",
+      "overtake",
+      "overlap",
+      "overlook"
+    ],
+    "answer": "overwhelm",
+    "meaning": "使不堪承受；使不知所措",
+    "note": "overwhelm 指事情太多让人不知所措，与后面的入学导引课呼应；overtake 是超过或（情绪）突然袭来，overlap 是重叠，overlook 是忽略。"
+  },
+  {
+    "word": "self-esteem",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Constant comparison with high-achieving classmates can slowly damage a teenager's ____, until they become convinced that they are simply not good enough.",
+    "options": [
+      "self-esteem",
+      "self-control",
+      "self-defence",
+      "self-interest"
+    ],
+    "answer": "self-esteem",
+    "meaning": "自尊（心）",
+    "note": "self-esteem 指对自身价值的评价，会因不断比较而受损；self-control 是自我克制，self-defence 是自卫，self-interest 是自身利益，都不由此受损。"
+  },
+  {
+    "word": "peer",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The university pairs every new student with a mentor from the same year, since advice from ____ often feels more useful than advice from staff.",
+    "options": [
+      "peers",
+      "pupils",
+      "rivals",
+      "elders"
+    ],
+    "answer": "peers",
+    "meaning": "同龄人；同辈",
+    "note": "peers 指同一年龄或同一阶段的人，与 from the same year 一致；pupils 是相对老师而言的学生，rivals 是对手，elders 是长辈，都不合。"
+  },
+  {
+    "word": "clique",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The new girl found it hard to break into the ____ that had formed among the girls who had known one another since primary school.",
+    "options": [
+      "clique",
+      "club",
+      "click",
+      "class"
+    ],
+    "answer": "clique",
+    "meaning": "小圈子；排他性派系",
+    "note": "clique 指排外的小圈子，常与 break into 搭配；club 是正式社团，click 是点击或咔嗒声，class 是班级，都不含排外意味。"
+  },
+  {
+    "word": "bully",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "For months he was ____ at school, his lunch money taken and his homework torn up in front of the class, until a teacher finally noticed.",
+    "options": [
+      "bullied",
+      "teased",
+      "blamed",
+      "ignored"
+    ],
+    "answer": "bullied",
+    "meaning": "欺凌；欺负",
+    "note": "bullied 指长期被欺凌，与钱被抢走、作业被撕相符；teased 只是取笑，程度太轻；blamed 是被责怪，ignored 是被忽视，都与被抢钱撕作业不符。"
+  },
+  {
+    "word": "belonging",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The orientation week is designed to create a sense of ____ among first-year students, many of whom arrive knowing nobody on a campus of thirty thousand people.",
+    "options": [
+      "belonging",
+      "longing",
+      "belongings",
+      "loneliness"
+    ],
+    "answer": "belonging",
+    "meaning": "归属感",
+    "note": "belonging 指被群体接纳的归属感，正是迎新周要营造的；longing 是渴望，belongings 是随身物品，loneliness 是孤独，与 create 的目的相反。"
+  },
+  {
+    "word": "adapt",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "Students who move from a small town to a big city often need a term or two to ____ to the noise, the crowds and the faster rhythm of daily life.",
+    "options": [
+      "adapt",
+      "adopt",
+      "admit",
+      "absorb"
+    ],
+    "answer": "adapt",
+    "meaning": "适应；使适应",
+    "note": "adapt 与 to 连用表示逐渐适应新环境；adopt 是采纳、收养，admit 是承认，absorb 是吸收，都不能接 to 表示适应。"
+  },
+  {
+    "word": "cope",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "Learning to ____ with a heavy reading load is one of the skills that first-year students have to pick up quickly, or they fall behind within weeks.",
+    "options": [
+      "cope",
+      "copy",
+      "cure",
+      "care"
+    ],
+    "answer": "cope",
+    "meaning": "应对；应付",
+    "note": "cope with 是固定搭配，指应付困难或压力；copy 是复制，cure 是治愈（cure sb of sth），care 是关心，都不能与 with 搭配表示应对。"
+  },
+  {
+    "word": "navigate",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "The app was designed to help new students ____ a campus of forty buildings without stopping strangers to ask for directions.",
+    "options": [
+      "navigate",
+      "negotiate",
+      "nominate",
+      "cultivate"
+    ],
+    "answer": "navigate",
+    "meaning": "应对；找到路穿过",
+    "note": "navigate 指在陌生大环境里辨明方向、顺利穿行；negotiate 指谈判或小心越过障碍物，nominate 是提名，cultivate 是培养，都与找路无关。"
+  },
+  {
+    "word": "juggle",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Many students ____ a part-time job, sports training and a full course load, and something usually has to give before the term ends.",
+    "options": [
+      "juggle",
+      "struggle",
+      "jostle",
+      "jumble"
+    ],
+    "answer": "juggle",
+    "meaning": "同时应付（多件事）",
+    "note": "juggle 指同时应付几件都难放下的事，常接多项宾语；struggle 是不及物动词，不能直接接三样事物；jostle 是推挤，jumble 是弄乱。"
+  },
+  {
+    "word": "distraction",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "If you revise with your phone face-up on the desk, every notification becomes a ____, and the two hours you set aside shrink to forty minutes of real work.",
+    "options": [
+      "distraction",
+      "distinction",
+      "distortion",
+      "discretion"
+    ],
+    "answer": "distraction",
+    "meaning": "使人分心的事物",
+    "note": "distraction 指让人从学习中分心的事物，与手机通知呼应；distinction 是区别，distortion 是歪曲，discretion 是自行决定权，都不会缩短学习时间。"
+  },
+  {
+    "word": "setback",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Failing the first driving test was only a temporary ____; she booked another appointment the same afternoon and passed it two weeks later.",
+    "options": [
+      "setback",
+      "drawback",
+      "comeback",
+      "offset"
+    ],
+    "answer": "setback",
+    "meaning": "挫折；暂时的阻碍",
+    "note": "setback 指进展中遇到的暂时挫折；drawback 是缺点、不利条件，comeback 是复出、东山再起，offset 是抵消，都不能用 temporary 形容考试失利。"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Because the course requires three drafts, students receive plenty of ____ from the instructor and from classmates before the final version is graded.",
+    "options": [
+      "feedback",
+      "background",
+      "outcome",
+      "layout"
+    ],
+    "answer": "feedback",
+    "meaning": "反馈（意见）",
+    "note": "feedback 指对初稿提出的反馈意见，不可数，正好与 plenty of 搭配；background 是背景，outcome 是结果，layout 是版面设计，都不由师生提意见。"
+  },
+  {
+    "word": "plagiarism",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Two students were accused of ____ after the software matched whole paragraphs of their essays to an article published online last year.",
+    "options": [
+      "plagiarism",
+      "criticism",
+      "journalism",
+      "tourism"
+    ],
+    "answer": "plagiarism",
+    "meaning": "抄袭；剽窃",
+    "note": "plagiarism 指把别人的文字当作自己的，与软件查出整段雷同相符；criticism 是批评，journalism 是新闻业，tourism 是旅游业，都与抄袭无关。"
+  },
+  {
+    "word": "seminar",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The department runs a weekly ____ at which two graduate students present their work and the rest of the group questions every assumption in it.",
+    "options": [
+      "seminar",
+      "semester",
+      "ceremony",
+      "rehearsal"
+    ],
+    "answer": "seminar",
+    "meaning": "研讨会；小班讨论课",
+    "note": "seminar 指人数不多、需要轮流报告并相互质疑的研讨课；semester 是学期，ceremony 是典礼，rehearsal 是排练，都不涉及学术报告。"
+  },
+  {
+    "word": "lecture",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "His two-hour ____ on the history of the city drew such a crowd that latecomers had to stand at the back of the hall.",
+    "options": [
+      "lecture",
+      "seminar",
+      "tutorial",
+      "workshop"
+    ],
+    "answer": "lecture",
+    "meaning": "讲座；讲课",
+    "note": "lecture 指教师面向大量听众的系统讲授，才会挤到有人站着听；seminar 与 tutorial 都是小班课，workshop 是实践工作坊，人数不会爆满。"
+  },
+  {
+    "word": "thesis",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "She spent the whole summer collecting data for her master's ____, which examines how bilingual children learn to read in two writing systems.",
+    "options": [
+      "thesis",
+      "theory",
+      "theme",
+      "hypothesis"
+    ],
+    "answer": "thesis",
+    "meaning": "学位论文",
+    "note": "thesis 指硕士或博士学位论文，可由 master's 直接修饰；theory 是理论，theme 是主题，hypothesis 是尚待验证的假设，都不是提交的论文。"
+  },
+  {
+    "word": "scholarship",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "She won a full ____ that covers fees, books and accommodation, which means her parents no longer have to borrow money at the start of each term.",
+    "options": [
+      "scholarship",
+      "sponsorship",
+      "citizenship",
+      "membership"
+    ],
+    "answer": "scholarship",
+    "meaning": "奖学金",
+    "note": "scholarship 指凭成绩获得、按“全额”发放的奖学金；sponsorship 是商业赞助，citizenship 是公民身份，membership 是会员资格，都不能支付学费住宿。"
+  },
+  {
+    "word": "tuition",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Because ____ at private universities has risen much faster than wages, many graduates spend a decade repaying their student loans.",
+    "options": [
+      "tuition",
+      "intuition",
+      "instruction",
+      "institution"
+    ],
+    "answer": "tuition",
+    "meaning": "学费",
+    "note": "tuition 指大学收取的学费，上涨才逼学生贷款；intuition 是直觉，instruction 是教学、指示，institution 是机构，都不能表示收费上涨。"
+  },
+  {
+    "word": "faculty",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The ____ voted overwhelmingly to cut class sizes, though the administration warned that hiring more teachers would raise costs.",
+    "options": [
+      "faculty",
+      "facility",
+      "factory",
+      "familiarity"
+    ],
+    "answer": "faculty",
+    "meaning": "全体教员；（大学）院系",
+    "note": "faculty 指大学的全体教师，可以投票表态；facility 是设施，factory 是工厂，familiarity 是熟悉、了解，都不能投票决定班级规模。"
+  },
+  {
+    "word": "campus",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The new library stands at the centre of the ____, within easy reach of every hall of residence and every department.",
+    "options": [
+      "campus",
+      "compass",
+      "canvas",
+      "caucus"
+    ],
+    "answer": "campus",
+    "meaning": "校园",
+    "note": "campus 指大学的校园范围，图书馆正居其中；compass 是指南针，canvas 是帆布、画布，caucus 是党派核心会议，都不指校园。"
+  },
+  {
+    "word": "extracurricular",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Universities increasingly value ____ activities such as volunteering and student government, because they show how a candidate works with other people.",
+    "options": [
+      "extracurricular",
+      "compulsory",
+      "vocational",
+      "academic"
+    ],
+    "answer": "extracurricular",
+    "meaning": "课外的",
+    "note": "extracurricular 指课堂之外的活动，常修饰 activities；compulsory 是必修的，vocational 是职业的，academic 是学业课堂内的，都不能概括志愿服务与学生会。"
+  },
+  {
+    "word": "volunteer",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "Rather than spending every Saturday shopping, she ____ at the campus food bank, sorting donations and packing boxes for families in the neighborhood.",
+    "options": [
+      "volunteered",
+      "donated",
+      "contributed",
+      "participated"
+    ],
+    "answer": "volunteered",
+    "meaning": "做志愿者；自愿服务",
+    "note": "volunteer 指自愿出时间做事，与后面的分类、装箱等出力动作相符；donate 和 contribute 都是捐钱捐物，participate 须与 in 连用。"
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The student ____ meets every other Tuesday to decide how the club budget should be split among the societies.",
+    "options": [
+      "committee",
+      "commitment",
+      "commodity",
+      "community"
+    ],
+    "answer": "committee",
+    "meaning": "委员会",
+    "note": "committee 指经推选组成、负责议事的委员会，可“每两周开会”；commitment 是承诺，commodity 是商品，community 是社区，都不能开会分预算。"
+  },
+  {
+    "word": "motivation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Lacking any real ____ to study, he would sit at his desk for three hours, sharpen pencils and finish almost nothing.",
+    "options": [
+      "motivation",
+      "momentum",
+      "movement",
+      "motion"
+    ],
+    "answer": "motivation",
+    "meaning": "动机；积极性",
+    "note": "motivation 指推动学习的内在动力，可与 lacking 搭配；momentum 指已形成的势头（须先有进展），movement 是运动，motion 是动作或动议。"
+  }
+]

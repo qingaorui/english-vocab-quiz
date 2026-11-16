@@ -1,0 +1,21 @@
+{
+  "id": "01",
+  "unit": 6,
+  "kind": "phrase",
+  "perWord": 2,
+  "label": "短语搭配 A",
+  "words": [
+    "check in on",
+    "go viral",
+    "grow on sb",
+    "hammer out",
+    "trial and error",
+    "turn on",
+    "couple ... with",
+    "fit into",
+    "interfere with",
+    "comic strip",
+    "stick figure",
+    "speech bubble"
+  ]
+}

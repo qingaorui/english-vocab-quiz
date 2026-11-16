@@ -1,5 +1,4 @@
-/* Unit 1 — Challenges for College Freshmen
-   词条来源：教材 Words and Phrases, UNIT 1（Part One / Two / Three） */
+/* 教材词汇基础题库（39 题）— 审校修复后由 build/patch-base.js 重写 */
 window.QUIZ_BANK = window.QUIZ_BANK || [];
 window.QUIZ_BANK.push(
   {
@@ -45,10 +44,10 @@ window.QUIZ_BANK.push(
   {
     id: "u1-06", unit: 1, word: "freelance", pos: "adj.", level: "四级",
     sentence: "As a ____ writer, he has no fixed employer and sells his articles to whoever will pay for them.",
-    options: ["freelance", "seasonal", "skilled", "spare"],
+    options: ["freelance", "seasonal", "salaried", "spare"],
     answer: "freelance",
     meaning: "自由职业（者）的；特约的",
-    note: "后文 no fixed employer、卖稿给不同买家，正是 freelance（自由撰稿）的定义。seasonal 是“季节性的”，skilled 是“熟练的”，spare 是“备用的”。"
+    note: "后文 no fixed employer、把文章卖给任何肯付钱的人，正是 freelance（自由撰稿）的定义。salaried 指“领固定薪水的”，与 no fixed employer 直接矛盾；seasonal 是“季节性的”，spare 是“备用的”，都不能说明这种身份。"
   },
   {
     id: "u1-07", unit: 1, word: "frustrating", pos: "adj.", level: "四级",
@@ -109,10 +108,10 @@ window.QUIZ_BANK.push(
   {
     id: "u1-14", unit: 1, word: "overwhelming", pos: "adj.", level: "四级",
     sentence: "The response to her online course was ____: within a week, more than ten thousand people had signed up.",
-    options: ["overwhelming", "outstanding", "outgoing", "overgrown"],
+    options: ["overwhelming", "overdue", "outgoing", "overgrown"],
     answer: "overwhelming",
     meaning: "巨大的；压倒性的",
-    note: "overwhelming response 是高频搭配，“反响极其热烈、压倒一切”。outstanding 侧重“优秀”，outgoing 是“外向的”，overgrown 是“杂草丛生的”。"
+    note: "overwhelming response 是高频搭配，指“反响极其热烈、铺天盖地”，与冒号后一周内上万人报名相呼应。overdue 是“过期的、迟来的”，与 within a week 直接矛盾；outgoing 是“外向的”（形容人），overgrown 是“杂草丛生的”，都不能形容反响。"
   },
   {
     id: "u1-15", unit: 1, word: "panel", pos: "n.", level: "四级",

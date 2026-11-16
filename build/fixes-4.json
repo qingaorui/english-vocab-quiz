@@ -1,0 +1,34 @@
+[
+  {
+    "word": "aggressive",
+    "match": "Colleagues stopped disagreeing with him because his ____ tone",
+    "sentence": "Colleagues stopped disagreeing with him because his ____ tone, his raised voice and his habit of cutting people off mid-sentence turned every routine discussion into a fight.",
+    "reason": "原句在并列主语与谓语 turned 之间多了一个逗号，把三个并列成分读成插入语，主谓被割裂；the raised voice 也缺物主代词，语法不通。"
+  },
+  {
+    "word": "awkward",
+    "match": "Nobody mentioned the broken vase, and the ____",
+    "note": "awkward silence 指因无人开口而令人尴尬的沉默；backward 是向后的，outward 是向外的，upward 是向上的，这三个方向形容词都不能说明这种不自在的沉默。",
+    "reason": "原解析说“打破冷场的那种沉默”，与句中“没人提打碎的花瓶、沉默一直持续到有人聊起天气”正好相反，属解析不准。"
+  },
+  {
+    "word": "bond",
+    "match": "What held the five of them together for thirty years was not shared taste but the ____",
+    "options": ["bond", "bound", "blend", "bend"],
+    "note": "bond 指人与人之间的情感纽带；bound 是界限或跳跃，blend 是混合（物），bend 是弯道，三者都不能表示共同经历所形成的紧密情感联系。",
+    "reason": "band 也可指乐队，五个人因一夜同困车站而组队、乐队维系他们三十年同样说得通，具备两个成立选项，须换掉该干扰项。"
+  },
+  {
+    "word": "boundary",
+    "match": "After years of answering work emails at midnight, she finally set a ____",
+    "sentence": "After years of answering work emails at midnight, she finally set a ____ — no calls after nine — and her manager, to everyone's surprise, agreed.",
+    "reason": "冒号后既放“no calls after nine”又接并列句“and her manager agreed”，标点误用，读者会把“经理也同意”当成界限的内容。"
+  },
+  {
+    "word": "immense",
+    "match": "The ____ popularity of the app surprised even",
+    "options": ["immense", "imminent", "immune", "immature"],
+    "note": "immense popularity 指“极高的人气”，程度高于 great，与 surprised even its creators 呼应。imminent 是“迫在眉睫的”，immune 是“免疫的”，immature 是“不成熟的”，都不能修饰 popularity 表示受欢迎的程度。",
+    "reason": "immediate popularity（一推出就受欢迎）在本句完全成立，与 immense 构成两个正确答案，须替换该干扰项。"
+  }
+]

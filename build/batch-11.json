@@ -1,0 +1,362 @@
+[
+  {
+    "word": "inclusion",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "After years of complaints, the university finally adopted a policy of ____ that guarantees students with disabilities full access to every laboratory and lecture hall.",
+    "options": [
+      "inclusion",
+      "exclusion",
+      "illusion",
+      "intrusion"
+    ],
+    "answer": "inclusion",
+    "meaning": "包容；把不同群体纳入",
+    "note": "inclusion 指把残障学生真正纳入学校生活；exclusion 是排斥，与后半句“保证无障碍通行”正面矛盾；illusion 是幻觉，intrusion 是侵扰，都不能与 policy of 搭配表示政策取向。"
+  },
+  {
+    "word": "discrimination",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The company was fined heavily after an investigation found clear ____ against older applicants, who were routinely passed over for promotion in favour of younger staff.",
+    "options": [
+      "discrimination",
+      "distinction",
+      "discretion",
+      "disruption"
+    ],
+    "answer": "discrimination",
+    "meaning": "（基于年龄的）歧视",
+    "note": "discrimination against 是固定搭配，指对年长申请者的不公平对待；distinction 多用于 distinction between 表区别；discretion 是自行决定权，disruption 是扰乱，都不与 against 连用表示歧视。"
+  },
+  {
+    "word": "prejudice",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "A national survey revealed that deep-rooted ____ against graduates of vocational colleges still shapes hiring, since interviewers assume such candidates lack theoretical depth.",
+    "options": [
+      "prejudice",
+      "principle",
+      "privilege",
+      "prestige"
+    ],
+    "answer": "prejudice",
+    "meaning": "偏见；先入为主的成见",
+    "note": "prejudice against 指对某群体的负面成见，与后文 interviewers assume such candidates lack theoretical depth 呼应；principle 是原则，常说 principle of；privilege 是特权；prestige 是声望，都不能与 against 搭配表示对某群体的成见。"
+  },
+  {
+    "word": "stereotype",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Deliberately or not, the documentary challenges the widespread ____ that engineers are solitary men who would rather work with machines than with people.",
+    "options": [
+      "stereotype",
+      "prototype",
+      "archetype",
+      "epitome"
+    ],
+    "answer": "stereotype",
+    "meaning": "刻板印象；固定化形象",
+    "note": "stereotype 指对某类人的固定化印象，后接 that 从句说明其内容；prototype 是原型样品，archetype 是典型范式，epitome 是典范，三者都不能接 that 从句描述一群人的形象。"
+  },
+  {
+    "word": "inequality",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "____ within the country has grown so wide that the poorest fifth now earns less than a tenth of what the richest fifth does, even though average income has doubled.",
+    "options": [
+      "Inequality",
+      "Equality",
+      "Equation",
+      "Equilibrium"
+    ],
+    "answer": "Inequality",
+    "meaning": "（收入）不平等；贫富差距",
+    "note": "inequality 指收入分配上的不均，与最富五分之一和贫穷五分之一的对比吻合；equality 是平等，与差距扩大相反；equation 是方程式，equilibrium 是平衡状态，都不能被 grown so wide 修饰。"
+  },
+  {
+    "word": "poverty",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Charity workers argue that a good education, rather than short-term food aid, is the surest way out of ____ for families in the mountain villages.",
+    "options": [
+      "poverty",
+      "property",
+      "prosperity",
+      "posterity"
+    ],
+    "answer": "poverty",
+    "meaning": "贫困；缺衣少食的处境",
+    "note": "poverty 指缺钱的贫困状态，way out of poverty 是常用搭配；property 是财产，prosperity 是富裕，方向与“脱贫”相反；posterity 是后代，都不能作 way out of 的宾语。"
+  },
+  {
+    "word": "welfare",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After losing his job, he relied on state ____ for nearly a year while he retrained as an electrician at the local college.",
+    "options": [
+      "welfare",
+      "farewell",
+      "warfare",
+      "fare"
+    ],
+    "answer": "welfare",
+    "meaning": "（政府发放的）福利救济",
+    "note": "welfare 指政府发放的失业救济与生活补助；fare 是车船票价，warfare 是战争，farewell 是告别，三者都不能与 state 搭配表示救济金制度。"
+  },
+  {
+    "word": "immigration",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Controls on ____ were tightened after the number of work permits issued to foreign engineers tripled in only two years.",
+    "options": [
+      "immigration",
+      "emigration",
+      "integration",
+      "imitation"
+    ],
+    "answer": "immigration",
+    "meaning": "移民入境；外来移民的迁入",
+    "note": "immigration 指外国人移入本国，与“发给外国工程师的工作许可”一致；emigration 指本国人移居国外，方向正好相反；integration 是融合，imitation 是模仿，都不受出入境管控。"
+  },
+  {
+    "word": "refugee",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "He arrived in the city as a ____, having fled his village with nothing but a plastic bag, and within five years he had opened a bakery on the corner.",
+    "options": [
+      "refugee",
+      "refuge",
+      "referee",
+      "refusal"
+    ],
+    "answer": "refugee",
+    "meaning": "难民；逃难者",
+    "note": "refugee 指为躲避战乱或迫害而逃离家园的人，与 fled his village 呼应；refuge 指避难所而非人，referee 是裁判，refusal 是拒绝，都不能指逃出来的人。"
+  },
+  {
+    "word": "urbanisation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Rapid ____ has swallowed most of the farmland around the city, and where rice once grew there are now rows of identical apartment blocks and a new metro line.",
+    "options": [
+      "urbanisation",
+      "industrialisation",
+      "civilisation",
+      "urbanity"
+    ],
+    "answer": "urbanisation",
+    "meaning": "城市化；城区向外扩张",
+    "note": "urbanisation 指城市向周边扩张，与稻田变成公寓楼和新地铁线的描写吻合；industrialisation 侧重建工厂，与住宅、地铁不符；civilisation 是文明，urbanity 是都市气派，都不表示扩张过程。"
+  },
+  {
+    "word": "gentrification",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Critics say the ____ of the riverside district has driven out the very artists who made it attractive, since rents there have tripled in four years.",
+    "options": [
+      "gentrification",
+      "gratification",
+      "stratification",
+      "ratification"
+    ],
+    "answer": "gentrification",
+    "meaning": "旧城区中产化、绅士化",
+    "note": "gentrification 指中产者涌入旧城区推高房租、挤走原住民，与艺术家被赶走、房租翻三倍吻合；gratification 是满足，stratification 是分层，ratification 是正式批准，均无此义。"
+  },
+  {
+    "word": "heritage",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Museums in the region now collect not only old tools but also songs and recipes, arguing that such everyday ____ deserves the same protection as ancient buildings.",
+    "options": [
+      "heritage",
+      "inheritance",
+      "heredity",
+      "heirloom"
+    ],
+    "answer": "heritage",
+    "meaning": "文化遗产；世代相传的传统",
+    "note": "heritage 指一个地区世代相传的文化传统，可涵盖民歌与菜谱；inheritance 多指从亲属处继承的钱财；heredity 指生理遗传；heirloom 是可数的传家宝物件，范围都不对。"
+  },
+  {
+    "word": "ritual",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Every spring the village repeats the same ____: the elders wash the stone bridge, the children scatter petals, and a drum is beaten until sunset.",
+    "options": [
+      "ritual",
+      "rhetoric",
+      "rivalry",
+      "rehearsal"
+    ],
+    "answer": "ritual",
+    "meaning": "（按固定程序重复的）仪式",
+    "note": "ritual 指每年按固定步骤重复的仪式，冒号后列的正是其程序；rhetoric 是修辞或空话，rivalry 是竞争，rehearsal 是为演出做的排练，都不是年年沿袭的固定习俗。"
+  },
+  {
+    "word": "custom",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "In that region it is still the ____ for the bride's family to plant a tree in the courtyard on the morning of the wedding.",
+    "options": [
+      "custom",
+      "costume",
+      "customer",
+      "custodian"
+    ],
+    "answer": "custom",
+    "meaning": "风俗；地方习俗",
+    "note": "custom 指一地长期沿袭的做法，it is the custom for sb to do 是固定句型；costume 是服装，customer 是顾客，custodian 是管理员，词形相近但词义与习俗无关。"
+  },
+  {
+    "word": "norm",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Working from home, once unusual, has become the ____ in many software companies, where desks are now shared by whoever turns up.",
+    "options": [
+      "norm",
+      "form",
+      "formula",
+      "forum"
+    ],
+    "answer": "norm",
+    "meaning": "常态；普遍做法",
+    "note": "norm 指被群体视为正常的做法，become the norm 是固定搭配，与“工位谁到谁用”呼应；form 是形式，formula 是公式，forum 是论坛，都不能表示某种做法成为常态。"
+  },
+  {
+    "word": "taboo",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "In many families, asking an elderly relative how much they earn is still a ____, and the topic is quickly changed to the weather or the grandchildren.",
+    "options": [
+      "taboo",
+      "tattoo",
+      "tabloid",
+      "tablet"
+    ],
+    "answer": "taboo",
+    "meaning": "禁忌；不宜提及的话题",
+    "note": "taboo 指社会习俗中不宜触碰的话题，与“赶紧转去聊天气”呼应；tattoo 是纹身，tabloid 是小报，tablet 是药片或平板电脑，均与话题禁忌无关。"
+  },
+  {
+    "word": "generation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Between one ____ and the next the gap has never seemed wider, partly because teenagers now pick up new apps faster than their parents do.",
+    "options": [
+      "generation",
+      "generosity",
+      "generator",
+      "genetics"
+    ],
+    "answer": "generation",
+    "meaning": "一代人；同辈群体",
+    "note": "generation 指同一时期出生的一代人，one generation and the next 指上下两代；generosity 是慷慨，generator 是发电机，genetics 是遗传学，都不能指人，也无法与 gap 形成代际对比。"
+  },
+  {
+    "word": "demographics",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Before opening a new branch, the café chain studies the local ____, looking at the age, income and household size of everyone living within a mile.",
+    "options": [
+      "demographics",
+      "democracy",
+      "demonstrations",
+      "demolition"
+    ],
+    "answer": "demographics",
+    "meaning": "人口结构统计数据",
+    "note": "demographics 指某地人口在年龄、收入等方面的统计数据，与后面的具体指标一一对应；democracy 是民主，demonstrations 是游行，demolition 是拆除，都不成其为被研究的数据。"
+  },
+  {
+    "word": "propaganda",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Historians now treat the posters as crude ____, since they quoted factory figures out of context and showed only workers chosen by the ministry.",
+    "options": [
+      "propaganda",
+      "publicity",
+      "publication",
+      "propagation"
+    ],
+    "answer": "propaganda",
+    "meaning": "（歪曲事实的）宣传",
+    "note": "propaganda 指为影响舆论而歪曲事实的宣传，与“断章取义”“只选部里安排的工人”吻合；publicity 是曝光度，publication 是出版物，propagation 是传播行为，都不含欺骗与操纵之意。"
+  },
+  {
+    "word": "censorship",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Strict ____ meant that the film reached cinemas with twelve minutes missing, and reporters were not allowed to mention the cuts.",
+    "options": [
+      "censorship",
+      "censure",
+      "census",
+      "sensor"
+    ],
+    "answer": "censorship",
+    "meaning": "审查制度；对内容的删查",
+    "note": "censorship 指官方对影视内容的审查删剪，与“少了十二分钟”“记者不得提及”呼应；censure 是公开谴责，census 是人口普查，sensor 是传感器，都不指删剪内容。"
+  },
+  {
+    "word": "privacy",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "A clear violation of ____ occurred when the newspaper printed the address of the child's school next to her photograph.",
+    "options": [
+      "privacy",
+      "publicity",
+      "privilege",
+      "privation"
+    ],
+    "answer": "privacy",
+    "meaning": "隐私；个人不愿公开的信息",
+    "note": "privacy 指个人不愿被公开的信息，violation of privacy 是固定搭配；publicity 是公开曝光，privilege 是特权，privation 是匮乏，都不能被“刊登孩子学校地址”所侵犯。"
+  },
+  {
+    "word": "surveillance",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Residents complained that the cameras at the entrance amounted to constant ____, since every visitor's face was recorded, stored for a year and sold to advertisers.",
+    "options": [
+      "surveillance",
+      "supervision",
+      "vigilance",
+      "reconnaissance"
+    ],
+    "answer": "surveillance",
+    "meaning": "监视；对人的持续监控",
+    "note": "surveillance 指用摄像头等设备持续记录人的行踪并把资料另作他用；supervision 指对工作或人员的监督管理；vigilance 是警惕，reconnaissance 是军事侦察，都不指录像存档并转卖给广告商。"
+  },
+  {
+    "word": "ethics",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Funding for the trial was withdrawn on the grounds that the design violated medical ____, since none of the patients had been told what the experiment involved.",
+    "options": [
+      "ethics",
+      "etiquette",
+      "ethnicity",
+      "logistics"
+    ],
+    "answer": "ethics",
+    "meaning": "（医学）伦理准则",
+    "note": "ethics 指医学研究必须遵守的伦理规范，未告知患者即属违反；etiquette 是礼节，ethnicity 是族裔归属，logistics 是后勤安排，都不足以成为试验被撤资的理由。"
+  },
+  {
+    "word": "diversity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Students learn more, the admissions office argues, when they sit beside people whose backgrounds differ sharply from their own, which is why the college now values ____.",
+    "options": [
+      "diversity",
+      "adversity",
+      "diversion",
+      "division"
+    ],
+    "answer": "diversity",
+    "meaning": "多样性；成员构成的多元",
+    "note": "diversity 指学生构成的多元，与“背景迥异的同学”对应；adversity 是逆境，diversion 是转移或消遣，division 是分裂，三者都不能被学校“看重”并促成这种学习效果。"
+  }
+]

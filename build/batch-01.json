@@ -1,0 +1,362 @@
+[
+  {
+    "word": "check in on",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Every Sunday evening she ____ her grandmother, partly to make sure the heating was working and partly just to hear her laugh.",
+    "options": [
+      "checked in on",
+      "checked out of",
+      "signed up for",
+      "looked forward to"
+    ],
+    "answer": "checked in on",
+    "meaning": "探望并问候（某人的近况）",
+    "note": "check in on sb 指探望、过问近况；check out of 是结账离开，sign up for 是报名，look forward to 是期待，都不表看望老人。"
+  },
+  {
+    "word": "check in on",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Since the intern began working from home, her supervisor has ____ her twice a week to ask how the data entry is going.",
+    "options": [
+      "checked in on",
+      "tuned in to",
+      "logged on to",
+      "weighed in on"
+    ],
+    "answer": "checked in on",
+    "meaning": "过问、查看（某人的情况）",
+    "note": "check in on sb 指主动联系、过问某人的情况；tune in to 是收听节目，log on to 是登录系统，weigh in on 是就某议题插话发表意见（宾语应是议题），三者都不能以人作宾语。"
+  },
+  {
+    "word": "go viral",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The professor's two-minute explanation of compound interest ____ after a student posted it, and soon schools across the country were using it in class.",
+    "options": [
+      "went viral",
+      "went blank",
+      "went missing",
+      "went bankrupt"
+    ],
+    "answer": "went viral",
+    "meaning": "（内容）在网上疯传、迅速走红",
+    "note": "go viral 指内容被大量转发而走红；go blank 指屏幕或大脑空白，go missing 指失踪，go bankrupt 指破产，都不形容讲解在网上火了。"
+  },
+  {
+    "word": "go viral",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "None of the editors expected the little clip of a cat stealing noodles to ____ overnight, yet by Monday it had been shared four million times.",
+    "options": [
+      "go viral",
+      "go steady",
+      "go bust",
+      "go astray"
+    ],
+    "answer": "go viral",
+    "meaning": "（内容）一夜之间在网上爆火",
+    "note": "go viral 指视频被大量转发；go steady 指固定交往，go bust 指倒闭，go astray 指走偏，都与两天内转发四百万次的爆火无关。"
+  },
+  {
+    "word": "grow on sb",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The folk songs my grandmother used to hum sounded old-fashioned at first, yet they slowly ____, and now I play them almost every evening.",
+    "options": [
+      "grew on me",
+      "dawned on me",
+      "wore on me",
+      "turned on me"
+    ],
+    "answer": "grew on me",
+    "meaning": "逐渐被某人喜欢上、被接受",
+    "note": "grow on sb 指起初不喜欢、后来渐生好感；dawn on sb 是恍然大悟，wear on sb 是让人难熬，turn on sb 是转而攻击，后者都不合句意。"
+  },
+  {
+    "word": "grow on sb",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Although the beige wallpaper struck him as dreary at first, it has slowly ____, and he now refuses to let anyone repaint the room.",
+    "options": [
+      "grown on him",
+      "dawned on him",
+      "worn on him",
+      "turned on him"
+    ],
+    "answer": "grown on him",
+    "meaning": "逐渐赢得某人的好感与认可",
+    "note": "grow on sb 表示看法由厌到喜；dawn on sb 只用于想明白某事，wear on sb 指令人渐觉难熬，turn on sb 指攻击，都与不准粉刷相悖。"
+  },
+  {
+    "word": "hammer out",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "After three exhausting sessions, the committee finally ____ a compromise that satisfied both the sports clubs and the library staff.",
+    "options": [
+      "hammered out",
+      "made out",
+      "held out",
+      "stood out"
+    ],
+    "answer": "hammered out",
+    "meaning": "反复争论后敲定（方案）",
+    "note": "hammer out 指反复争论后敲定方案；make out 是辨认字迹，hold out 是坚持不让步，stand out 是显眼，都不能接 compromise。"
+  },
+  {
+    "word": "hammer out",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The band spent most of the winter in a damp rehearsal room, trying to ____ the arrangement of each song before the tour began.",
+    "options": [
+      "hammer out",
+      "make out",
+      "hold out",
+      "stand out"
+    ],
+    "answer": "hammer out",
+    "meaning": "反复商讨后敲定（措辞）",
+    "note": "hammer out an arrangement 指反复商量、反复磨合后把编曲定下来；make out 是辨认字迹或声音，hold out 是坚持不让步，stand out 是显眼，都不能表示把编曲谈定。"
+  },
+  {
+    "word": "trial and error",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Learning to juggle, she discovered, was pure ____ rather than talent: each dropped ball taught her where her hands should have been.",
+    "options": [
+      "trial and error",
+      "ebb and flow",
+      "give and take",
+      "ups and downs"
+    ],
+    "answer": "trial and error",
+    "meaning": "反复尝试、从失败中摸索",
+    "note": "trial and error 指反复试错摸索；ebb and flow 是涨落，give and take 是让步，ups and downs 指境遇起落，都不合学抛接。"
+  },
+  {
+    "word": "trial and error",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "The recipe in the old notebook lists no measurements at all, so anyone who follows it must rely on ____ and a good deal of luck.",
+    "options": [
+      "trial and error",
+      "ebb and flow",
+      "give and take",
+      "ups and downs"
+    ],
+    "answer": "trial and error",
+    "meaning": "边试边改、从错误中找对方法",
+    "note": "rely on trial and error 指边做边改；ebb and flow 是涨落，give and take 是让步，ups and downs 是起伏，与无用量无关。"
+  },
+  {
+    "word": "turn on",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Because the flat was freezing when she got home, she ____ the heating at once, then sat shivering under two blankets while the radiators slowly warmed up.",
+    "options": [
+      "turned on",
+      "turned off",
+      "turned over",
+      "turned in"
+    ],
+    "answer": "turned on",
+    "meaning": "打开、启动（暖气或电器）",
+    "note": "turn on 指打开电器或暖气；turn off 是关掉，与屋里很冷矛盾，turn over 是翻转，turn in 是上交，都不能接 the heating 表启动。"
+  },
+  {
+    "word": "turn on",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Whether the outdoor concert goes ahead will ____ the weather forecast, which currently promises heavy rain for Saturday.",
+    "options": [
+      "turn on",
+      "turn off",
+      "turn into",
+      "turn up"
+    ],
+    "answer": "turn on",
+    "meaning": "取决于某事物；视…而定",
+    "note": "此处 turn on 意为取决于；turn off 是关掉或使人反感，turn into 是变成，turn up 是出现或调高，都不表视天气预报而定。"
+  },
+  {
+    "word": "couple ... with",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Careful fieldwork, ____ statistical modelling, gave the final-year survey a rigour that earlier student projects had clearly lacked.",
+    "options": [
+      "coupled with",
+      "credited with",
+      "crowded with",
+      "charged with"
+    ],
+    "answer": "coupled with",
+    "meaning": "把（两种方法）结合起来",
+    "note": "couple A with B 指把两者结合，此处作过去分词；credited with 是被认为有，crowded with 是挤满，charged with 是被指控。"
+  },
+  {
+    "word": "couple ... with",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The new reading programme has been ____ a lighter homework load, which is exactly why so few parents have objected to it.",
+    "options": [
+      "coupled with",
+      "credited with",
+      "crowded with",
+      "charged with"
+    ],
+    "answer": "coupled with",
+    "meaning": "与（另一措施）配套推行",
+    "note": "be coupled with 指与另一措施配套；be credited with 是功劳归于，be crowded with 是挤满，be charged with 是被指控。"
+  },
+  {
+    "word": "fit into",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "It took the transfer student most of a term to ____ a class where almost everyone had known each other since primary school.",
+    "options": [
+      "fit into",
+      "fall into",
+      "break into",
+      "look into"
+    ],
+    "answer": "fit into",
+    "meaning": "融入并适应（新的群体）",
+    "note": "fit into 指融入新群体；fall into 指归入某类或陷入某状态，break into 指强行闯入，look into 指调查，都不能表被同学接纳。"
+  },
+  {
+    "word": "fit into",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "With three lectures, a part-time job and a debating club, she wondered how the new volunteering scheme would ever ____ her timetable.",
+    "options": [
+      "fit into",
+      "fit out",
+      "fit up",
+      "fit on"
+    ],
+    "answer": "fit into",
+    "meaning": "把…安排进（已有日程）",
+    "note": "fit into 指把某事塞进已有日程；fit out 是配备设备，fit up 是安装器材，fit on 是试穿，都不能接 timetable 表安排日程。"
+  },
+  {
+    "word": "interfere with",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Doctors warn that skipping breakfast regularly may ____ the body's ability to regulate blood sugar later in the day.",
+    "options": [
+      "interfere with",
+      "interfere in",
+      "insist on",
+      "result in"
+    ],
+    "answer": "interfere with",
+    "meaning": "妨碍、干扰（某项功能）",
+    "note": "interfere with 后接事物，指妨碍其运作；interfere in 指插手争端事务，insist on 是坚持要求，result in 是导致结果。"
+  },
+  {
+    "word": "interfere with",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "The referee ruled that the defender had ____ the goalkeeper's attempt to catch the ball and awarded a free kick.",
+    "options": [
+      "interfered with",
+      "interfered in",
+      "insisted on",
+      "resulted in"
+    ],
+    "answer": "interfered with",
+    "meaning": "干扰、阻碍（对方动作）",
+    "note": "interfere with an attempt 指阻碍动作；interfere in 指插手他人事务，裁判所指即干扰扑救，insist on 与 result in 均不合。"
+  },
+  {
+    "word": "comic strip",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Every morning millions of readers turn to the three-panel ____ that follows a hapless office clerk and his fat cat.",
+    "options": [
+      "comic strip",
+      "comic relief",
+      "comic opera",
+      "comic verse"
+    ],
+    "answer": "comic strip",
+    "meaning": "报纸上分格连载的连环漫画",
+    "note": "comic strip 指报刊分格连载的连环漫画；comic relief 是情节中的滑稽调剂，comic opera 是喜歌剧，comic verse 是诙谐诗。"
+  },
+  {
+    "word": "comic strip",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "For the class project, students were asked to turn a short story into a six-frame ____, using only drawings and a few captions.",
+    "options": [
+      "comic strip",
+      "comic relief",
+      "comic opera",
+      "comic verse"
+    ],
+    "answer": "comic strip",
+    "meaning": "用连续画面讲故事的连环漫画",
+    "note": "comic strip 指用连续几格图画讲故事；comic relief 是缓和气氛的段落，comic opera 与 comic verse 分别是喜歌剧和诙谐诗。"
+  },
+  {
+    "word": "stick figure",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "To explain the experiment quickly, the lecturer drew a ____ on the whiteboard, with two arms raised to show the magnetic field.",
+    "options": [
+      "stick figure",
+      "stick insect",
+      "stick shift",
+      "stick puppet"
+    ],
+    "answer": "stick figure",
+    "meaning": "用线条画成的人形（火柴人）",
+    "note": "stick figure 指用简单线条画的人形，正好举手示意；stick insect 是竹节虫，stick shift 是手动挡，stick puppet 是木偶。"
+  },
+  {
+    "word": "stick figure",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The animators first tested their software with a crude ____, a circle for a head and a line for each limb, before designing the film's real characters.",
+    "options": [
+      "stick figure",
+      "stick insect",
+      "stick shift",
+      "stick puppet"
+    ],
+    "answer": "stick figure",
+    "meaning": "圆圈头加线条四肢的小人",
+    "note": "stick figure 是圆圈脑袋加线条四肢的小人；stick insect 是昆虫，stick shift 是挡位，stick puppet 是木偶，都解释不了这张草图。"
+  },
+  {
+    "word": "speech bubble",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "In the last panel the character says nothing at all; the ____ above his head is completely empty, leaving readers to guess his reply.",
+    "options": [
+      "speech bubble",
+      "soap bubble",
+      "bubble wrap",
+      "filter bubble"
+    ],
+    "answer": "speech bubble",
+    "meaning": "漫画里包住台词的对话框",
+    "note": "speech bubble 指漫画里包住台词的对话框；soap bubble 是肥皂泡，bubble wrap 是包装膜，filter bubble 是信息茧房。"
+  },
+  {
+    "word": "speech bubble",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Beginners often stuff a ____ with long sentences, forgetting that real conversation rarely comes in neat paragraphs.",
+    "options": [
+      "speech bubble",
+      "soap bubble",
+      "bubble wrap",
+      "filter bubble"
+    ],
+    "answer": "speech bubble",
+    "meaning": "漫画中写台词的对话框",
+    "note": "speech bubble 指漫画中写台词的对话框，字数有限；soap bubble 一戳就破，bubble wrap 是包装膜，filter bubble 是信息茧房。"
+  }
+]

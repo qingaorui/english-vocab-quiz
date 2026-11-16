@@ -1,0 +1,302 @@
+[
+  {
+    "word": "insomnia",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Three weeks of lying awake until three in the morning left her doctor deeply concerned that the ____ had begun to damage both her memory and her mood.",
+    "options": [
+      "insomnia",
+      "amnesia",
+      "hypnosis",
+      "nostalgia"
+    ],
+    "answer": "insomnia",
+    "meaning": "失眠；长期睡不着觉",
+    "note": "insomnia 指长期难以入睡的失眠，与「躺到凌晨三点」完全对应；amnesia 是失忆，hypnosis 是催眠，nostalgia 是怀旧，都不是睡眠障碍，也不是睡不着带来的结果。"
+  },
+  {
+    "word": "fatigue",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Two back-to-back night shifts left the young nurse barely able to stay awake on the bus home, and the sheer ____ made even the short walk from the stop feel like a marathon.",
+    "options": [
+      "fever",
+      "nausea",
+      "fatigue",
+      "tension"
+    ],
+    "answer": "fatigue",
+    "meaning": "极度疲乏；劳累",
+    "note": "fatigue 指身心极度疲惫，与连值两个夜班、在车上睁不开眼一致；fever 发烧要有体温异常，nausea 恶心是胃部反应，tension 多指情绪紧张，都无法解释走一小段路像跑马拉松。"
+  },
+  {
+    "word": "therapy",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Her recovery owed less to the medicine than to the weekly ____ sessions in which a specialist helped her relearn everyday tasks like buttoning a shirt and holding a spoon.",
+    "options": [
+      "theory",
+      "therapy",
+      "surgery",
+      "remedy"
+    ],
+    "answer": "therapy",
+    "meaning": "治疗；康复疗法",
+    "note": "therapy 指有系统的治疗训练，可说 therapy sessions，且以重新学会扣纽扣这类实操为内容；theory 是理论，与动手练习相反；surgery 是外科手术，不能按周上课；remedy 多指药物或补救办法，不与 sessions 搭配。"
+  },
+  {
+    "word": "depression",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "He withdrew from friends, lost interest in the guitar he once loved, and was eventually diagnosed with ____ after months of sleeplessness.",
+    "options": [
+      "oppression",
+      "repression",
+      "impression",
+      "depression"
+    ],
+    "answer": "depression",
+    "meaning": "抑郁症；精神抑郁",
+    "note": "depression 指抑郁症，典型表现正是回避社交、对旧日爱好失去兴趣，能被医生确诊；oppression 是压迫，repression 是心理压抑机制，impression 是印象，三者都不是可以这样诊断的情感障碍。"
+  },
+  {
+    "word": "mindfulness",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Ten minutes of ____ every morning, spent simply noticing her breath and letting anxious thoughts drift past without judgement, steadied her nerves before the exam far better than any pill.",
+    "options": [
+      "mindlessness",
+      "thoughtfulness",
+      "nervousness",
+      "mindfulness"
+    ],
+    "answer": "mindfulness",
+    "meaning": "正念；专注当下的觉察",
+    "note": "mindfulness 指有意识地觉察当下而不加评判，正合「留意呼吸、任念头飘过」；mindlessness 是心不在焉，thoughtfulness 是体贴周到，nervousness 是紧张，用在这里反而与「稳住情绪」自相矛盾。"
+  },
+  {
+    "word": "meditation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The company now runs a lunchtime ____ session in a quiet room where staff close their eyes and follow a recorded voice for fifteen minutes, and many report sharper focus in the afternoon.",
+    "options": [
+      "medication",
+      "mediation",
+      "meditation",
+      "motivation"
+    ],
+    "answer": "meditation",
+    "meaning": "冥想；静坐调息",
+    "note": "meditation 是冥想，靠在安静房间闭眼跟随引导语放松；medication 是药物治疗，不会以闭眼听录音的方式进行；mediation 指调解纠纷，motivation 是动机或激励，都与这里的做法不符。"
+  },
+  {
+    "word": "symptom",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "A persistent dry cough was the first ____ she noticed, and by the third day she had also lost her sense of smell.",
+    "options": [
+      "syndrome",
+      "sympathy",
+      "symphony",
+      "symptom"
+    ],
+    "answer": "symptom",
+    "meaning": "症状；身体反常表现",
+    "note": "symptom 指某一种具体症状，干咳、失去嗅觉都是单项表现；syndrome 是症候群，指成组症状构成的整体；sympathy 是同情，symphony 是交响乐，与身体不适毫无关系。"
+  },
+  {
+    "word": "diagnosis",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "It took three specialists and a month of tests before the ____ was confirmed as a rare thyroid disorder, which at last explained years of puzzling weight loss.",
+    "options": [
+      "prognosis",
+      "analysis",
+      "diagnosis",
+      "synthesis"
+    ],
+    "answer": "diagnosis",
+    "meaning": "诊断；确诊结论",
+    "note": "diagnosis 指经检查得出的确诊结论，可「被确认为某种疾病」；prognosis 是对病情发展的预后预测，不是病名；analysis 是分析过程，synthesis 是综合，都无法被确认为一种甲状腺疾病。"
+  },
+  {
+    "word": "prescription",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The pharmacist refused to hand over the antibiotics without a valid ____, reminding the customer that the doctor's signature and date had to be on it.",
+    "options": [
+      "prescription",
+      "subscription",
+      "description",
+      "inscription"
+    ],
+    "answer": "prescription",
+    "meaning": "处方；医生开的药方",
+    "note": "prescription 是医生处方，药师凭它才能发处方药，且上面有医生签名和日期；subscription 是订阅，description 是文字描述，inscription 是铭文题词，都不能凭以取药。"
+  },
+  {
+    "word": "chronic",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Years of ____ lower-back pain that never really went away finally persuaded him to see a specialist, who warned that the damage would only worsen if he kept putting it off.",
+    "options": [
+      "occasional",
+      "chronic",
+      "temporary",
+      "sudden"
+    ],
+    "answer": "chronic",
+    "meaning": "慢性的；长期持续的",
+    "note": "chronic 指长期存在、反复发作的慢性病痛，与「多年」和「从未真正消失」吻合；occasional 偶尔发生、temporary 暂时的、sudden 突然的，都与「一直没好」直接冲突。"
+  },
+  {
+    "word": "acute",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Unlike the dull ache he had felt for months, the ____ pain that struck his lower right abdomen at midnight sent him to the emergency room within hours.",
+    "options": [
+      "acute",
+      "chronic",
+      "accurate",
+      "adequate"
+    ],
+    "answer": "acute",
+    "meaning": "急性的；突然剧烈发作的",
+    "note": "acute 指突然发作的急性剧痛，与午夜袭来、几小时内进急诊一致；chronic 是长期慢性的，与「和几个月的钝痛不同」相矛盾；accurate 准确的、adequate 足够的都不能修饰疼痛。"
+  },
+  {
+    "word": "immunity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Regular exercise and enough sleep help build ____, so that a cold that lays your classmates low may barely touch you.",
+    "options": [
+      "impunity",
+      "immunity",
+      "unity",
+      "integrity"
+    ],
+    "answer": "immunity",
+    "meaning": "免疫力；抵抗力",
+    "note": "immunity 指身体对疾病的免疫力，锻炼与睡眠能增强它，使感冒难以侵袭；impunity 是免受惩罚，unity 是团结统一，integrity 是正直完整，都不能解释「同学都病倒而你没事」。"
+  },
+  {
+    "word": "infection",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The cut on his knee looked harmless at first, but within two days the skin around it had turned red and hot, a clear sign of ____.",
+    "options": [
+      "injection",
+      "affection",
+      "inspection",
+      "infection"
+    ],
+    "answer": "infection",
+    "meaning": "感染；伤口发炎",
+    "note": "infection 指伤口感染，周围皮肤发红发烫正是典型表现；injection 是注射，affection 是喜爱，inspection 是检查，都与伤口变红发热这一病理现象无关。"
+  },
+  {
+    "word": "vaccine",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The new ____ has cut childhood cases of measles by more than ninety percent in countries where it is routinely given at nine months.",
+    "options": [
+      "antibiotic",
+      "placebo",
+      "vaccine",
+      "painkiller"
+    ],
+    "answer": "vaccine",
+    "meaning": "疫苗；预防接种制剂",
+    "note": "vaccine 是疫苗，可按常规给九个月大的婴儿接种并大幅减少麻疹病例；antibiotic 是抗生素，用于治疗细菌感染而非普遍预防接种；placebo 是安慰剂，painkiller 是止痛药，都做不到这一点。"
+  },
+  {
+    "word": "epidemic",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "What began as a few cases in one village soon grew into a nationwide ____, with hospitals in a dozen provinces reporting more patients than they could handle.",
+    "options": [
+      "episode",
+      "epidemic",
+      "incident",
+      "accident"
+    ],
+    "answer": "epidemic",
+    "meaning": "流行病；疫情蔓延",
+    "note": "epidemic 指迅速扩散的流行病，与「从几例发展到全国、医院应接不暇」吻合；episode 指一段插曲，incident 指个别事件，accident 指意外事故，都不能形容疾病大规模蔓延。"
+  },
+  {
+    "word": "quarantine",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Travellers arriving from the affected region had to spend fourteen days in ____ before they were allowed to go home.",
+    "options": [
+      "quarter",
+      "quartet",
+      "quarantine",
+      "quarry"
+    ],
+    "answer": "quarantine",
+    "meaning": "隔离；检疫观察期",
+    "note": "quarantine 指对来自疫区的人实行为期若干天的隔离观察，十四天正是常见期限；quarter 是四分之一或季度，quartet 是四重奏，quarry 是采石场，都不能与「十四天不能回家」搭配。"
+  },
+  {
+    "word": "rehabilitation",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Six weeks of ____ after the knee operation taught him to walk again on a treadmill while a physiotherapist watched every step.",
+    "options": [
+      "renovation",
+      "revelation",
+      "repetition",
+      "rehabilitation"
+    ],
+    "answer": "rehabilitation",
+    "meaning": "康复训练；康复治疗",
+    "note": "rehabilitation 指术后康复训练，由理疗师指导重新学会行走；renovation 是房屋翻修，revelation 是揭露或启示，repetition 是重复，都不会由理疗师带着在跑步机上做。"
+  },
+  {
+    "word": "addiction",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "A habit that began as a way to relax after work slowly turned into a serious ____, and he now reaches for his phone even at dinner.",
+    "options": [
+      "addition",
+      "edition",
+      "audition",
+      "addiction"
+    ],
+    "answer": "addiction",
+    "meaning": "瘾；难以自控的沉迷",
+    "note": "addiction 指上瘾、难以自控的依赖，与「连吃饭也要拿着手机」吻合；addition 是增加或加法，edition 是版本，audition 是试镜，都不能表示一种戒不掉的坏习惯。"
+  },
+  {
+    "word": "sedentary",
+    "pos": "adj.",
+    "level": "更高要求",
+    "sentence": "Doctors warn that a ____ lifestyle, with eight hours at a desk followed by an evening on the sofa, raises the risk of heart disease even in people who are not overweight.",
+    "options": [
+      "sedentary",
+      "solitary",
+      "secondary",
+      "sanitary"
+    ],
+    "answer": "sedentary",
+    "meaning": "久坐的；缺乏运动的",
+    "note": "sedentary 指久坐少动，与「八小时伏案加整晚窝在沙发」直接对应；solitary 是独自一人的，secondary 是次要的，sanitary 是卫生的，都不能解释缺乏活动带来的心脏病风险。"
+  },
+  {
+    "word": "posture",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Sitting hunched over a laptop for hours ruins your ____, so physiotherapists advise raising the screen to eye level and keeping both feet flat on the floor.",
+    "options": [
+      "gesture",
+      "posture",
+      "pasture",
+      "texture"
+    ],
+    "answer": "posture",
+    "meaning": "姿势；坐姿体态",
+    "note": "posture 指身体的坐姿体态，含胸驼背久坐会毁掉它，故要把屏幕抬到视线高度；gesture 是手势，pasture 是牧场，texture 是质地手感，都与坐直、双脚平放的建议无关。"
+  }
+]

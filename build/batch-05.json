@@ -1,0 +1,497 @@
+[
+  {
+    "word": "rehearsal",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The director has scheduled an extra ____ on Saturday morning so that the cast can practise the opening scene before the technical crew joins them.",
+    "options": [
+      "rehearsal",
+      "recital",
+      "audition",
+      "exhibition"
+    ],
+    "answer": "rehearsal",
+    "meaning": "排练，为正式演出做的练习",
+    "note": "rehearsal 指为正式演出反复练习，与 practise the opening scene 对应；recital 是公开的音乐或舞蹈演出，audition 是选拔试演，exhibition 是展览，都不含反复练习的意思。"
+  },
+  {
+    "word": "audition",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "More than sixty first-year students signed up for the ____, all hoping to be cast as one of the three leads in the spring musical.",
+    "options": [
+      "audition",
+      "rehearsal",
+      "interview",
+      "application"
+    ],
+    "answer": "audition",
+    "meaning": "试演，为争取角色而表演",
+    "note": "audition 指为争取角色当众试演，所以大家盼着被 cast；rehearsal 是演员确定后的排练，interview 是面谈问答，application 只是递交的书面申请。"
+  },
+  {
+    "word": "choreography",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "The dance troupe's new piece was praised less for its music than for its ____, which blended folk steps with sharp modern movements.",
+    "options": [
+      "choreography",
+      "composition",
+      "costume",
+      "scenery"
+    ],
+    "answer": "choreography",
+    "meaning": "编舞；舞蹈动作的编排",
+    "note": "choreography 指舞蹈动作的设计编排，正与 blended folk steps 呼应；composition 是作曲，costume 是服装，scenery 是舞台布景，都不涉及舞步安排。"
+  },
+  {
+    "word": "orchestra",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Barely had the ____ tuned their instruments when the conductor raised his baton and called for silence.",
+    "options": [
+      "orchestra",
+      "audience",
+      "choir",
+      "cast"
+    ],
+    "answer": "orchestra",
+    "meaning": "管弦乐队；大型交响乐团",
+    "note": "orchestra 由乐手组成，演出前要调音，台上还有 conductor；audience 是观众不会调音，choir 是合唱团，用嗓音而不弄乐器，cast 是剧组演员。"
+  },
+  {
+    "word": "choir",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "She joined the church ____ last autumn and now spends every Thursday evening learning harmonies with thirty other singers.",
+    "options": [
+      "choir",
+      "orchestra",
+      "band",
+      "cast"
+    ],
+    "answer": "choir",
+    "meaning": "合唱团；演唱和声的团体",
+    "note": "choir 是成员一起练和声的合唱团，同伴是 singers；orchestra 和 band 都是演奏乐器的乐队，cast 指一部戏的全体演员，都不以学和声为主。"
+  },
+  {
+    "word": "ensemble",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Unlike a full orchestra, the chamber ____ performs without a conductor, so each player must watch the others for every cue.",
+    "options": [
+      "ensemble",
+      "soloist",
+      "choir",
+      "auditorium"
+    ],
+    "answer": "ensemble",
+    "meaning": "（小型）演奏组合；室内乐团",
+    "note": "ensemble 是若干演奏者组成的小型组合，与 each player 一致；soloist 只有一个人，choir 成员是歌手而非 player，auditorium 是演出的厅堂。"
+  },
+  {
+    "word": "exhibition",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Ticket sales for the ____ of student ceramics were so strong that the university extended the show by two weeks.",
+    "options": [
+      "exhibition",
+      "performance",
+      "rehearsal",
+      "concert"
+    ],
+    "answer": "exhibition",
+    "meaning": "展览；展品陈列活动",
+    "note": "exhibition 指陈列陶瓷等实物的展览，才有门票和延期；performance 和 concert 是现场演出，rehearsal 是排练，都不陈列可看的展品。"
+  },
+  {
+    "word": "curator",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Persuading private owners to lend their paintings took the ____ three years, and her patient letters are now quoted in every guide to the show.",
+    "options": [
+      "curator",
+      "critic",
+      "guard",
+      "visitor"
+    ],
+    "answer": "curator",
+    "meaning": "（博物馆/展览）策展人",
+    "note": "curator 负责策划展览并说服私人藏家出借画作；critic 只写评论，guard 是展馆保安，visitor 是来参观的人，都不会去借展品。"
+  },
+  {
+    "word": "sculpture",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Visitors are asked not to touch the marble ____, since the oils on human fingers slowly damage its polished surface.",
+    "options": [
+      "sculpture",
+      "painting",
+      "canvas",
+      "photograph"
+    ],
+    "answer": "sculpture",
+    "meaning": "雕塑；雕刻出来的立体作品",
+    "note": "sculpture 是用大理石凿成的立体作品，才有怕手油侵蚀的抛光表面；painting、canvas、photograph 都是平面作品，与 marble 搭配不通。"
+  },
+  {
+    "word": "portrait",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Hanging above the entrance is a life-size ____ of the founder, painted when she was still a young teacher.",
+    "options": [
+      "portrait",
+      "landscape",
+      "sketch",
+      "poster"
+    ],
+    "answer": "portrait",
+    "meaning": "肖像画；人物肖像作品",
+    "note": "portrait 是以真人为对象的画像，与 of the founder 和 painted 相符；landscape 是风景画，sketch 是素描草图，poster 是印制的海报，都不是真人油画。"
+  },
+  {
+    "word": "gallery",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "We spent the whole afternoon in the university's art ____, which had just opened a wing for modern prints.",
+    "options": [
+      "gallery",
+      "studio",
+      "workshop",
+      "laboratory"
+    ],
+    "answer": "gallery",
+    "meaning": "美术馆；画廊（展览场所）",
+    "note": "gallery 是开放参观、能扩建展 wing 的美术馆；studio 是画家个人画室，workshop 是手工作坊，laboratory 是实验室，都不对公众陈列版画。"
+  },
+  {
+    "word": "canvas",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "She stretched a fresh ____ over the wooden frame and began blocking in the colours of the sunset with broad strokes.",
+    "options": [
+      "canvas",
+      "frame",
+      "palette",
+      "easel"
+    ],
+    "answer": "canvas",
+    "meaning": "画布，绷在木框上的布",
+    "note": "canvas 是能绷在木框上、用来铺颜色的画布；frame 就是那个木框本身，palette 是调色板，easel 是支画架，都无法绷在上面作画。"
+  },
+  {
+    "word": "palette",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Mixing yellow straight into the blue was a mistake, so she now keeps her warm colours on a separate ____.",
+    "options": [
+      "palette",
+      "canvas",
+      "brush",
+      "easel"
+    ],
+    "answer": "palette",
+    "meaning": "调色板，用来调颜料",
+    "note": "palette 是调色时摆放颜料的板子；把黄色直接混进蓝色搞砸后，她改为把暖色单独放在一块调色板上。canvas 是画布，brush 是画笔，easel 是画架，都不能盛放调好的颜色。"
+  },
+  {
+    "word": "inspiration",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Her latest series of prints draws its ____ from the narrow streets of the old town where she grew up.",
+    "options": [
+      "inspiration",
+      "ambition",
+      "imitation",
+      "instruction"
+    ],
+    "answer": "inspiration",
+    "meaning": "灵感；艺术创作的启发",
+    "note": "draw inspiration from 指从某处汲取创作灵感；ambition 是个人志向，imitation 是仿制品，instruction 是指示说明，都不表示作品取材于何处。"
+  },
+  {
+    "word": "creativity",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Our writing tutor rewards ____ rather than neatness, so students feel free to invent new formats and break the usual rules.",
+    "options": [
+      "creativity",
+      "accuracy",
+      "discipline",
+      "punctuality"
+    ],
+    "answer": "creativity",
+    "meaning": "创造力；产生新想法的能力",
+    "note": "creativity 指想出新颖点子的能力，与 invent new formats 对应；accuracy 是准确度，discipline 是纪律，punctuality 是守时，都属于规矩而非创新。"
+  },
+  {
+    "word": "improvisation",
+    "pos": "n.",
+    "level": "更高要求",
+    "sentence": "Halfway through the concert the power failed, and the pianist's ____ kept the audience entertained until the lights came back.",
+    "options": [
+      "improvisation",
+      "composition",
+      "cooperation",
+      "exhibition"
+    ],
+    "answer": "improvisation",
+    "meaning": "即兴演奏，现场即兴创作",
+    "note": "improvisation 指毫无准备地当场即兴演奏，正合停电的突发情形；composition 是事先写好的乐曲，cooperation 是合作，exhibition 是展览。"
+  },
+  {
+    "word": "talent",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Scouts from three record companies came to the show, convinced that the young singer had the ____ to become a star.",
+    "options": [
+      "talent",
+      "interest",
+      "patience",
+      "courage"
+    ],
+    "answer": "talent",
+    "meaning": "天赋；与生俱来的才华",
+    "note": "talent 指能成为明星的歌唱天赋，这才值得星探专程赶来；interest 只是兴趣，patience 是耐心，courage 是勇气，都不足以支撑 star 的前景。"
+  },
+  {
+    "word": "tournament",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Over forty teams signed up for the five-a-side ____, which runs for six weekends and ends with a knockout final.",
+    "options": [
+      "tournament",
+      "match",
+      "fixture",
+      "session"
+    ],
+    "answer": "tournament",
+    "meaning": "锦标赛；多轮淘汰的赛事",
+    "note": "tournament 是四十多队参加、跨六个周末并以淘汰决赛收尾的赛事；match 和 fixture 都是单场比赛，session 是一次训练课，规模对不上。"
+  },
+  {
+    "word": "coach",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Before every practice the new ____ makes us stretch for a full hour, and nobody has pulled a muscle all term.",
+    "options": [
+      "coach",
+      "referee",
+      "opponent",
+      "spectator"
+    ],
+    "answer": "coach",
+    "meaning": "教练；负责带队训练的人",
+    "note": "coach 负责安排训练和拉伸，所以整个学期没人拉伤；referee 只执法比赛，opponent 是对手，spectator 是看台上的观众，都不管我们训练。"
+  },
+  {
+    "word": "fitness",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After two months of swimming and cycling, his ____ had improved so much that he could climb six flights without gasping.",
+    "options": [
+      "fitness",
+      "illness",
+      "appetite",
+      "weight"
+    ],
+    "answer": "fitness",
+    "meaning": "体能；身体的健康状态",
+    "note": "fitness 指体能，改善后爬六层楼不再喘；illness 是疾病，appetite 是食欲，weight 是体重，体重变化说 gain 或 lose，与 improve 不搭配。"
+  },
+  {
+    "word": "stamina",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "It was not speed but ____ that won him the race, since he kept the same steady pace while everyone else faded in the final mile.",
+    "options": [
+      "stamina",
+      "talent",
+      "courage",
+      "technique"
+    ],
+    "answer": "stamina",
+    "meaning": "耐力；长时间坚持的体力",
+    "note": "stamina 指长时间保持体力输出的耐力，故别人掉速时他仍能匀速；talent 是天赋，courage 是勇气，technique 是技术，都解释不了后半程的体能。"
+  },
+  {
+    "word": "teamwork",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The project worked because of the ____ between the engineers and the marketing staff, not because of any single brilliant designer.",
+    "options": [
+      "teamwork",
+      "friendship",
+      "competition",
+      "discussion"
+    ],
+    "answer": "teamwork",
+    "meaning": "团队协作；分工配合的精神",
+    "note": "teamwork 指为共同目标分工配合，与 not any single designer 形成对比；friendship 是私交，competition 是竞争，discussion 只是讨论，都撑不起项目。"
+  },
+  {
+    "word": "sportsmanship",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "When the referee's decision went against them, the players shook hands with their opponents, and the crowd praised their ____.",
+    "options": [
+      "sportsmanship",
+      "craftsmanship",
+      "scholarship",
+      "showmanship"
+    ],
+    "answer": "sportsmanship",
+    "meaning": "体育精神；公平比赛的风度",
+    "note": "sportsmanship 指判罚不利时仍与对手握手的风度；craftsmanship 是手艺，scholarship 是奖学金或学术研究，showmanship 是表演噱头，都与公平竞赛无关。"
+  },
+  {
+    "word": "fundraising",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Every spring the art club holds a ____ event that raises enough money to send twelve local children to summer camp for a fortnight.",
+    "options": [
+      "fundraising",
+      "recruitment",
+      "training",
+      "celebration"
+    ],
+    "answer": "fundraising",
+    "meaning": "募捐；为筹款办的活动",
+    "note": "fundraising 指以筹钱为目的的活动，正是 raises enough money 所说；recruitment 是招新，training 是训练，celebration 是庆祝，都不以筹款为目标。"
+  },
+  {
+    "word": "sponsor",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Without a major ____, whose money paid for the timing chips and the medals, the city marathon could never have gone ahead.",
+    "options": [
+      "sponsor",
+      "spectator",
+      "volunteer",
+      "participant"
+    ],
+    "answer": "sponsor",
+    "meaning": "赞助商；出钱支持活动的人",
+    "note": "sponsor 是出钱支持赛事的赞助商，故有 whose money paid for...；spectator 是观众，volunteer 是志愿者，participant 是参赛者，都不提供资金。"
+  },
+  {
+    "word": "recruit",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Before the food drive begins next month, the charity still needs to ____ at least thirty volunteers willing to give up a Saturday.",
+    "options": [
+      "recruit",
+      "recover",
+      "record",
+      "remove"
+    ],
+    "answer": "recruit",
+    "meaning": "招募；吸收新成员加入",
+    "note": "recruit 指招募愿出力的人；recover 是康复，record 只是把事情记下来，remove 是移除，三者都不能让三十个人来帮忙。"
+  },
+  {
+    "word": "membership",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The photography society offers a discounted ____ to first-year students, which covers all workshops and gives access to the darkroom.",
+    "options": [
+      "membership",
+      "leadership",
+      "ownership",
+      "friendship"
+    ],
+    "answer": "membership",
+    "meaning": "会员资格；入会后享有的身份",
+    "note": "membership 指缴费入会后享有的资格，涵盖工作坊和暗房使用；leadership 是领导地位，ownership 是所有权，friendship 是友谊，都不带这些权益。"
+  },
+  {
+    "word": "attendance",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Lecture ____ has fallen sharply since the recordings went online, and some tutors now check names at the door.",
+    "options": [
+      "attendance",
+      "attention",
+      "attitude",
+      "assistance"
+    ],
+    "answer": "attendance",
+    "meaning": "出勤情况；到场的人数",
+    "note": "attendance 指出勤人数，下降后老师才在门口点名核对；attention 是注意力，attitude 是态度，assistance 是帮助，都不是点名能查的东西。"
+  },
+  {
+    "word": "participation",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Class ____ counts for twenty per cent of the final grade, so students who never speak up lose marks even if their essays are excellent.",
+    "options": [
+      "participation",
+      "attendance",
+      "preparation",
+      "punctuality"
+    ],
+    "answer": "participation",
+    "meaning": "参与度；课堂参与的活跃程度",
+    "note": "participation 指课上发言、参与讨论，所以才会有“从不发言就丢分”的结果；attendance 只看出勤，preparation 只看课前预习，punctuality 只看是否准时，三者都与发言无关，不发言照样能拿分。"
+  },
+  {
+    "word": "commitment",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Joining the rowing club is easy, but the six o'clock starts and the long trips away soon test a member's ____.",
+    "options": [
+      "commitment",
+      "committee",
+      "compliment",
+      "complaint"
+    ],
+    "answer": "commitment",
+    "meaning": "投入；长期投入的责任感",
+    "note": "commitment 指长期投入的意愿，早起和远征正好考验它；committee 是委员会，compliment 是赞美，complaint 是抱怨，都不是能被出勤安排考验的品质。"
+  },
+  {
+    "word": "burnout",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Volunteers who answer the helpline every night for months often suffer from ____, so the centre now rotates shifts among a larger team.",
+    "options": [
+      "burnout",
+      "breakthrough",
+      "output",
+      "outburst"
+    ],
+    "answer": "burnout",
+    "meaning": "（长期劳累导致的）身心耗竭",
+    "note": "burnout 指长期高强度付出后的身心耗竭，所以中心改成轮班；breakthrough 是突破，output 是产量，outburst 是情绪爆发，语义都不合。"
+  },
+  {
+    "word": "hobby",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "What started as a weekend ____ that he took up purely for fun has slowly turned into a second career, and he now sells his bird photographs to magazines.",
+    "options": [
+      "hobby",
+      "habit",
+      "chore",
+      "assignment"
+    ],
+    "answer": "hobby",
+    "meaning": "业余爱好；业余的兴趣消遣",
+    "note": "hobby 指出于兴趣的业余爱好，与 took up purely for fun 对应；habit 是无意识的习惯，不能说 take up，chore 是家务杂活，assignment 是布置的任务，都不会出于兴趣去做。"
+  },
+  {
+    "word": "leisure",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "He spends his ____ painting watercolours and cycling along the river, refusing to take on any extra shifts at the shop.",
+    "options": [
+      "leisure",
+      "pleasure",
+      "treasure",
+      "measure"
+    ],
+    "answer": "leisure",
+    "meaning": "闲暇；工作之余的空闲时间",
+    "note": "leisure 指工作之外的空闲时间，spend one's leisure doing 意为利用闲暇做某事；pleasure 是乐趣，treasure 是珍宝，measure 是措施，都不能这样用。"
+  }
+]

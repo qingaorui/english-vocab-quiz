@@ -24,7 +24,7 @@ bank.forEach((q, i) => {
   if (seen.has(q.id)) problems.push(`${at}: id 重复`);
   seen.add(q.id);
 
-  if (![1, 2, 3, 4, 5].includes(q.unit)) problems.push(`${at}: unit 非法 (${q.unit})`);
+  if (![1, 2, 3, 4, 5, 6].includes(q.unit)) problems.push(`${at}: unit 非法 (${q.unit})`);
   if (!q.word) problems.push(`${at}: 缺少 word`);
   if (!q.pos) problems.push(`${at}: 缺少 pos`);
   if (!q.meaning) problems.push(`${at}: 缺少 meaning`);

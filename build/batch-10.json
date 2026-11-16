@@ -1,0 +1,302 @@
+[
+  {
+    "word": "recruitment",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Because three new branches were due to open in March, the ____ of bilingual sales staff went on all winter, with advertisements in local papers and a booth at every job fair.",
+    "options": [
+      "recruitment",
+      "retention",
+      "retirement",
+      "registration"
+    ],
+    "answer": "recruitment",
+    "meaning": "招聘；招募新人",
+    "note": "recruitment 指企业招进新人；retention 是留住现有员工，与登报招聘、摆展位矛盾；retirement 指退休，registration 指登记注册，都不涉及招人。"
+  },
+  {
+    "word": "applicant",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Every ____ for the summer internship must upload a transcript and two letters of reference before the online portal closes on Friday.",
+    "options": [
+      "applicant",
+      "attendant",
+      "occupant",
+      "tenant"
+    ],
+    "answer": "applicant",
+    "meaning": "申请人；应聘者",
+    "note": "applicant 指为职位或名额提出申请的人，常与 for 连用；attendant 是服务员，occupant 是居住者或占用者，tenant 是租户，都不能指实习的申请人。"
+  },
+  {
+    "word": "candidate",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Three weeks before the club election, the quiet treasurer had somehow become the most talked-about ____, with hand-made posters appearing on every noticeboard in the building.",
+    "options": [
+      "candidate",
+      "applicant",
+      "graduate",
+      "delegate"
+    ],
+    "answer": "candidate",
+    "meaning": "候选人；人选",
+    "note": "candidate 指选举或竞争中的人选；applicant 专指求职、入学的申请者，与贴海报拉票无关；graduate 是毕业生，delegate 是会议代表，都不参加这场选举。"
+  },
+  {
+    "word": "qualification",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "For this post, a master's degree is the minimum ____, and no amount of enthusiasm will make the personnel office waive it.",
+    "options": [
+      "qualification",
+      "allowance",
+      "pension",
+      "bonus"
+    ],
+    "answer": "qualification",
+    "meaning": "资格；任职条件",
+    "note": "qualification 指任职所需的资格条件；allowance 是津贴，pension 是养老金，bonus 是奖金，三者都是发放的钱，不能由人事处按学历审核或免除。"
+  },
+  {
+    "word": "expertise",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Nobody on the committee doubted her ____ in molecular biology; what worried them was whether she had the patience to supervise first-year students.",
+    "options": [
+      "expertise",
+      "exposure",
+      "expense",
+      "exception"
+    ],
+    "answer": "expertise",
+    "meaning": "专业知识与技能",
+    "note": "expertise 指某一领域的专门知识，常与 in 搭配；exposure 一般接 to，意为接触；expense 是花费，exception 是例外，都不能表示专业造诣。"
+  },
+  {
+    "word": "telecommute",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "Since the lease on the downtown office expired, she has ____ every Tuesday and Thursday, joining meetings by video and saving two hours of driving each week.",
+    "options": [
+      "telecommuted",
+      "commuted",
+      "migrated",
+      "relocated"
+    ],
+    "answer": "telecommuted",
+    "meaning": "远程办公；在家上班",
+    "note": "telecommute 指在家或异地远程办公；commute 是通勤往返，仍要出门，与省下两小时车程矛盾；migrate 指迁徙，relocate 指搬迁，都需另接地点或宾语。"
+  },
+  {
+    "word": "appraisal",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "At the end of each year every employee sits down with a manager for a formal ____ of what went well and what should change in the next twelve months.",
+    "options": [
+      "appraisal",
+      "approval",
+      "appeal",
+      "application"
+    ],
+    "answer": "appraisal",
+    "meaning": "考核；绩效评估",
+    "note": "appraisal 指对一年工作表现的正式考评；approval 是批准，appeal 是上诉或吸引力，application 是申请或应用，都不能指回顾得失的年度谈话。"
+  },
+  {
+    "word": "supervisor",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Any request to change your shift pattern has to be signed by your immediate ____ before it goes upstairs to the personnel office.",
+    "options": [
+      "supervisor",
+      "inspector",
+      "instructor",
+      "spectator"
+    ],
+    "answer": "supervisor",
+    "meaning": "主管；直接上司",
+    "note": "supervisor 指直接管理你工作的上级，immediate supervisor 是常用说法；inspector 是检查员，instructor 是讲师，spectator 是观众，都不在你的汇报线上。"
+  },
+  {
+    "word": "subordinate",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "She now has six people working under her, and the hardest part of managing a ____ is pointing out mistakes without destroying confidence.",
+    "options": [
+      "subordinate",
+      "supervisor",
+      "superior",
+      "colleague"
+    ],
+    "answer": "subordinate",
+    "meaning": "下属；下级",
+    "note": "subordinate 指职位低于自己、由自己管理的人；supervisor 和 superior 都是上级，colleague 是同级同事，与“手下带六个人”这一线索相反。"
+  },
+  {
+    "word": "delegation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "____, most new managers discover, is the hardest of all managerial skills, because handing a task to someone else feels like giving away control of it.",
+    "options": [
+      "delegation",
+      "dedication",
+      "deletion",
+      "deviation"
+    ],
+    "answer": "delegation",
+    "meaning": "授权；分派工作",
+    "note": "delegation 指把任务连同权限交给下属；dedication 指投入与奉献，属于态度而非管理技能；deletion 是删除，deviation 是偏离，都与交办任务无关。"
+  },
+  {
+    "word": "overtime",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Because the factory had won a huge order, the staff worked a month of ____, paid at one and a half times their normal hourly rate.",
+    "options": [
+      "overtime",
+      "overwork",
+      "overload",
+      "oversight"
+    ],
+    "answer": "overtime",
+    "meaning": "加班（时间）",
+    "note": "overtime 指额外加班的时间，并按更高时薪计酬；overwork 是劳累过度，overload 是负荷过重，oversight 是疏忽，三者都没有加班费一说。"
+  },
+  {
+    "word": "shift",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Nurses who pick up an extra night ____ finish at seven in the morning, just as the day staff arrive to take over their patients.",
+    "options": [
+      "shift",
+      "schedule",
+      "session",
+      "term"
+    ],
+    "answer": "shift",
+    "meaning": "班次；轮班",
+    "note": "shift 指轮班的时段，night shift 是固定搭配，pick up an extra shift 也常说；schedule 是时间表，session 指一场会议或一节课，term 指学期或任期，都不能表示早夜两班轮换的工作时段。"
+  },
+  {
+    "word": "contract",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The ____ negotiations dragged on for six weeks, and in the end both sides agreed that early termination would require three months' notice.",
+    "options": [
+      "contract",
+      "contact",
+      "contrast",
+      "contest"
+    ],
+    "answer": "contract",
+    "meaning": "合同；合约",
+    "note": "contract 指有法律效力、由双方谈定的合同；contact 是联系或联系人，contrast 是对比，contest 是比赛或争辩，都不会有谈判和提前终止条款。"
+  },
+  {
+    "word": "probation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "New hires spend their first three months on ____, during which either side may end the arrangement with a week's notice.",
+    "options": [
+      "probation",
+      "proportion",
+      "provision",
+      "profession"
+    ],
+    "answer": "probation",
+    "meaning": "试用期",
+    "note": "on probation 指处于试用考察期，双方可提前解约；proportion 是比例，provision 是条款或提供，profession 是职业，都不能与 on 连用表示试用。"
+  },
+  {
+    "word": "dismissal",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The union is challenging the ____ of a warehouse worker who was fired over a mistake that his own supervisor had also made.",
+    "options": [
+      "dismissal",
+      "disapproval",
+      "disagreement",
+      "disappointment"
+    ],
+    "answer": "dismissal",
+    "meaning": "解雇；开除",
+    "note": "dismissal 指雇主解雇员工，与 was fired 呼应；disapproval 是不赞成，disagreement 是意见分歧，disappointment 是失望，三者都不等于被开除。"
+  },
+  {
+    "word": "redundancy",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "When the two departments merged, the union feared that hundreds of jobs would disappear, and by March the company had confirmed its first ____.",
+    "options": [
+      "redundancies",
+      "vacancies",
+      "promotions",
+      "resignations"
+    ],
+    "answer": "redundancies",
+    "meaning": "因岗位撤销而裁员",
+    "note": "redundancy 指岗位被撤销而裁员，常用复数；vacancies 是空缺职位，promotions 是晋升，resignations 是主动辞职，都与岗位消失、人心不安相反。"
+  },
+  {
+    "word": "pension",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After thirty-two years at the school, she finally retired on a full ____, and now spends every summer riding a bicycle along the coast.",
+    "options": [
+      "pension",
+      "allowance",
+      "bonus",
+      "subsidy"
+    ],
+    "answer": "pension",
+    "meaning": "养老金；退休金",
+    "note": "retire on a full pension 指退休后领取全额养老金；allowance 是津贴，bonus 是奖金，subsidy 是政府补贴，都不是退休后长期领取的养老待遇。"
+  },
+  {
+    "word": "allowance",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Since starting university he has lived on a monthly ____ from his parents and refuses to ask them for one extra yuan.",
+    "options": [
+      "allowance",
+      "pension",
+      "salary",
+      "bonus"
+    ],
+    "answer": "allowance",
+    "meaning": "（父母给的）零用钱、生活费",
+    "note": "allowance 指定期给的一笔零用钱或生活费；pension 是养老金，salary 是雇主发的工资，bonus 是奖金，都不可能由父母按月给在读的孩子。"
+  },
+  {
+    "word": "incentive",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The firm offers a cash ____ to any team that cuts its energy use by ten percent, and last year three departments shared the prize.",
+    "options": [
+      "incentive",
+      "initiative",
+      "incident",
+      "instinct"
+    ],
+    "answer": "incentive",
+    "meaning": "激励；奖励措施",
+    "note": "incentive 指为促使团队行动而给的奖励，可与 cash 搭配；initiative 是主动性或新倡议，不能用 cash 修饰表示发给团队的钱；incident 是事件，instinct 是本能。"
+  },
+  {
+    "word": "workplace",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Surveys suggest that a friendly ____ matters more to young employees than a slightly higher salary, so firms now spend money on team lunches and open lounges.",
+    "options": [
+      "workplace",
+      "workshop",
+      "workload",
+      "workstation"
+    ],
+    "answer": "workplace",
+    "meaning": "工作场所；职场环境",
+    "note": "workplace 指员工工作所在的场所及其氛围；workshop 是车间或研讨班，workload 是工作量，workstation 是工作台，都无法用 friendly 形容整体氛围。"
+  }
+]

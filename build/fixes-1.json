@@ -1,0 +1,30 @@
+[
+  {
+    "word": "freelance",
+    "match": "As a ____ writer, he has no fixed employer",
+    "options": ["freelance", "seasonal", "salaried", "spare"],
+    "answer": "freelance",
+    "note": "后文 no fixed employer、把文章卖给任何肯付钱的人，正是 freelance（自由撰稿）的定义。salaried 指“领固定薪水的”，与 no fixed employer 直接矛盾；seasonal 是“季节性的”，spare 是“备用的”，都不能说明这种身份。",
+    "reason": "skilled 代入后句子同样成立（“作为一名熟练的作家，他没有固定雇主……”），与 freelance 并存两个答案，换成与 no fixed employer 直接矛盾的 salaried。"
+  },
+  {
+    "word": "overwhelming",
+    "match": "The response to her online course was ____",
+    "options": ["overwhelming", "overdue", "outgoing", "overgrown"],
+    "answer": "overwhelming",
+    "note": "overwhelming response 是高频搭配，指“反响极其热烈、铺天盖地”，与冒号后一周内上万人报名相呼应。overdue 是“过期的、迟来的”，与 within a week 直接矛盾；outgoing 是“外向的”（形容人），overgrown 是“杂草丛生的”，都不能形容反响。",
+    "reason": "outstanding 代入后完全成立（“反响极为出色：一周内上万人报名”），与 overwhelming 并列正确，换成被 within a week 排除的 overdue。"
+  },
+  {
+    "word": "anxiety",
+    "match": "Talking to her tutor helped her turn the constant ____",
+    "note": "anxiety about grades 指对成绩的持续焦虑，辅导老师正是帮她缓冲这种情绪、把乱糟糟的担忧变成固定学习安排的人。animosity 是“敌意”，autonomy 是“自主权”，都不能说 constant ... about grades；ambiguity 虽可与 about grades 搭配（指评分标准含糊不清），但“把含糊变成每周例行学习”逻辑不通，也与“找辅导老师谈心”的语境不合。",
+    "reason": "原解析称 ambiguity 不能与 about grades 搭配，这个说法是错的（ambiguity about grades 完全成立），会教给学生错误的搭配禁令。"
+  },
+  {
+    "word": "distraction",
+    "match": "If you revise with your phone face-up on the desk, every notification becomes a ____",
+    "sentence": "If you revise with your phone face-up on the desk, every notification becomes a ____, and the two hours you set aside shrink to forty minutes of real work.",
+    "reason": "表示数量缩减应用 shrink to，shrink into 搭配不地道；the two hours you planned 语义不完整，改为 you set aside。"
+  }
+]

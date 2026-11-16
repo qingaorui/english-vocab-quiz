@@ -1,0 +1,30 @@
+[
+  {
+    "word": "gadget",
+    "match": "He keeps ordering clever little ____ that",
+    "sentence": "He keeps ordering clever little ____ from late-night shopping channels—a pen that scans text, a mug that stirs itself—and most end up in a drawer once the novelty wears off.",
+    "note": "gadget 指小巧新奇的小玩意儿，与“会扫描文字的笔、能自己搅拌的杯子”这类东西以及“新奇感一过就丢进抽屉”呼应；appliance 指洗衣机、烤炉一类家用电器，instrument 指精密仪器或乐器，apparatus 指成套的实验器械，都不能指这类随手买来又闲置的小东西。",
+    "reason": "“clever little appliances that promise to simplify his life”同样成立，appliance 构成第二个正确答案；改为列举并非家用电器的具体小物，锁定 gadget。"
+  },
+  {
+    "word": "satellite",
+    "match": "Forecasters depend on a ____ that circles the",
+    "sentence": "Forecasters depend on a ____ that orbits the planet every ninety minutes, sending back images of storm clouds forming over the ocean.",
+    "note": "satellite 指人造卫星，绕地球运行并回传云图，与“每九十分钟绕地球一圈”呼应；submarine 是潜艇，scaffold 是脚手架，都到不了太空；spaceship 是载人飞船，不承担气象观测。",
+    "reason": "气象卫星是绕地球运行（静止轨道或极轨），原文“circles the equator every ninety minutes”在事实和表达上都不准确。"
+  },
+  {
+    "word": "semiconductor",
+    "match": "The worldwide shortage of ____ has forced",
+    "sentence": "The worldwide shortage of ____ chips has forced carmakers to pause production lines, since a single modern vehicle now needs several hundred of them.",
+    "note": "semiconductor 指半导体，是制造芯片的材料，semiconductor chips 即车载芯片；conductor 是导体（如铜线），superconductor 是超导体，insulator 是绝缘体，三者都不能用来指这类芯片。",
+    "reason": "“the shortage of semiconductor”把可数名词当成不可数名词单用，英语中应说 shortage of semiconductors 或 semiconductor chips。"
+  },
+  {
+    "word": "habitat",
+    "match": "Road builders have agreed to plant hedges and build two wildlife bridges so that deer and foxes can cross the new motorway without losing their ____",
+    "sentence": "Road builders have agreed to build two wildlife bridges so that deer and foxes, whose ____ the new motorway has cut in two, can still reach the woods on either side.",
+    "note": "habitat 指动物栖息的天然环境，这里指被新修公路切成两半的栖息地；habit 是习惯，inhabitant 是居民，habitation 指居住这一状态或住所，都不可能被公路“切成两半”。",
+    "reason": "“cross the motorway without losing their habitat”因果倒置：栖息地是被公路分割的，不是动物过路时失去的。"
+  }
+]

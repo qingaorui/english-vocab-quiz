@@ -1,5 +1,4 @@
-/* Unit 2 — Eating Healthy
-   词条来源：教材 Words and Phrases, UNIT 2（Part One / Two / Three） */
+/* 教材词汇基础题库（38 题）— 审校修复后由 build/patch-base.js 重写 */
 window.QUIZ_BANK = window.QUIZ_BANK || [];
 window.QUIZ_BANK.push(
   {
@@ -16,7 +15,7 @@ window.QUIZ_BANK.push(
     options: ["crawl", "climb", "crowd", "crash"],
     answer: "crawl",
     meaning: "（昆虫）爬行",
-    note: "教材对 crawl 的释义就是“（昆虫）在腿上爬行”；insects across the floor 指向贴地爬动。climb 是“攀爬（向上）”，crowd 是“拥挤”，crash 是“碰撞”。"
+    note: "crawl 指身体贴着地面缓慢移动，主语常是昆虫、婴儿；insects across the kitchen floor 正是这种贴地爬动。climb 强调向上攀爬，crowd 是“拥挤、挤满”，crash 是“碰撞、撞上”。"
   },
   {
     id: "u2-03", unit: 2, word: "cockroach", pos: "n.", level: "四级",
@@ -45,10 +44,10 @@ window.QUIZ_BANK.push(
   {
     id: "u2-06", unit: 2, word: "prevalent", pos: "adj.", level: "四级",
     sentence: "Obesity has become increasingly ____ among children in developed countries.",
-    options: ["prevalent", "precious", "present", "permanent"],
+    options: ["prevalent", "precious", "preventive", "permanent"],
     answer: "prevalent",
     meaning: "流行的；普遍存在的",
-    note: "prevalent 强调某种现象“在某范围内普遍存在”，常与 increasingly、among 连用。precious 是“珍贵的”，permanent 是“永久的”。"
+    note: "prevalent 表示某种现象在某一范围内“普遍存在”，常与 increasingly、among 连用。precious 是“珍贵的”，preventive 是“预防的”，permanent 是“永久的”，都不能说某现象在儿童中“越来越……”。"
   },
   {
     id: "u2-07", unit: 2, word: "pricey", pos: "adj.", level: "四级",
@@ -304,6 +303,6 @@ window.QUIZ_BANK.push(
     options: ["tender", "tough", "tense", "tidy"],
     answer: "tender",
     meaning: "（食物）嫩的；柔软的",
-    note: "能 used 勺子切开，说明肉“很嫩”。tough 是“（肉）老的、嚼不动的”，方向相反；tense 是“紧张的”，tidy 是“整洁的”。"
+    note: "煮两小时直到能用勺子切开，说明肉“很嫩”。tough 是“（肉）老的、嚼不动的”，方向相反；tense 是“紧张的”，tidy 是“整洁的”。"
   }
 );

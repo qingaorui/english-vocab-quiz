@@ -1,0 +1,392 @@
+[
+  {
+    "word": "felt-tip pen",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Press too hard and the soft tip of a ____ will splay into a fuzzy brush, so the lettering tutor tells every beginner to keep a light hand.",
+    "options": [
+      "felt-tip pen",
+      "ballpoint pen",
+      "fountain pen",
+      "gel pen"
+    ],
+    "answer": "felt-tip pen",
+    "meaning": "笔尖由多孔纤维制成的毡头笔",
+    "note": "splay into a fuzzy brush 说的是纤维笔尖受压散开；ballpoint 靠小滚珠出墨，fountain 是金属笔尖，gel 也是走珠式笔尖，三者压了都不会分叉变形。"
+  },
+  {
+    "word": "felt-tip pen",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "To make the colour-coded timeline legible from the back of the lecture hall, Maya swapped her usual pencil for a ____ and produced wide, even strokes on the poster.",
+    "options": [
+      "felt-tip pen",
+      "ballpoint pen",
+      "fountain pen",
+      "gel pen"
+    ],
+    "answer": "felt-tip pen",
+    "meaning": "能画出较宽笔画的毡头纤维笔",
+    "note": "wide, even strokes 要靠毡头笔的粗纤维尖；ballpoint 与 gel 出的是细线，fountain 的金属笔尖墨色随压力变化，都画不出海报式均匀宽笔画。"
+  },
+  {
+    "word": "on the spot",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Impressed by how calmly the intern handled the angry customer, the manager offered her a permanent contract ____, without even consulting the human resources department.",
+    "options": [
+      "on the spot",
+      "on the dot",
+      "on the way",
+      "on the whole"
+    ],
+    "answer": "on the spot",
+    "meaning": "当场，立即，没有拖延地",
+    "note": "without even consulting HR 说明决定是当场作出的；on the dot 指准时守点，on the way 指在路上，on the whole 指总体而言，都不表示立即做决定。"
+  },
+  {
+    "word": "on the spot",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Asked to say a few words at the alumni dinner, Professor Lin ____ recalled a story about the dormitory, which surprised students who had assumed he had prepared a careful script.",
+    "options": [
+      "on the spot",
+      "on the dot",
+      "on the way",
+      "on the whole"
+    ],
+    "answer": "on the spot",
+    "meaning": "当场即兴地，事前无准备",
+    "note": "同学们以为他准备了讲稿，与 prepared a careful script 形成反差，说明故事是当场即兴讲的；on the dot 是准时，on the way 是在路上，on the whole 是总体上。"
+  },
+  {
+    "word": "factor in",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Before signing a lease, first-year students are advised to ____ the fare home at the end of term, since the tickets alone can swallow a month's allowance.",
+    "options": [
+      "factor in",
+      "factor out",
+      "trade in",
+      "phase in"
+    ],
+    "answer": "factor in",
+    "meaning": "把…计算在内，考虑进去",
+    "note": "since 从句说车票能吃掉一个月生活费，所以要把它算进预算；factor out 恰相反，是把某因素排除在计算外；trade in 指旧物折价换新；phase in 指新措施分阶段推行。"
+  },
+  {
+    "word": "factor in",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The extra traffic that the new bypass would bring had not been ____ when the junction was designed, so queues now stretch half a mile at peak times.",
+    "options": [
+      "factored in",
+      "factored out",
+      "traded in",
+      "phased in"
+    ],
+    "answer": "factored in",
+    "meaning": "被计算在内，被考虑进去",
+    "note": "so 从句说高峰时段车流排出半英里，可见设计路口时没把绕城路带来的额外车流算进去；factored out 意为不计入，与拥堵的结果矛盾；traded in 是以旧换新，phased in 是分阶段实施。"
+  },
+  {
+    "word": "be inclined to",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Because the professor rarely checks attendance, most of the class ____ skip the eight o'clock sessions and revise from the slides instead.",
+    "options": [
+      "were inclined to",
+      "were obliged to",
+      "were entitled to",
+      "were expected to"
+    ],
+    "answer": "were inclined to",
+    "meaning": "倾向于，往往会做某事",
+    "note": "前半句给出「很少点名」这一诱因，instead 又说明学生自己选择看课件；were obliged to 是被迫，were entitled to 是有权享有，were expected to 是被期待，都不表示自身倾向。"
+  },
+  {
+    "word": "be inclined to",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Shy students ____ keep quiet in seminars unless the tutor calls on them by name, so many departments now assign rotating speaking roles.",
+    "options": [
+      "are inclined to",
+      "are reluctant to",
+      "are about to",
+      "are entitled to"
+    ],
+    "answer": "are inclined to",
+    "meaning": "倾向于，容易做某事",
+    "note": "so 从句说各系要安排轮流发言，正因为害羞的学生习惯性沉默；are reluctant to keep quiet 意为不愿沉默，与 shy 矛盾；are about to 表示即将发生，与长期的性格倾向不符；are entitled to 表有权，不解释各系为何要安排轮流发言。"
+  },
+  {
+    "word": "hang out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "On Friday afternoons the chess club members usually ____ in the student union café, arguing about openings over cheap coffee until the cleaners arrive.",
+    "options": [
+      "hang out",
+      "hang up",
+      "hang on",
+      "hang back"
+    ],
+    "answer": "hang out",
+    "meaning": "与朋友一起闲逛、消磨时间",
+    "note": "arguing until the cleaners arrive 写一群人消磨整个下午；hang up 是挂断电话或挂起衣物，hang on 是稍等或抓紧，hang back 是迟疑不前，都不能与 café 搭配表示聚会。"
+  },
+  {
+    "word": "hang out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Instead of heading home after the lab, the three of them ____ at the night market for hours, tasting skewers and bargaining over phone cases.",
+    "options": [
+      "hung out",
+      "hung up",
+      "hung on",
+      "hung back"
+    ],
+    "answer": "hung out",
+    "meaning": "结伴闲逛，一起打发时间",
+    "note": "for hours 加 tasting、bargaining 写几个人在夜市消磨时间；hung up 是挂断，hung on 是抓住不放或稍等，hung back 是畏缩落后，都不表示结伴闲逛。"
+  },
+  {
+    "word": "at the helm",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "With the club's founder graduating in June, everyone wondered who would be ____ when the new season began and the membership drive started.",
+    "options": [
+      "at the helm",
+      "in the dark",
+      "on the spot",
+      "under the weather"
+    ],
+    "answer": "at the helm",
+    "meaning": "掌舵，处于领导主管的位置",
+    "note": "创办人毕业引出「谁来接手主持大局」的问题；in the dark 指不知情，on the spot 指到现场或当场，under the weather 指身体不适，都不能表示担任负责人。"
+  },
+  {
+    "word": "at the helm",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Throughout the three-week crossing it was the captain's daughter who stood ____, steering past rocks in the fog while the crew mended nets below deck.",
+    "options": [
+      "at the helm",
+      "at the bow",
+      "at the stern",
+      "at the dock"
+    ],
+    "answer": "at the helm",
+    "meaning": "掌舵，站在舵轮旁驾驶船只",
+    "note": "steering past rocks 说明她在操舵；at the bow 是船头，at the stern 是船尾，at the dock 是码头，都只是船上或岸边的位置，不含驾驶之意。"
+  },
+  {
+    "word": "be taken with",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "At first the committee was sceptical, but after a single trial week everyone ____ the plan and voted to fund it for a full year.",
+    "options": [
+      "was taken with",
+      "was put off",
+      "was taken for",
+      "was taken in"
+    ],
+    "answer": "was taken with",
+    "meaning": "被…吸引，对…产生好感",
+    "note": "but 与 voted to fund 表明态度由怀疑转为喜欢；was put off 是被打消兴趣，与拨款矛盾；was taken for 后接表身份的名词，意为被误认为；was taken in 是被骗。"
+  },
+  {
+    "word": "be taken with",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "The admissions tutor ____ the candidate's portfolio the moment she opened it, and later admitted that the sketches had decided the interview before it began.",
+    "options": [
+      "was taken with",
+      "was taken aback",
+      "was taken over",
+      "was taken up"
+    ],
+    "answer": "was taken with",
+    "meaning": "被…吸引，一看就很欣赏",
+    "note": "后半句说素描在面试开始前就定了结果，说明导师一看作品集就喜欢；was taken aback 表吃惊且须与 by 连用；was taken over 是被接管，was taken up 是被占用或开始从事。"
+  },
+  {
+    "word": "branch out",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "After a decade of selling only second-hand paperbacks, the family bookshop ____ last spring, adding stationery, board games and a tiny gallery to its crowded shelves.",
+    "options": [
+      "branched out",
+      "branched off",
+      "broke out",
+      "brought out"
+    ],
+    "answer": "branched out",
+    "meaning": "拓展业务，向新的领域发展",
+    "note": "adding stationery and board games 说明书店在旧书之外增加了新品类；branched off 指道路或管道分岔；broke out 指战争、火灾爆发；brought out 须接产品作宾语，意为推出。"
+  },
+  {
+    "word": "branch out",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Now that the children have left home, she plans to ____ into pottery, something she has wanted to try since her own school days.",
+    "options": [
+      "branch out",
+      "branch off",
+      "carry out",
+      "phase out"
+    ],
+    "answer": "branch out",
+    "meaning": "拓展业务，涉足新的经营领域",
+    "note": "branch out into 指在原有领域之外开拓新方向，此处指开始一项新爱好；branch off 指道路、线路分岔；carry out 后直接接计划、任务作宾语；phase out 指逐步淘汰。"
+  },
+  {
+    "word": "have sth in common",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Although they grew up in different provinces, the two roommates soon discovered that they ____, from a taste for spicy noodles to a habit of studying after midnight.",
+    "options": [
+      "had a lot in common",
+      "had a lot to offer",
+      "had a lot in store",
+      "had a lot at stake"
+    ],
+    "answer": "had a lot in common",
+    "meaning": "有很多共同之处，趣味相投",
+    "note": "from ... to ... 列举两人相同的口味与作息，正是共同点；had a lot to offer 指能提供很多，had a lot in store 指将来会有很多事，had a lot at stake 指利害攸关。"
+  },
+  {
+    "word": "have sth in common",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Before matching each mentor with a first-year student, the programme compares their hobbies and reading habits, on the theory that pairs who ____ will talk more freely.",
+    "options": [
+      "have much in common",
+      "have much to offer",
+      "have much in store",
+      "have much at stake"
+    ],
+    "answer": "have much in common",
+    "meaning": "有较多共同点，合得来",
+    "note": "把两人的爱好和阅读习惯拿来比对，说明要挑的是有共同点的一对；have much to offer 指能贡献很多，have much in store 指将来会有很多，have much at stake 指利害重大，都不表示彼此相近。"
+  },
+  {
+    "word": "sleep in",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Since my first lecture is not until eleven, I usually ____ on weekday mornings, while my roommate, who has a nine o'clock lab, is already out the door.",
+    "options": [
+      "sleep in",
+      "sleep off",
+      "sleep on",
+      "sleep over"
+    ],
+    "answer": "sleep in",
+    "meaning": "睡懒觉，早上故意多睡一会儿",
+    "note": "前句说第一节课十一点才开始，与九点就得出门的室友形成对比，说明自己上午赖床晚起；sleep off 后接头痛、疲劳，意为睡一觉消除；sleep on 后接待议之事，意为暂缓决定；sleep over 指在别人家过夜。"
+  },
+  {
+    "word": "sleep in",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "We had planned to hike at dawn, but after the long flight everyone ____ instead, and we only reached the trailhead after lunch.",
+    "options": [
+      "slept in",
+      "slept off",
+      "slept on",
+      "slept over"
+    ],
+    "answer": "slept in",
+    "meaning": "睡懒觉，睡过了原定时间",
+    "note": "but 与 after lunch 说明黎明出发的计划落空，大家起晚了；slept off 须接疲劳、头痛等宾语；slept on 须接待议之事，意为改日再定；slept over 指在别人家过夜。"
+  },
+  {
+    "word": "check out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Students may ____ as many as ten books at once, provided that nothing overdue is still on their account.",
+    "options": [
+      "check out",
+      "check in",
+      "check up",
+      "check off"
+    ],
+    "answer": "check out",
+    "meaning": "从图书馆办理借出手续",
+    "note": "nothing overdue on their account 是借书时系统设的条件，说明这里讲借出；check in 在图书馆语境指还书，方向正好相反；check up 多与 on 连用表核查，check off 是逐项打勾。"
+  },
+  {
+    "word": "check out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Before the contract was signed, the club treasurer insisted on ____ each clause with a lawyer, and that caution later saved the society nearly two thousand yuan.",
+    "options": [
+      "checking out",
+      "checking in",
+      "checking up",
+      "checking off"
+    ],
+    "answer": "checking out",
+    "meaning": "仔细查看，逐条核对内容",
+    "note": "省下两千元说明她逐条核查过合同条款；checking off 只是逐项打勾，查不出问题；checking in 是报到入住；checking up 须与 on 连用才成立。"
+  },
+  {
+    "word": "figure out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "____ why the heating kept shutting down at night took the maintenance crew almost two days; the culprit was a timer wired to the wrong circuit.",
+    "options": [
+      "Figuring out",
+      "Figuring in",
+      "Figuring on",
+      "Turning out"
+    ],
+    "answer": "Figuring out",
+    "meaning": "查明原因，弄明白其中缘由",
+    "note": "why 从句作宾语，只有 figure out 能接疑问从句表示找出原因；figure in 是动宾结构，须接具体项目；figure on 后接名词或动名词，意为指望；turn out 不接 why 从句。"
+  },
+  {
+    "word": "figure out",
+    "pos": "phr.",
+    "level": "四级",
+    "sentence": "Rather than guess at the total, the treasurer sat down with a pencil and ____ exactly how much each member still owed after the trip.",
+    "options": [
+      "figured out",
+      "figured in",
+      "figured on",
+      "turned out"
+    ],
+    "answer": "figured out",
+    "meaning": "算出总数，用笔计算出来",
+    "note": "Rather than guess 要求与「猜」相反的「算出来」，exactly how much 正是它的宾语；figured in 指把某项算进去，须接具体项目；figured on 意为指望；turned out 意为结果是。"
+  },
+  {
+    "word": "narrow down",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "With forty applications on her desk, the coach used fitness tests and short interviews to ____ the list to six finalists before the final trial.",
+    "options": [
+      "narrow down",
+      "tone down",
+      "water down",
+      "slow down"
+    ],
+    "answer": "narrow down",
+    "meaning": "缩小范围，把名单减到",
+    "note": "四十份申请只留六人，是从多到少压缩名单；tone down 指语气或颜色缓和，water down 指削弱内容、稀释，slow down 指放慢速度，都接不了 the list to six。"
+  },
+  {
+    "word": "narrow down",
+    "pos": "phr.",
+    "level": "六级",
+    "sentence": "Thanks to a neighbour's security camera, the time of the break-in ____ to a twenty-minute window before the detectives had even arrived.",
+    "options": [
+      "was narrowed down",
+      "was toned down",
+      "was watered down",
+      "was slowed down"
+    ],
+    "answer": "was narrowed down",
+    "meaning": "被缩小范围，被缩减到",
+    "note": "narrow down 指把范围收窄；这里把作案时间压缩到二十分钟的区间；was toned down 指被缓和，was watered down 指被削弱，was slowed down 指被放慢，都不能表示范围缩到某个区间。"
+  }
+]

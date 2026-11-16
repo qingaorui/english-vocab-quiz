@@ -1,0 +1,602 @@
+[
+  {
+    "word": "emission",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Scientists say that unless industrial ____ are cut by half before 2035, the temperature targets agreed in Paris will slip out of reach.",
+    "options": [
+      "emissions",
+      "omissions",
+      "commissions",
+      "admissions"
+    ],
+    "answer": "emissions",
+    "meaning": "排放物（尤指工业废气）",
+    "note": "emissions 指工厂排出的废气；omissions 是遗漏、疏忽，commissions 是佣金或委员会，admissions 是承认或录取，都不指工业废气，也不能与 cut 搭配表示减排。"
+  },
+  {
+    "word": "carbon",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Analysts estimate that replacing the coal-fired heating plant with gas would cut the campus's ____ output by nearly a third within four years.",
+    "options": [
+      "carbon",
+      "oxygen",
+      "nitrogen",
+      "hydrogen"
+    ],
+    "answer": "carbon",
+    "meaning": "碳（与排放量相关）",
+    "note": "carbon output 指燃烧产生的碳排放量；oxygen 是氧气，nitrogen 是氮气，hydrogen 是氢气，三者都不是衡量供热系统排放多少的指标。"
+  },
+  {
+    "word": "renewable",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Having no oil, coal or gas of its own, the island now runs almost entirely on power that is genuinely ____, mostly from wind and small hydro plants.",
+    "options": [
+      "renewable",
+      "recyclable",
+      "reusable",
+      "repairable"
+    ],
+    "answer": "renewable",
+    "meaning": "可再生的（能源）",
+    "note": "renewable 指风、光、水等可再生的能源；recyclable 指材料可回收，reusable 指容器可重复使用，repairable 指物品可修理，都不修饰 power 表示能源类型。"
+  },
+  {
+    "word": "fossil",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "Student activists are pressing the university to sell its shares in ____ fuel companies, arguing that it should not profit from the very industry it teaches students to criticise.",
+    "options": [
+      "fossil",
+      "fertile",
+      "federal",
+      "feudal"
+    ],
+    "answer": "fossil",
+    "meaning": "化石（燃料）的",
+    "note": "fossil fuels 指煤、石油、天然气等化石燃料；fertile 是肥沃的，federal 是联邦的，feudal 是封建的，都不能与 fuel 搭配指燃料类型。"
+  },
+  {
+    "word": "pollution",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Residents living beside the chemical plant complain that the ____ has grown so bad that the river below them no longer supports any fish at all.",
+    "options": [
+      "pollution",
+      "population",
+      "possession",
+      "proportion"
+    ],
+    "answer": "pollution",
+    "meaning": "污染",
+    "note": "pollution 指水体被污染的状况；population 是人口，possession 是拥有物，proportion 是比例，三者都不能用 bad 描述，也不会导致河中鱼类绝迹。"
+  },
+  {
+    "word": "biodiversity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Biologists warn that draining the marsh would destroy the ____ of the region, wiping out dozens of insects and plants that are found nowhere else on earth.",
+    "options": [
+      "biodiversity",
+      "biotechnology",
+      "biochemistry",
+      "biography"
+    ],
+    "answer": "biodiversity",
+    "meaning": "生物多样性",
+    "note": "biodiversity 指一个地区物种的多样性；biotechnology 是生物技术，biochemistry 是生物化学，biography 是传记，都不是抽干沼泽会破坏的自然属性。"
+  },
+  {
+    "word": "ecosystem",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "When the last wolves were removed in the 1920s, the whole ____ of the valley shifted within a decade, as deer multiplied and stripped the young trees bare.",
+    "options": [
+      "ecosystem",
+      "economy",
+      "ecotourism",
+      "epidemic"
+    ],
+    "answer": "ecosystem",
+    "meaning": "生态系统",
+    "note": "ecosystem 指生物与环境长期相互作用形成的整体；economy 是经济，ecotourism 是生态旅游，epidemic 是流行病，都不能指狼、鹿与树木彼此牵制的系统。"
+  },
+  {
+    "word": "conservation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Spending on ____ takes most of the charity's income, which it uses to buy strips of land linking isolated woods so that animals can move between them.",
+    "options": [
+      "conservation",
+      "conversation",
+      "conversion",
+      "reservation"
+    ],
+    "answer": "conservation",
+    "meaning": "（自然资源的）保护",
+    "note": "conservation 指对森林、物种等自然资源的保护；conversation 是谈话，conversion 是转变，reservation 是预订或保留地，都与买地连通林地无关。"
+  },
+  {
+    "word": "deforestation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Satellite photographs show that ____ has slowed sharply in the past two years, mainly because farmers are now paid to keep the trees standing instead of clearing them.",
+    "options": [
+      "deforestation",
+      "devaluation",
+      "dehydration",
+      "desalination"
+    ],
+    "answer": "deforestation",
+    "meaning": "森林砍伐",
+    "note": "deforestation 指大面积砍伐森林；devaluation 是货币贬值，dehydration 是脱水，desalination 是海水淡化，都不能与农民留着树木不砍的语境对应。"
+  },
+  {
+    "word": "drought",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Three winters with almost no rain have left the wells dry and the pasture brown, and farmers are calling this the worst ____ in living memory.",
+    "options": [
+      "drought",
+      "flood",
+      "storm",
+      "frost"
+    ],
+    "answer": "drought",
+    "meaning": "干旱",
+    "note": "drought 指长期缺雨造成的干旱；flood 是洪水，storm 是暴风雨，frost 是霜冻，都不会因几个冬天几乎不下雨而持续数年。"
+  },
+  {
+    "word": "flood",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "After four days of torrential rain the river burst its banks, and the ____ that followed carried away two bridges and forced hundreds of families to higher ground.",
+    "options": [
+      "flood",
+      "drought",
+      "landslide",
+      "wildfire"
+    ],
+    "answer": "flood",
+    "meaning": "洪水",
+    "note": "flood 指河水暴涨、淹没陆地的洪水；drought 是干旱，与暴雨决堤正相反；landslide 是山体滑坡，wildfire 是野火，都不由河水漫堤直接造成。"
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Road builders have agreed to build two wildlife bridges so that deer and foxes, whose ____ the new motorway has cut in two, can still reach the woods on either side.",
+    "options": [
+      "habitat",
+      "habit",
+      "inhabitant",
+      "habitation"
+    ],
+    "answer": "habitat",
+    "meaning": "栖息地",
+    "note": "habitat 指动物栖息的天然环境，这里指被新修公路切成两半的栖息地；habit 是习惯，inhabitant 是居民，habitation 指居住这一状态或住所，都不可能被公路“切成两半”。"
+  },
+  {
+    "word": "endangered",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "The zoo's breeding programme is focused on ____ species such as the snow leopard, whose wild population is now thought to be below four thousand.",
+    "options": [
+      "endangered",
+      "dangerous",
+      "endearing",
+      "enlarged"
+    ],
+    "answer": "endangered",
+    "meaning": "濒危的",
+    "note": "endangered species 指濒临灭绝的物种；dangerous 是危险的，endearing 是讨人喜欢的，enlarged 是扩大了的，都与野外数量不足四千无关。"
+  },
+  {
+    "word": "extinction",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Unless fishing in these waters is tightly controlled, scientists fear the species could be driven to ____ within a single decade.",
+    "options": [
+      "extinction",
+      "distinction",
+      "extension",
+      "exclusion"
+    ],
+    "answer": "extinction",
+    "meaning": "灭绝",
+    "note": "drive a species to extinction 是固定说法，指使物种灭绝；distinction 是区别或荣誉，extension 是延长，exclusion 是排除，都不能与 driven to 搭配表示消失。"
+  },
+  {
+    "word": "recycle",
+    "pos": "v.",
+    "level": "四级",
+    "sentence": "The new campus rules ask every canteen to ____ its cardboard boxes and plastic crates instead of sending them to the incinerator with the general rubbish.",
+    "options": [
+      "recycle",
+      "replace",
+      "restore",
+      "reschedule"
+    ],
+    "answer": "recycle",
+    "meaning": "回收利用",
+    "note": "recycle 指把废纸箱、塑料箱回收再利用；replace 表替换时须与 with 连用，restore 是恢复原状，reschedule 是重排时间，都与焚烧形成不了对比。"
+  },
+  {
+    "word": "landfill",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Nearly a third of the food bought in this country is thrown away, and most of it ends up in ____, where it rots and gives off methane.",
+    "options": [
+      "landfill",
+      "landscape",
+      "landmark",
+      "mainland"
+    ],
+    "answer": "landfill",
+    "meaning": "垃圾填埋场",
+    "note": "landfill 指集中堆放垃圾的填埋场；landscape 是风景，landmark 是地标，mainland 是大陆，三者都不是食物腐烂并释放沼气的场所。"
+  },
+  {
+    "word": "plastic",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "Because ____ takes hundreds of years to break down, every bottle that reaches the sea will still be there long after the person who dropped it has gone.",
+    "options": [
+      "plastic",
+      "cardboard",
+      "timber",
+      "cotton"
+    ],
+    "answer": "plastic",
+    "meaning": "塑料",
+    "note": "plastic 是常见包装材料中唯一需要数百年才分解的；cardboard 是纸板，timber 是木材，cotton 是棉，在自然环境中都会较快腐烂。"
+  },
+  {
+    "word": "climate",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The vines that once ripened here every autumn no longer do so, because the ____ has warmed by nearly two degrees since the 1980s.",
+    "options": [
+      "climate",
+      "weather",
+      "temperature",
+      "season"
+    ],
+    "answer": "climate",
+    "meaning": "气候",
+    "note": "climate 指一个地区长期的天气状况；weather 是短期天气，不会说几十年间升高两度；temperature 习惯与 rise 搭配而非 warm；season 是季节，无所谓冷暖升降。"
+  },
+  {
+    "word": "greenhouse",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "On the roof of the supermarket, a glass ____ now supplies the salad bar with herbs all winter, heated partly by waste heat from the ovens below.",
+    "options": [
+      "greenhouse",
+      "warehouse",
+      "farmhouse",
+      "lighthouse"
+    ],
+    "answer": "greenhouse",
+    "meaning": "温室",
+    "note": "greenhouse 指用玻璃采光保温、可以种花草的温室；warehouse 是仓库，farmhouse 是农舍，lighthouse 是灯塔，都不能在屋顶种植香草。"
+  },
+  {
+    "word": "ozone",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Measurements over Antarctica suggest that the ____ layer is slowly recovering, thirty years after the chemicals that were eating it away were banned worldwide.",
+    "options": [
+      "ozone",
+      "oxygen",
+      "oxide",
+      "nitrogen"
+    ],
+    "answer": "ozone",
+    "meaning": "臭氧",
+    "note": "ozone layer 指大气中的臭氧层；oxygen 是氧气，oxide 是氧化物，nitrogen 是氮气，都不能成层，也不会被制冷剂一类的化学品破坏。"
+  },
+  {
+    "word": "degradation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Too many goats have grazed the hillside bare, so that little grows there now and every heavy rain washes more soil into the valley, in what scientists describe as serious ____.",
+    "options": [
+      "degradation",
+      "decoration",
+      "delegation",
+      "dedication"
+    ],
+    "answer": "degradation",
+    "meaning": "退化",
+    "note": "degradation 指土地质量下降、退化；decoration 是装饰，delegation 是代表团或授权，dedication 是奉献，都不能描述过度放牧后水土流失的情形。"
+  },
+  {
+    "word": "depletion",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The ____ of fish stocks in the North Sea pushed several coastal towns into decline long before the catch quotas were finally introduced.",
+    "options": [
+      "depletion",
+      "completion",
+      "deletion",
+      "competition"
+    ],
+    "answer": "depletion",
+    "meaning": "枯竭；耗竭",
+    "note": "depletion 指资源被过度消耗而枯竭；completion 是完成，deletion 是删去文字，competition 是竞争，都不能解释鱼群锐减和渔镇衰落。"
+  },
+  {
+    "word": "solar",
+    "pos": "adj.",
+    "level": "四级",
+    "sentence": "The dairy farm has covered its barn roof with ____ panels and now sells the surplus electricity back to the grid on bright afternoons.",
+    "options": [
+      "solar",
+      "lunar",
+      "polar",
+      "stellar"
+    ],
+    "answer": "solar",
+    "meaning": "太阳能的",
+    "note": "solar panels 指靠阳光发电的太阳能板；lunar 与月亮有关，polar 是极地的，stellar 是恒星的，都无法与 bright afternoons 和发电量对应。"
+  },
+  {
+    "word": "turbine",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Each ____ in the offshore wind farm stands almost two hundred metres tall, and a single one can supply six thousand homes on a windy day.",
+    "options": [
+      "turbine",
+      "tunnel",
+      "turnstile",
+      "turntable"
+    ],
+    "answer": "turbine",
+    "meaning": "涡轮机；风力发电机",
+    "note": "turbine 指风力发电机；tunnel 是隧道，turnstile 是闸机，turntable 是转盘，都不会立在海上、高近两百米并为六千户供电。"
+  },
+  {
+    "word": "footprint",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The university has calculated the ____ of its new library, counting the concrete, the steel and the thousands of miles the materials travelled.",
+    "options": [
+      "footprint",
+      "fingerprint",
+      "blueprint",
+      "footpath"
+    ],
+    "answer": "footprint",
+    "meaning": "（环境）足迹",
+    "note": "footprint 在此指建筑从建材生产到运输造成的环境足迹；fingerprint 是指纹，blueprint 是蓝图，footpath 是小径，都不能用混凝土和运输里程来计算。"
+  },
+  {
+    "word": "offset",
+    "pos": "v.",
+    "level": "六级",
+    "sentence": "The extra charge on long-haul tickets is supposed to ____ the damage the flight does to the atmosphere, but nobody can say how the money is actually spent.",
+    "options": [
+      "offset",
+      "outlive",
+      "outlaw",
+      "outnumber"
+    ],
+    "answer": "offset",
+    "meaning": "抵消；补偿",
+    "note": "offset 指用某种补偿抵掉造成的损害；outlive 是比什么活得久，outlaw 的宾语应是行为而不是 damage，outnumber 是数量上超过，都无法表示补偿。"
+  },
+  {
+    "word": "irrigation",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Without ____, these fields would produce almost nothing, since the region receives less than twenty centimetres of rain in a whole year.",
+    "options": [
+      "irrigation",
+      "irritation",
+      "isolation",
+      "imitation"
+    ],
+    "answer": "irrigation",
+    "meaning": "灌溉",
+    "note": "irrigation 指人工引水灌溉；irritation 是恼怒或刺激，isolation 是隔离，imitation 是模仿，都不是少雨地区让农田长出庄稼的手段。"
+  },
+  {
+    "word": "erosion",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Every winter the sea takes another metre of the cliff, and the council warns that this ____ will soon threaten the cottages at the top.",
+    "options": [
+      "erosion",
+      "corrosion",
+      "explosion",
+      "exclusion"
+    ],
+    "answer": "erosion",
+    "meaning": "侵蚀",
+    "note": "erosion 指岩石或土壤被海水、雨水一点点冲刷掉；corrosion 是金属锈蚀，explosion 是爆炸，exclusion 是排除，都不由海水逐年啃噬悬崖。"
+  },
+  {
+    "word": "wilderness",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Beyond the last car park the path enters real ____, where no road runs for thirty miles and the only sounds are wind and birds.",
+    "options": [
+      "wilderness",
+      "wildness",
+      "wildlife",
+      "willingness"
+    ],
+    "answer": "wilderness",
+    "meaning": "荒野",
+    "note": "wilderness 指无人居住、未开发的荒野，可以被“走进”；wildness 是野性这一性质，wildlife 指野生动物，willingness 是意愿，都不能这样用。"
+  },
+  {
+    "word": "species",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The island is home to more than two hundred ____ of birds, at least nine of which are found nowhere else on earth.",
+    "options": [
+      "species",
+      "spices",
+      "spaces",
+      "spheres"
+    ],
+    "answer": "species",
+    "meaning": "物种",
+    "note": "species 指物种，单复数同形，可说“两百种鸟”；spices 是香料，spaces 是空间，spheres 是球体或领域，都不能与岛上独有鸟类搭配。"
+  },
+  {
+    "word": "marine",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Oil washed up on the shore does the most damage to ____ mammals such as seals and dolphins, whose blubber stops working once it is coated.",
+    "options": [
+      "marine",
+      "maritime",
+      "submarine",
+      "maternal"
+    ],
+    "answer": "marine",
+    "meaning": "海洋的",
+    "note": "marine mammals 指海豹、海豚等海洋哺乳动物；maritime 指航海的或沿海的，submarine 指水下的，maternal 是母亲的，都不能直接修饰 mammals 表“海洋的”。"
+  },
+  {
+    "word": "toxic",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "The factory was fined heavily after tests showed that ____ waste had leaked into the stream and killed every fish for two kilometres downstream.",
+    "options": [
+      "toxic",
+      "tonic",
+      "tropical",
+      "typical"
+    ],
+    "answer": "toxic",
+    "meaning": "有毒的",
+    "note": "toxic waste 指有毒废料，能毒死鱼类；tonic 是滋补的，tropical 是热带的，typical 是典型的，都不能解释下游鱼类成批死亡。"
+  },
+  {
+    "word": "waste",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The hospital now sorts its ____ into five streams, so that gloves, glass, paper and food scraps each go to a different treatment plant.",
+    "options": [
+      "waste",
+      "waist",
+      "haste",
+      "taste"
+    ],
+    "answer": "waste",
+    "meaning": "废弃物",
+    "note": "waste 指可以按材质分类处理的废弃物；waist 是腰部，haste 是匆忙，taste 是味道或品味，都不能被分成五类送往不同的处理厂。"
+  },
+  {
+    "word": "disposable",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "Cafés on campus have stopped handing out ____ cups, and students who forget their own mugs now pay a small deposit at the counter.",
+    "options": [
+      "disposable",
+      "dispensable",
+      "desirable",
+      "dependable"
+    ],
+    "answer": "disposable",
+    "meaning": "一次性的",
+    "note": "disposable cups 指用一次就扔的杯子，与自带杯子形成对比；dispensable 是可有可无的，desirable 是值得拥有的，dependable 是可靠的，都不表示一次性。"
+  },
+  {
+    "word": "biodegradable",
+    "pos": "adj.",
+    "level": "六级",
+    "sentence": "The festival's food stalls now use ____ forks, spoons and plates, all of which break down in the compost heap within about eight weeks.",
+    "options": [
+      "biodegradable",
+      "biological",
+      "biomedical",
+      "biographical"
+    ],
+    "answer": "biodegradable",
+    "meaning": "可生物降解的",
+    "note": "biodegradable 指能被微生物分解；biological 是生物的，biomedical 是生物医学的，biographical 是传记的，都不能说明餐具能在堆肥中烂掉。"
+  },
+  {
+    "word": "scarcity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The ____ of clean water in the region has forced families to buy from tankers at ten times the price of the piped supply.",
+    "options": [
+      "scarcity",
+      "sincerity",
+      "celebrity",
+      "similarity"
+    ],
+    "answer": "scarcity",
+    "meaning": "稀缺",
+    "note": "scarcity 指某样东西稀缺、供不应求；sincerity 是真诚，celebrity 是名人，similarity 是相似性，都不能解释人们花十倍价钱买水。"
+  },
+  {
+    "word": "sewage",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "Untreated ____ from the town's drains runs straight into the bay, and bathers are warned to stay out of the water for two days after heavy rain.",
+    "options": [
+      "sewage",
+      "garbage",
+      "rubbish",
+      "litter"
+    ],
+    "answer": "sewage",
+    "meaning": "污水；下水道污物",
+    "note": "sewage 指下水道里的污水和排泄物，未经处理会随雨水溢流入海；garbage、rubbish、litter 都是固体垃圾，不走下水道，也不用 untreated 修饰。"
+  },
+  {
+    "word": "reservoir",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "After a dry spring, the ____ behind the dam has fallen to a quarter of its capacity, and the city may have to ration water this summer.",
+    "options": [
+      "reservoir",
+      "reserve",
+      "resort",
+      "residence"
+    ],
+    "answer": "reservoir",
+    "meaning": "水库",
+    "note": "reservoir 指拦坝蓄水的水库，可按库容算水量；reserve 是储备或保护区，resort 是度假地，residence 是住宅，都不能位于坝后并按容量计量。"
+  },
+  {
+    "word": "humidity",
+    "pos": "n.",
+    "level": "六级",
+    "sentence": "The ____ inside the glasshouse stays above eighty per cent, which is why the orchids flourish but the gardeners change their shirts at noon.",
+    "options": [
+      "humidity",
+      "humility",
+      "humanity",
+      "hospitality"
+    ],
+    "answer": "humidity",
+    "meaning": "湿度",
+    "note": "humidity 指空气中的湿度，可以用百分比衡量；humility 是谦逊，humanity 是人类或人道，hospitality 是好客，都不会随玻璃房环境升到八成。"
+  },
+  {
+    "word": "thermometer",
+    "pos": "n.",
+    "level": "四级",
+    "sentence": "The ____ on the classroom wall reads thirty-one degrees, so the teacher has moved the afternoon class to the shaded courtyard.",
+    "options": [
+      "thermometer",
+      "barometer",
+      "thermostat",
+      "odometer"
+    ],
+    "answer": "thermometer",
+    "meaning": "温度计",
+    "note": "thermometer 是温度计，能读出三十一度气温；barometer 是气压计，thermostat 是恒温器，用来调节而非读数，odometer 是里程表，记的是行驶里程。"
+  }
+]
